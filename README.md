@@ -1,3 +1,5 @@
 # Some Basic Codes for learning Python
 
-### **Usage:** ```python codename.py```
+### **Usage:** 
+For .py files: ```python codename.py```
+For .ipnb: ```jupyter notebook``` considering jupyter is installed
