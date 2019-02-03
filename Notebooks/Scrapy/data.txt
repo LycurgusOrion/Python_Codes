@@ -1,0 +1,2964 @@
+
+Real-time AR Monitor
+AR: 	
+NorP-IPT-1830-vGlobal
+Owned or Assigned ARs
+change
+At 12:17
+updates every 10 minutes
+New
+2	Assigned
+0	Re-Assigned
+29	In Progress
+99	Pending
+493	Resolved
+138	Closed
+ 	
+Reports:
+
+623 unresolved
+
+761 not closed
+
+623 Unresolved
+AR Number	Sev	Reported	Product	Company	Owner	Assignee	Last Modified	Next Contact	Short Description, Current Summary
+
+
+
+
+
+
+
+ 
+1-7447764	2	2019-02-02 11:41	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+No Selection	magc	magc	2019-02-02 11:55
+sdinodia	 	
+IM88955192 || Hardware//ORKNDPTUMH1NA1O32101//PF//Observing Card failure - device //Circle: OR //Site Name: KENDRAPARA//Slot: 1-36/1-19//Impacted Node: Collecto
+Under Investigation
+1-7447744	3	2019-02-02 10:11	1830 PSS-32	Axtel, S.A. De C.V.
+No Selection	gejimene	gejimene	2019-02-02 12:03
+gejimene	2019-02-04 11:30	
+Puebla-Izta | Corrección Valores Comisionamiento
+under investigation
+1-7447683	3	2019-02-02 05:03	1830 PSS-32	AZTECA COMUNICACIONES PERU S.A.C.
+No Selection	jesush	jesush	2019-02-02 05:30
+gejimene	2019-02-04 11:30	
+Ticket preventivo por upgrade de equipos: CastroVirreyna, Churcampa, Huancavelica, Pampas.
+Awaiting Customer Maintenance Window
+1-7447681	3	2019-02-02 04:58	1830 PSS-32	AZTECA COMUNICACIONES PERU S.A.C.	gejimene	gejimene	2019-02-02 05:31
+gejimene	2019-02-02 22:30	
+Ticket preventivo por upgrade de equipos: Alerta, Iñapari, Mazuko, Puerto Maldonado, Salvacion.
+Awaiting Customer Maintenance Window
+1-7447644	2	2019-02-02 03:00	1830 PSS-4	Bharti
+BHARTI DEWAS	abhisheg	abhisheg	2019-02-02 03:53
+abhisheg	2019-02-07 23:57	
+Node Unmanaged DVP-BLJK-THW-T-A1951
+Awaiting Customer Field Engineer Arrival
+1-7447561	4	2019-02-02 00:51	1830 PSS-16II	Claro Argentina
+No Selection	dcamposb	dcamposb	2019-02-02 01:26
+dcamposb	2019-02-12 11:30	
+Inconsistencies do not allow us to erase Infrastructure connections
+Requesting more information to Local Team
+1-7447527	1	2019-02-02 00:08	1830 PSS-32	VIVO
+No Selection	knaves	knaves	2019-02-02 02:42
+knaves	2019-02-04 17:30	
+Vivo_BR - PSS-32 - Customer informed that the services ID's 99012895 , 99012896 and 99016053 are having random error bit errors
+==== 01/02/2019--19h09 -- GMT-3 --> updated the firmware in the boards 112SNX10 slot1/15 and 2/15 in the node KJCPRA32-01. Monitoring for re-occurencies.
+1-7447525	2	2019-02-02 00:07	1830 PSS-32	Bharti
+BHARTI KANPUR	abhisheg	abhisheg	2019-02-02 06:07
+abhisheg	2019-02-05 23:27	
+LOF at 1-13-L1 of KAN-TGUP-CRS-T-A2113
+Issue resolved after rectifying the patch cord lossess:required FE at PPE-A2115 for card replacement at 2/8
+1-7447444	3	2019-02-01 21:59	1830 PSS-64	Saudi Telecom Company
+No Selection	abdul	abdul	2019-02-01 22:57
+abdul	2019-02-11 14:30	
+Customer is complaining for abnormal traffic from the interface under NI-172797 & PRN-92497.
+After checking we found no any issue on Nokia OTN path and there is no PM errors found in OTN nodes so asked customer to check further with other concern group.
+1-7447439	3	2019-02-01 21:59	1830 PSS-32	SFR FIXE
+SFR MITRY MORY SF	gaspar1	gaspar1	2019-02-02 07:01
+sadmi1	2019-02-04 16:30	
+A32-R-0000771919-01 nous avons des erreurs PCS sur l?interface 2/8/C1 out Group: Physical Code Sub Layer Location: 2/8/C1
+on garde le ticket on observation jusqu'a lundi
+1-7447436	2	2019-02-01 21:55	1830 PSS-64	Antel
+No Selection	eolvera	eolvera	2019-02-02 08:21
+eolvera	2019-02-04 11:30	
+Caída masiva de servicios que se recupera sin intervención
+Checking attached info
+1-7447320	3	2019-02-01 20:19	1830 PSS-64	Telefonica de Espana
+No Selection	anblanco	anblanco	2019-02-01 22:09
+anblanco	2019-02-22 22:30	
+Durante la auditoria previa al upgrade release 9.2.4 en el log HealthCare del equipo VG-CA-NOW1830OCS-1 (10.191.100.5) se observan los siguientes warnings:
+1-7447292	3	2019-02-01 19:53	1830 PSS-32	Bharti
+BHARTI UDAIPUR	afzalk	afzalk	2019-02-01 21:12
+afzalk	2019-02-07 23:59	
+Span Loss Mux ID A058 and A076
+Requested EPT File / Awaiting Receive Log Files / Technical Info
+1-7447178	2	2019-02-01 18:19	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+Nagapattinam Tamilnadu - Nagapattinam	magc	magc	2019-02-01 19:30
+magc	2019-02-06 23:00	
+Observing Card failure - Device alarm
+Awaiting Customer Field Engineer Arrival
+1-7447137	3	2019-02-01 17:36	1830 PSS-32	Vodafone Spain
+No Selection	amanzan	amanzan	2019-02-01 18:53
+amanzan	2019-04-26 16:30	
+WMX1190 no entra en supervisión en el OMS
+En observacion
+1-7447115	3	2019-02-01 17:21	1830 PSS-64	Vodafone Omnitel
+Milano IT - Milano 03	mafugall	mafugall	2019-02-01 22:22
+gfalasca	 	
+[preISU_OCS] Multiple alarms on MICTN003OCS
+1-7447109	2	2019-02-01 17:19	1830 PSS-32	AZTECA COMUNICACIONES PERU S.A.C.
+No Selection	gejimene	gejimene	2019-02-02 06:13
+gejimene	2019-02-02 22:30	
+PERDIDA DE ENLACE MAZUCO-MACUSANI
+fiber cuts found in macusani slot 1/3, also the amplifiers 1/17/Line on Mazuco doesnt have signal, 1/15/Line on Macusani doesnt have signal
+1-7447108	3	2019-02-01 17:18	1830 PSS-64	Vodafone Omnitel
+Milano IT - Milano 03	mafugall	mafugall	2019-02-01 22:30
+gfalasca	 	
+[preISU_OCS] Databearer/IFIPCC alarms on MICTN003OCS
+Under Investigation
+1-7447100	3	2019-02-01 17:05	1830 PSS-64	Vodafone Omnitel	mafugall	mafugall	2019-02-01 22:14
+gfalasca	 	
+[preISU_OCS] VF Assistance Request 1830PSS36/64-OCS: Multiple alarms on BOCTN002OCS
+1-7447079	3	2019-02-01 16:53	1830 PSS-64	Vodafone Omnitel
+Bologna IT - Bologna 02	mafugall	mafugall	2019-02-01 21:34
+gfalasca	 	
+[preISU_OCS] DATABEARER/IFIPCC alarms on BOCTN002OCS
+1-7447069	3	2019-02-01 16:42	1830 PSS-64	Vodafone Omnitel
+Firenze IT - Firenze 01	rloprete	rloprete	2019-02-01 19:22
+gfalasca	 	
+[preISU_OCS] Multple alarms on FICTN001#OCS
+Under Investigation
+1-7447053	3	2019-02-01 16:33	1830 PSS-64	Vodafone Omnitel
+Firenze IT - Firenze 01	rloprete	rloprete	2019-02-01 19:17
+gfalasca	 	
+[preISU_OCS] GMRE DATABEARER/IFIPCC DEG alarm on FICTN001#OCS
+Under Investigation
+1-7447044	3	2019-02-01 16:22	1830 PSS-64	Vodafone Omnitel
+Roma IT - Roma 04	pacamera	pacamera	2019-02-01 19:10
+gfalasca	 	
+[preISU_OCS] Multiple alarms on RMCTN004#OCS
+Under Investigation
+1-7447034	3	2019-02-01 16:17	1830 PSS-64	Vodafone Omnitel
+Roma IT - Roma 04	pacamera	pacamera	2019-02-01 17:21
+gfalasca	 	
+[preISU_OCS] VF Assistance Request 1830PSS36/64-OCS: GMRE DATABEARER/IFIPCC DEG alarm on RMCTN004#OCS
+Under Investigation
+1-7447023	3	2019-02-01 15:58	1830 PSS-64	Vodafone Omnitel
+Milano IT - Milano 04	rloprete	rloprete	2019-02-01 17:16
+gfalasca	 	
+[preISU_OCS] GMRE DATABEARER DEG alarm on MICTN004#OCS
+Under Investigation
+1-7447017	3	2019-02-01 15:46	1830 PSS-64	Vodafone Omnitel
+Roma IT - Roma 01 a	pacamera	pacamera	2019-02-01 16:14
+gfalasca	 	
+[preISU_OCS] Multiple alarms on RMCTN001#OCS
+Under Investigation
+1-7447016	3	2019-02-01 16:04	1830 PSS-64	Vodafone Omnitel
+Roma IT - Roma 01 a	pacamera	pacamera	2019-02-01 19:28
+gfalasca	 	
+[preISU_OCS] DATABEARER/IFIPCC Opstate down alarm on RMCTN001#OCS
+Under Investigation
+1-7446921	3	2019-02-01 14:52	1830 PSS-64	Vodafone Omnitel
+Bologna IT - Bologna 01	mafugall	mafugall	2019-02-01 15:42
+gfalasca	 	
+[preISU_OCS] - BOCTN001#OCS - swdown load alarm found detected
+Under Investigation
+1-7446920	3	2019-02-01 14:49	1830 PSS-64	Vodafone Omnitel
+Bologna IT - Bologna 01	mafugall	mafugall	2019-02-01 23:13
+gfalasca	2019-03-31 04:30	
+[preISU_OCS] BOCTN001OCS(3)[8]# show alarmState
+Under Investigation
+1-7446894	2	2019-02-01 14:24	1830 PSS-4	Bharti
+BHARTI GURGAON	agorle	agorle	2019-02-01 20:17
+agorle	2019-02-06 23:55	
+Validation of 11QPA4 with respect to E-SNCP.
+Under Investigation
+1-7446888	3	2019-02-01 14:15	1830 PSS-36	Vodafone Omnitel
+Verona IT - Verona 01	pacamera	pacamera	2019-02-01 23:10
+gfalasca	2019-02-13 04:30	
+[preISU_OCS] VRCTN001(3)[4]# show alarmState
+Under Investigation
+1-7446804	2	2019-02-01 12:59	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+Jalna Maharashtra - Jalna	preetigu	preetigu	2019-02-01 16:14
+magc	2019-02-06 23:00	
+unable to Detect Client XFP on 1/16/C2 at Jalna101 / 10.199.18.63, same XFP detecting on other ports of same  11QPA4 OT card but not on 1/16/C2
+Awaiting Customer Field Engineer Arrival
+1-7446724	1	2019-02-01 11:54	1830 PSS-32	Movistar Chile
+No Selection	rireyes	rireyes	2019-02-01 13:09
+rireyes	2019-02-28 11:30	
+1-7446724 Chile Movistar During software activation from rel. 1830PSSECX-9.1-1 to 1830PSSECX-11.0-1, We got
+01/02/2018 It is suggested to apply a physical reset on card 2/2 260SCX2 Card. in order to restore communication
+1-7446684	3	2019-02-01 10:49	1830 PSS-36	Telmex Mexico
+No Selection	acayo	acayo	2019-02-01 21:57
+alejands	2019-02-08 10:30	
+Análisis de Data Bearers degradados en sitio PUEBLA CTP (PUBLPBCTO24-3) IP FLC ACTIVE 10.17.60.20/29
+1-7446671	3	2019-02-01 10:54	1830 PSS-36	Telmex Mexico	larios	larios	2019-02-01 23:03
+larios	2019-02-07 22:30	
+Análisis de Data Bearers degradados en sitio PUEBLA LA PAZ (PUBLPBLPO0Z-2) IP FLC ACTIVE 10.17.60.44/29
+1-7446665	3	2019-02-01 10:43	1830 PSS-36	Telmex Mexico
+No Selection	guadalhe	guadalhe	2019-02-02 04:19
+alejands	2019-02-07 22:30	
+Análisis de Data Bearers degradados en sitio Insurgentes ( PUBLPBINO0L-2) 10.17.60.76/29:
+1-7446583	3	2019-02-01 07:40	1830 PSS-32	TELEFONIA POR CABLE S.A. DE C.V.
+No Selection	jesush	jesush	2019-02-01 08:01
+jesush	2019-02-05 23:30	
+Enlace Veracruz CTC - GTAC | Upgrade 7.0.2 to 9.1.0 | AR preventivo
+31/01/19 Preventive AR for upgrade on Monday
+1-7446545	1	2019-02-01 06:26	1830 PSS-32	Megacable Comunicaciones de Mexico	gejimene	gejimene	2019-02-01 09:45
+gejimene	2019-02-05 22:30	
+DWDM_SN_MAR // Tarjeta genera bit errors
+PUE_N node slot 1/16 showing error at Line level, after a cold reset the errors disappeared
+1-7446528	2	2019-02-01 05:21	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+No Selection	sjere	sjere	2019-02-01 07:31
+sjere	2019-02-04 23:00	
+Hardware// MPAAGRXXXX1ILAO32101 //Card: FAN //Observing  Card Failure - Fuse alarm//Circle: MP//Site Name: Agar //Slot: FAN-1-37 //Impacted Node: Collector
+Awaiting Customer Field Engineer Arrival
+1-7446417	3	2019-02-01 02:01	1830 PSS-32	UNE EPM TELECOMUNICACIONES S.A.
+Medellin CO - CRA 58 42 - 125	ubernal	ubernal	2019-02-01 10:46
+ubernal	2019-02-07 22:30	
+Verificación tarjeta PFDC70 TLUPOP-1
+We send the reviwed to customer.
+1-7446394	2	2019-02-01 01:36	1830 PSS-32	Entel Peru S.A.
+Camino Real (Americatel)	jorgeru	jorgeru	2019-02-02 08:03
+jorgeru	2019-02-06 21:30	
+Se tuvieron dos cortes de fibra de planta externa a las 10:44 La Milla  Haya y una hora mas tarde una atenuación entre La Milla y MSO2, luego de las cuales han
+Need to get all logs from nodes to continue investigation. jorgeru
+1-7446279	2	2019-01-31 23:31	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+Solapur Maharashtra - RJIL Solapur	sjere	sjere	2019-02-01 06:40
+sjere	2019-02-04 23:00	
+IM88897332//Hardware//MHSLPRATMS1OA2T32105//Card:11QPA4//Card failure - Communication alarm//Circle:MH//Site Name:Solapur//Slot:1-17//Impacted Node:Collector
+Awaiting Customer Field Engineer Arrival
+1-7446267	2	2019-01-31 23:03	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+RJIL Reengus	abhisheg	abhisheg	2019-02-01 08:06
+abhisheg	2019-02-04 23:56	
+IM88898707 || Hardware//RJRNGSRNGS1ILAO32101//AHPLG//Observing from DCM input loss alarm //Circle: RJ //Site Name: Reengus
+Awaiting Customer Field Engineer Arrival
+1-7446217	2	2019-01-31 22:11	1830 PSS-16II	Cox Communications Inc.
+No Selection	aho	aho	2019-02-02 00:32
+aho	2019-03-31 21:32	
+WEBUI and CLI hanging
+2/1: Requesting database for lab recreation
+1-7446194	2	2019-01-31 22:00	1830 PSS-64	Telecom Argentina	dcamposb	dcamposb	2019-02-01 02:46
+dcamposb	2019-02-12 11:30	
+Service Down BELT2-NJUT1-10GBE-2_15007870
+31/01: LSP 34 in node 32NJU01#OCS,was found as ADMIN-DOWN. After set as "UP" the cross cronection was created and service reporte is UP
+1-7446111	3	2019-01-31 20:41	1830 PSS-64	Vodafone Omnitel
+Napoli IT - Napoli 02 b	rloprete	rloprete	2019-02-01 23:08
+gfalasca	2019-02-06 04:30	
+[preISU_OCS] NACTN002(3)[2]# show alarmState / Op down
+Under Investigation
+1-7446109	3	2019-01-31 20:34	1830 PSS-64	Vodafone Omnitel
+Napoli IT - Napoli 02 b	rloprete	rloprete	2019-02-01 23:06
+gfalasca	2019-03-28 21:30	
+[preISU_OCS] VF Assistance Request 1830PSS64-OCS: NETIF/LAN down alarms on node NACTN002#OCS
+Under Investigation
+1-7446060	3	2019-01-31 20:17	1830 PSS-32	Movistar Chile
+No Selection	eolvera	eolvera	2019-01-31 23:29
+eolvera	2019-02-05 11:30	
+13_Telsur-1 is unrechable ( unpingable) when we try to ping this from NFM-T
+remote session in progress
+1-7445961	2	2019-01-31 19:09	1830 PSS-32	Exelon Corp
+Oakbrook Terrace IL - Lincoln Center 3	droman	droman	2019-01-31 20:42
+droman	2019-02-05 20:44	
+have powewr mangement alarms
+need to reboot active EC in middle NE that is presently unreachable remotely. That should clear the power suspend alarms on through channels at both adjacent NEs.
+1-7445821	3	2019-01-31 17:12	1830 PSS-16II	Cox Communications Inc.	fabyazi	fabyazi	2019-02-01 22:55
+vfu	2019-02-08 17:42	
+Shelf 1-12 32EC2-12 -Primary State OOS-AU
+PR has been delivered on 2/1 at 10:12am. Feb 01 -UPS tracking: 1Z018AX20197190683
+1-7445799	2	2019-01-31 16:49	1830 PSS-24x	VODAFONE MOBILE SERVICES LTD.
+VODAFONE DWDM Chennai WH 3180099366	rchavda	rchavda	2019-01-31 20:53
+rkhaire	2019-02-03 23:59	
+Perform Health Check-Up
+Awaiting Customer Maintenance Window
+1-7445752	2	2019-01-31 16:14	1830 PSS-16	Exelon Corp
+Limerick PA - Limerick General Admin Building	nstrout	nstrout	2019-02-01 02:38
+nstrout	2019-02-12 02:42	
+have a fibre issue - need help to temporarily turn off amp to shoot the fibre
+Customer will address span issues and update me
+1-7445693	3	2019-01-31 15:27	1830 PSS-32	Telecom Egypt
+No Selection	ahmedso	ahmedso	2019-01-31 17:25
+ahmedso	 	
+Customer require TEC confirmation if PF can be set as MAX.60V and MIN. 34V
+1-7445629	3	2019-01-31 14:04	1830 PSS-32	Telefonica de Espana
+No Selection	rodiazna	rodiazna	2019-01-31 16:16
+rodiazna	 	
+Degradación fibra 1/9/L1 a 1/12/C5 en Nodo N8
+Investigando
+1-7445602	2	2019-01-31 14:20	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+RJIL Karimnagar	suchopra	suchopra	2019-01-31 19:20
+suchopra	2019-02-03 23:25	
+IM88881194 || Hardware//ASKMGJCHRK2NA1A04101//Card:A2325A//Observing Card degrade - Device alarm //Circle:AS//Site Name: Karimganj//Slot:1-7 //Impacted Node: Co
+Awaiting Customer Field Engineer Arrival w spare EC , A2325 cards
+1-7445571	2	2019-01-31 14:14	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+RJIL Chirala	suchopra	suchopra	2019-01-31 19:03
+suchopra	2019-02-03 23:07	
+IM88880105 || Hardware//APCHRLWDNG1NA1O32101//Card:EC//Card failure - Communication //Circle: AP//Site Name: Chirala//Slot: 1-1//Impacted Node: Collector
+Awaiting Customer Review of Proposed Corrective Action
+1-7445442	3	2019-01-31 12:48	1830 PSS-4	Bharti
+Bharti Sagauli	sdinodia	sdinodia	2019-01-31 17:05
+sdinodia	2019-02-07 23:00	
+RFO required for link went down from 13:10 Hrs till 17:31 Hrs on 28th
+Analysis shared
+1-7445440	2	2019-01-31 12:49	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+Silchar Assam - RJIL Silchar	mraina	mraina	2019-01-31 13:09
+mraina	2019-02-06 23:33	
+IM88878101 || Hardware//ASSLCRCCHR1NA2O32101//Card:11STMM10//Observing Card failure - Communication alarm //Circle:AS //Site Name: Silchar//Slot: 1-14
+FSE awaited at site
+1-7445393	2	2019-01-31 12:06	1830 PSS-16	Crown Castle
+No Selection	nstrout	nstrout	2019-02-01 23:13
+nstrout	2019-02-11 13:44	
+Need assistance to shut down amplifier related to AR 7444980
+Customer will cut and splice fiber and will check back in the AM
+1-7445335	2	2019-01-31 10:27	1830 PSS-16	MTS PJSC
+No Selection	ssobolev	ssobolev	2019-02-01 18:34
+ssobolev	2020-01-30 02:30	
+Alarm IntTempHigh - Card Over temperature on 11QPA4-1/9
+01/02: Dust filter cleaned, FAN speed set to normal. Monitoring.
+1-7445327	3	2019-01-31 10:18	1830 PSS-32	DK UNC CO., LTD.
+No Selection	mhan1	mhan1	2019-01-31 10:43
+mhan1	2019-02-14 20:30	
+[NIRS] Can not clear Los alarm on TSS 5R between PSS
+After modifying Client OTU rate to odu2E, issue was cleared.
+1-7445308	3	2019-01-31 09:41	1830 PSS-32	AZTECA COMUNICACIONES PERU S.A.C.
+No Selection	larios	larios	2019-01-31 10:06
+larios	2019-02-08 22:30	
+Ticket preventivo por upgrade de equipos:Tingo Maria, Pucallpa, Cerro de Pasco y Oxapampa Short Description: Ticket
+MTM window scheduled for 31 01 19
+1-7445251	2	2019-01-31 07:35	1830 PSS-4	Bharti
+Allahabad	sjere	sjere	2019-01-31 10:41
+preetigu	2019-02-04 23:00	
+CONTCOM PGJ-BLUP-VRB-T-A1430/SHELF-2EQPT
+Awaiting Customer Review of Proposed Corrective Action
+1-7445250	2	2019-01-31 07:35	1830 PSS-4	Bharti
+BHARTI VARANASI	sjere	sjere	2019-01-31 10:43
+preetigu	2019-02-04 00:00	
+EQPTCARD at SYN-TGUP-SRN-T-A1082/PF-2-2EQPT
+Awaiting Customer Review of Proposed Corrective Action
+1-7445248	2	2019-01-31 07:35	1830 PSS-32	Bharti
+BHARTI RANCHI	sjere	sjere	2019-01-31 09:06
+sjere	2019-02-04 23:00	
+EQPT card  at GAR-BCJH-KWC-R-A7458/FAN-1-37EQPT
+Awaiting Customer Field Engineer Arrival
+1-7445247	2	2019-01-31 07:35	1830 PSS-8	Bharti
+BHARTI CHANDIGARH	abhisheg	abhisheg	2019-01-31 09:44
+abhisheg	2019-02-05 23:58	
+EQPTCARD  AT :BDD-BCHP-MJM-I-A6401/PF-1-1EQPT
+Alarm cleared: under observation
+1-7445245	2	2019-01-31 07:35	1830 PSS-32	Bharti
+Bharti Guwahati	abhisheg	abhisheg	2019-01-31 09:29
+abhisheg	2019-02-04 23:56	
+EQPTCARD  None Alcatel:LNG-BLAS-DDH-T-A587    260SCX2-1-14 & 260SCX 2/1/12
+Awaiting Customer Field Engineer Arrival
+1-7445241	2	2019-01-31 07:35	1830 PSS-24x	Bharti
+Manesar	abhisheg	abhisheg	2019-01-31 11:55
+agorle	2019-02-06 23:55	
+CONTCOM  AGR-TGUP-BJH-A-A061/4UC400-2-13EQPT
+Alarm cleared after jack out/in..Under observation.
+1-7445233	2	2019-01-31 07:35	1830 PSS-32	Bharti
+BHARTI SILIGURI	abhisheg	abhisheg	2019-01-31 08:49
+abhisheg	2019-02-06 23:53	
+CONTCOM on SIL-NTWB-NJB-R-A6146 SHELF-3,EQPT
+Awaiting Customer Field Engineer Arrival
+1-7445214	3	2019-01-31 07:13	1830 PSS-64	Stark Technology Inc.
+AAA TW - STI	ey	ey	2019-01-31 07:27
+ey	2019-03-30 07:29	
+HealthCare Test - Power drop detection issue
+Under Investigation
+1-7445213	3	2019-01-31 07:13	1830 PSS-64	Vodafone Omnitel
+Napoli IT - Napoli 01 c	mafugall	mafugall	2019-02-01 22:48
+gfalasca	2019-03-31 04:30	
+[preISU_OCS] some alarms on OCS node NACTN001 to be verify befor ISU
+Under Investigation
+1-7445208	3	2019-01-31 07:10	1830 PSS-64	Vodafone Omnitel
+Napoli IT - Napoli 01 c	mafugall	mafugall	2019-02-01 22:34
+gfalasca	2019-03-31 04:30	
+[preISU_OCS] NACTN001(3)[2]# show alarmState
+Under Investigation
+1-7445192	3	2019-01-31 06:41	1830 PSS-36	Vodafone Omnitel
+Pescara IT - Pescara 01 b	gfalasca	gfalasca	2019-01-31 15:21
+gfalasca	2019-03-30 06:41	
+[post-ISU_OCS] after ISU of node PECTN001#OCS cards is still DOWN
+Pack 130SCUP-1-2-46 has to be replaced,customer informed
+1-7445187	2	2019-01-31 06:25	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+No Selection	sjere	sjere	2019-02-01 20:21
+magc	2019-02-04 23:00	
+IM88854083 // SUGAULI node isolation due to suspecting utility issue// Span Down : BIHAR/Muzaffarpur //Span Name::-Bettiah-Sagauli-Motihari //Link Number : //Im
+SMPS logs awaited, suspected utility issue.
+1-7445180	3	2019-01-31 06:09	1830 PSS-32	DK UNC CO., LTD.
+No Selection	sunghwam	sunghwam	2019-01-31 06:45
+sunghwam	2019-02-08 06:50	
+Friendly Name : MEP-XCON-CCM Probable Cause : MEP-XCON-CCM
+Under Investigation
+1-7445132	2	2019-01-31 04:25	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+Toothukudi Tamilnadu - Toothukudi	abhisheg	abhisheg	2019-01-31 06:21
+rishigu	2019-02-04 23:56	
+Getting Require high speed fan alarm after insert S13X100R card at Toothukudi ( TNTKKDSNTM1NA1O32101)(10.199.20.130) node.
+FE required at site to replace the Normal FAN to High speed FAN
+1-7445117	1	2019-01-31 03:35	1830 PSS-32	CLARO
+No Selection	gejimene	gejimene	2019-01-31 10:08
+gejimene	2019-01-31 22:30	
+The La Granja node IP: 10.90.3.6 presents problems in the RAMAN facing Danli, affecting several services 3X100G and 2x10G.
+Fiber on site La granja was fixed on slot 1/14 and Raman with this action recovered the traffic
+1-7445098	3	2019-01-31 03:02	1830 PSS-32	Level3 Communications
+No Selection	rickeyk	rickeyk	2019-01-31 21:47
+jeffgordon	2019-02-08 04:30	
+S13X100R taking dribbling errors while under test
+The S13X100R & QSFP28 will be replaced.
+1-7445073	3	2019-01-31 02:31	1830 PSS-32	Level3 Communications
+No Selection	nstrout	nstrout	2019-02-01 23:17
+nstrout	2019-02-11 02:45	
+S13X100R taking dribbling errors when running test
+linked to TEC AR 1-7387324
+1-7445070	4	2019-01-31 02:28	1830 PSS-32	Level3 Communications
+No Selection	mlanctot	mlanctot	2019-01-31 02:51
+mlanctot	2019-02-16 03:30	
+11DPM8 in Card Failure - Device
+Customer will handle spare dispatch and PR
+1-7445048	2	2019-01-31 01:56	1830 PSS-36	Entel Peru S.A.
+Camino Real (Americatel)	jesush	jesush	2019-02-02 01:46
+jesush	2020-01-07 23:30	
+Se tuvo un evento en la red a las 13:44 hrs ? a 13:46 donde cayeron varios servicios en La Milla y Haya, por favor identificar las causas del evento, luego del
+01/02/19 Power variations found in the span Milla <-> Haya, active alarms shown in the NFMT looks like "fake alarms", NMS team will be engaged
+1-7444995	2	2019-01-31 00:59	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+Bhavani Tamilnadu - Bhavani	sjere	sjere	2019-01-31 06:22
+rishigu	2019-02-03 23:56	
+Getting Hardware Device Access Failure at Bhavani Slot 4 during card insertion.
+Awaiting Customer Field Engineer Arrival
+1-7444974	2	2019-01-31 00:34	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+RJIL Kodad	sjere	sjere	2019-01-31 02:10
+sjere	2019-02-04 23:00	
+IM88862415 || Hardware // APKDADXXXX1NA1O32101 // Observing ILAN/VLAN issue //Circle:AP //Site Name: Kodad //Impacted Node: Collector
+Awaiting Customer Field Engineer Arrival
+1-7444969	2	2019-01-31 00:34	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+Dhenkanal Orissa - Dhenkanal	sjere	sjere	2019-02-01 22:35
+absami	2019-02-04 23:00	
+ORDKLLXXXX1ILAA32101 //Card: EC // Observing Card initializing //Circle:OR //Site Name: DHENKANAL //Slot:1-18 //Impacted Node: Collector
+Awaiting Customer Field Engineer Arrival
+1-7444926	2	2019-01-30 23:50	1830 PSS-36	Telefonica Moviles	guadalhe	guadalhe	2019-02-02 03:42
+guadalhe	2019-02-28 23:30	
+Problemas de ovrflow en equipo 1830PSS36 de CUERNAVACA / 17-00411WDM090005ALT e IGUALA / 12-03355WDM090006ALT
+PAO was applied Awaiting Customer Approval for Resolve/Closure last update Feb 01 2019 16:11 Mex Time by Jonatan Hernandez
+1-7444925	3	2019-01-30 23:45	1830 PSS-32	TELEFONIA POR CABLE S.A. DE C.V.
+No Selection	larios	larios	2019-01-31 04:05
+larios	2019-02-08 21:30	
+Enlace Puebla CTC  San Martín | Actualización Firmware tarjetas 130SC/NX10 | AR Preventivo
+Local NI group will call if support is needed
+1-7444918	2	2019-01-30 23:40	1830 PSS-36	Telefonica Moviles	guadalhe	guadalhe	2019-02-02 03:42
+guadalhe	2019-02-28 11:30	
+Problemas de overflow en equipos 1830PSS36 de CHILPANCINGO / 12-03313WDM080008ALT y MEZCALA / 12-05810WDM090007ALT
+PAO was applied Awaiting Customer Approval for Resolve/Closure last update Feb 01 2019 16:11 Mex Time by Jonatan Hernandez
+1-7444767	4	2019-01-30 21:22	1830 PSS-16II	VTX Communications Inc	kelldo	kelldo	2019-02-01 03:56
+kelldo	2019-02-06 04:30	
+Issues building an OC192 in NFM-T
+1-7444586	4	2019-01-30 19:25	1830 PSS-32	Saudi Telecom Company
+Riyadh	abdul	abdul	2019-01-31 19:26
+najam	2019-02-11 14:30	
+We observed connection mismatch at MW137-2PS between 1/3 & 1/4
+We asked customer to request one MDT and tell technacian to coordinate with us during MDT from site MW137-2PS.
+1-7444538	4	2019-01-30 18:42	1830 PSS-32	Saudi Telecom Company	najam	najam	2019-01-30 19:37
+najam	2019-02-04 02:30	
+ERP ports are blocked status in MWLD136-1PS 1.12.X2 & X4.
+Under Investigation
+1-7444518	3	2019-01-30 18:29	1830 PSI-2T	Apple Inc
+No Selection	fabyazi	fabyazi	2019-01-31 04:32
+fabyazi	2019-02-08 18:41	
+Migrate 'Card Mode' causes interface FEC mode to default to 8023-bj
+Jan 30 -information provided
+1-7444475	3	2019-01-30 17:20	1830 PSS-32	Movistar Chile
+No Selection	guadalhe	guadalhe	2019-02-02 03:40
+guadalhe	2019-02-28 11:30	
+On 4_Rancagua3-1 we found alarm: MN NSA   19/01/15 00:45:13 EQPT     OTMCPF              6/6                                                                  
+POA has been sent to customer, awaiting MW last update Feb 01 2019 16:10 Mex Time by Jonatan Hernandez
+1-7444454	3	2019-01-30 17:10	1830 PSS-32	France Telecom Espana SA
+No Selection	chernanz	chernanz	2019-01-30 17:29
+chernanz	 	
+Preventivo 2/2 Enero 2019
+Bajo estudio.
+1-7444377	4	2019-01-30 16:20	1830 PSS-32	Saudi Telecom Company
+No Selection	aabarque	aabarque	2019-01-30 19:39
+najam	2019-02-04 02:30	
+We are observed 1 ES in ODU level. 403/3PS/1/1/11/9350-413/1/1/39 was effected during the activity at MW137-2PS Ref TTPR00012825985. but the circuit is PRC.
+Under Investigation
+1-7444256	2	2019-01-30 15:03	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+No Selection	bipsingh	bipsingh	2019-01-30 17:26
+bipsingh	2019-02-02 23:50	
+Observing from DCM input loss alarm//Circle:UW//Site Name:Sambhal//Slot:1-3//Impacted Node:Collector
+Awaiting Customer Review of Proposed Corrective Action
+1-7444201	4	2019-01-30 14:37	1830 PSS-32	Telefonica de Espana	rodiazna	rodiazna	2019-01-31 22:10
+kdierkes	 	
+Fallo en tarjeta 24ANM, SSF-S.
+Investigando
+1-7444191	3	2019-01-30 14:18	1830 PSS-32	Maxis M Sdn Bhd
+Kuala Lumpur MY - MAXIS KLANG VALLEY	bipsingh	bipsingh	2019-02-01 10:18
+suchopra	2019-02-02 23:45	
+suspicious CF card found on ECA: SG9CF16G (Mod: HYDCIFP, Rev: 0000)
+Awaiting Customer Maintenance Window
+1-7444184	3	2019-01-30 14:17	1830 PSS-32	Maxis M Sdn Bhd
+Kuala Lumpur MY - MAXIS KLANG VALLEY	suchopra	suchopra	2019-02-01 10:20
+suchopra	2019-02-02 23:50	
+suspicious CF card found on ECB: SG9CF16G (Mod: HYDCIFP, Rev: 0000)
+Awaiting Customer Maintenance Window
+1-7444174	3	2019-01-30 14:16	1830 PSS-32	Maxis M Sdn Bhd
+Kuala Lumpur MY - MAXIS KLANG VALLEY	suchopra	suchopra	2019-02-01 11:02
+suchopra	2019-02-02 23:50	
+suspicious CF card found on ECA: SG9CF16G (Mod: HYDCIFP, Rev: 0000)
+Awaiting Customer Maintenance Window
+1-7444172	3	2019-01-30 14:14	1830 PSS-32	Maxis M Sdn Bhd
+Kuala Lumpur MY - MAXIS KLANG VALLEY	suchopra	suchopra	2019-02-01 11:05
+suchopra	2019-02-02 23:50	
+suspicious CF card found on ECA: SG9CF16G (Mod: HYDCIFP, Rev: 0000)
+Awaiting Customer Maintenance Window
+1-7444036	4	2019-01-30 12:48	1830 PSS-32	Telefonica de Espana	amanzan	amanzan	2019-02-01 16:07
+amanzan	2019-04-26 16:30	
+130SCUP SubRack 2 Slot 39 SB.IN-NOW1830MURB-1#OCS
+En espera de reset/cambio de tarjeta WR-8 2/4 en SB.IN
+1-7443990	1	2019-01-30 12:11	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+RJIL RCP, Navi Mumbai - 3011040691	rkhaire	rkhaire	2019-01-31 20:49
+rkhaire	2019-02-02 23:59	
+OCI and LANLSS alarms at both end clients(10 GBE)
+1/9 cold reset done at C node
+1-7443988	3	2019-01-30 12:05	1830 PSS-32	AZTECA COMUNICACIONES PERU S.A.C.
+No Selection	ubernal	ubernal	2019-01-31 22:50
+ubernal	2019-02-20 11:30	
+HC en equipo Aguaytia muestra warning: queued signals found on ECA
+31/01 We send the recommendations to customer we waiting to perform it
+1-7443984	3	2019-01-30 12:05	1830 PSS-32	AT&T COMUNICACIONES DIGITALES, S. DE R.L. DE C.V.
+No Selection	larios	larios	2019-01-31 04:04
+larios	2019-02-08 20:30	
+No se tiene acceso al Elemento vía browser, aunque si es alcanzable por ping.
+NE under management
+1-7443978	3	2019-01-30 11:52	1830 PSS-32	AZTECA COMUNICACIONES PERU S.A.C.
+No Selection	jorgeru	jorgeru	2019-01-31 20:12
+jorgeru	2019-02-20 11:30	
+HealthCare del equipo de Chavinillo muestra 2 Failures Check for VLAN, MAC and possible mis-cabling
+30/Jan Taking alarms and conditions in the node to validate issue and send suggestions to customer, jorgeru
+1-7443969	3	2019-01-30 11:38	1830 PSS-32	Maxis M Sdn Bhd
+Kuala Lumpur MY - MAXIS KLANG VALLEY	ashar129	ashar129	2019-01-30 16:59
+ashar129	2019-02-06 23:00	
+active EC ECA not protected, GTAC please investigate
+Awaiting Customer Field Engineer Arrival
+1-7443965	3	2019-01-30 11:36	1830 PSS-32	Maxis M Sdn Bhd
+Kuala Lumpur MY - MAXIS KLANG VALLEY	mraina	mraina	2019-01-30 16:23
+ashar129	2019-02-05 23:00	
+active EC EC-1-3-18 not protected
+Awaiting Customer Field Engineer Arrival
+1-7443961	3	2019-01-30 11:38	1830 PSS-32	Maxis M Sdn Bhd
+Kuala Lumpur MY - MAXIS KLANG VALLEY	mraina	mraina	2019-01-30 17:20
+ashar129	2019-02-04 23:00	
+active EC EC-1-7-1 not protected
+Awaiting Customer Field Engineer Arrival
+1-7443957	3	2019-01-30 11:36	1830 PSS-32	Maxis M Sdn Bhd
+Kuala Lumpur MY - MAXIS KLANG VALLEY	ashar129	ashar129	2019-01-30 16:38
+ashar129	2019-02-06 23:00	
+active EC ECB not protected, GTAC to investigate
+Awaiting Customer Field Engineer Arrival
+1-7443956	3	2019-01-30 11:36	1830 PSS-32	Maxis M Sdn Bhd
+Kuala Lumpur MY - MAXIS KLANG VALLEY	mraina	mraina	2019-01-30 18:10
+suchopra	2019-02-02 23:15	
+active EC EC-1-2-1 not protected, GTAC need to Investigate
+Awaiting Customer Field Engineer Arrival
+1-7443938	3	2019-01-30 11:25	1830 PSS-32	Maxis M Sdn Bhd
+Kuala Lumpur MY - MAXIS KLANG VALLEY	ashar129	ashar129	2019-01-30 16:03
+ashar129	2019-02-02 23:00	
+suspicious CF card found on ECB: SG9CF16G (Mod: HYDCIFP, Rev: 0000
+Awaiting Customer Maintenance Window
+1-7443933	2	2019-01-30 11:25	1830 PSS-4	Bharti
+No Selection	mraina	mraina	2019-01-30 12:28
+mraina	2019-02-06 23:33	
+Getting FIPS Software Version Mismatch Alarm on 1/1/EC
+FSE awaited at site
+1-7443893	2	2019-01-30 10:39	1830 PSS-32	Telmex Mexico
+No Selection	larios	larios	2019-01-31 04:06
+larios	2019-02-08 22:30	
+Alarmas de SD 2-7/112SNA1
+After cold reset on OT no more signal degraded alarm present
+1-7443873	2	2019-01-30 10:06	1830 VWM	Verizon Wireless
+Richmond VA - 2501 Goodes Bridge Road	nstrout	nstrout	2019-02-01 04:09
+nstrout	2019-02-10 11:15	
+Failing upgrade ---V8.5.1 upg load failed
+upgrade complete on site 1 customer has on additional site to upgrade in his immediate plans but is on hold until after the SuperBowl - will keep ticket in pending until that second upgrade is complete
+1-7443854	2	2019-01-30 09:40	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+RJIL VARANASI - 3151240691	mraina	mraina	2019-01-30 10:11
+mraina	2019-02-06 23:33	
+IM88838310//Hardware//UEVRNSCUTS1NA2O32101//Card:11QPA4//Card failure - Communication//Circle:UE//Site Name:VARANASI//Slot:1-16//Impacted Node:Collector
+FSE awaited at site
+1-7443769	4	2019-01-30 07:06	1830 PSS-16	Saudi Telecom Company	najam	najam	2019-01-31 19:24
+najam	2019-02-11 02:30	
+PR00012841506 NE is pingable from 1350 OMS server but login through web unsuccessful
+The node FBM10-1PS has been reachable, after fixing the DCN route for the node.
+1-7443760	2	2019-01-30 06:42	1830 PSS-4	RELIANCE JIO INFOCOMM LIMITED
+RJIL Udaipura	rahulkus	rahulkus	2019-01-30 07:05
+rahulkus	2019-02-04 23:00	
+IM88836266 || Hardware//MPUDPAXXXX1ILAA04101//AHPLG//Observing Card failure - communication alarm //Circle: MP //Site Name: Udaipura //Slot: 1-8//Impacted Node:
+Awaiting Customer Field Engineer Arrival
+1-7443737	3	2019-01-30 05:30	1830 PSS-32	CLARO	dcamposb	dcamposb	2019-01-30 22:57
+dcamposb	2019-02-05 11:30	
+NE POPTUN IP: 10.90.17.5 alarm intermmitent LASEREOL 11STMM10 1/16/L1
+01/30; Recommendation shared with Customer. | It is need to replace the 11STMM10 1/16 SN: EZ104521381
+1-7443691	3	2019-01-30 03:56	1830 PSS-32	AZTECA COMUNICACIONES PERU S.A.C.
+No Selection	larios	larios	2019-01-31 04:00
+larios	2019-02-09 03:58	
+Ticket preventivo por upgrade de equipos: Chavinillo, Huacrachuco, Huanuco, La Union, Puerto Inca.
+No call during SW upgrade
+1-7443637	3	2019-01-30 02:33	1830 PSS-32	TELEFONIA POR CABLE S.A. DE C.V.
+No Selection	larios	larios	2019-01-31 03:57
+larios	2019-02-08 22:30	
+AR Preventivo for upgrade to 1830PSSECX-9.1-0
+29/01/18 MT window pending
+1-7443618	3	2019-01-30 02:09	1830 PSS-36	EI TOWERS S.p.A
+Cologno Monzese IT - Armadio R2	mafugall	mafugall	2019-01-30 14:02
+mkarpuz	2019-03-01 02:09	
+EI_Tower_DWDM: verifiche in sito traffico su circuito 10GB EVPL_P3_Col_VE_E_0011
+Activity planned on 31 Jan @11:00am
+1-7443536	2	2019-01-30 00:32	1830 PSS-32	Rogers Communications Inc
+Toronto	najepr	najepr	2019-02-01 23:54
+najepr	2019-02-22 11:30	
+installed D5 X500 , 200 gig , having issues with both ends
+Customer will dispatch tech to site possible Friday 2/1.
+1-7443377	3	2019-01-29 21:41	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+RJIL GDC	magc	magc	2019-01-29 22:15
+magc	 	
+RFO required for following Y cable protected service flapped mulitple times in mumbai metro core  from  29-01-2019 17:04 hrs to 18:33 hrs   1.GDC W MUMUMBXXXX
+Under Investigation
+1-7443186	2	2019-01-29 18:56	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+No Selection	suchopra	suchopra	2019-01-30 19:10
+suchopra	2019-02-03 23:22	
+Power not showing in 1/4/Line_Out port (AHPHG card) at Pathanamitta( 10.199.20.117)
+Awaiting Customer Field Engineer Arrival
+1-7443110	3	2019-01-29 18:07	1830 PSS-32	ITALTEL S.P.A.
+No Selection	pacamera	pacamera	2019-01-31 14:47
+pacamera	2019-02-21 04:30	
+MESSITAP-PXM3-1  /  55.1.130.114 EC 1.18 failed / FLT
+To be replace CF on EC 1/18
+1-7443052	2	2019-01-29 17:33	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+Mayiladuthurai Tamilnadu - Mayiladuthurai	suchopra	suchopra	2019-01-31 20:04
+suchopra	2019-02-04 23:29	
+Re: IM88817086 || Hardware //TNMLDRMLTB1ILAO32101//Card:EC // Observing Card initializing //Circle:TN //Site Name: Mayiladuthurai //Slot:1-18 //Impacted Node: C
+Awaiting Customer Field Engineer Arrival with spare EC
+1-7443000	2	2019-01-29 17:01	1830 PSS-32	INTERMEDIASUD SAEM
+Gardouch	kkuyucu	kkuyucu	2019-01-29 19:20
+kkuyucu	2019-01-30 02:30	
+Support pour analyse
+Awaiting Receive Log Files / Technical Info
+1-7442585	2	2019-01-29 12:30	1830 PSS-32	MTS PJSC
+MTS CHITA	ssobolev	ssobolev	2019-02-01 19:31
+nvillanu	 	
+43SC?4 2.2.1 -> 2.3.1 firmware upgrade problems
+Escalated to TEC
+1-7442492	3	2019-01-29 11:05	1830 PSS-32	MTS PJSC	ssobolev	ssobolev	2019-01-29 14:00
+maximvasiliev	 	
+Recalculation of parameters of the DWDM 1830 PSS section is needed
+Investigation started
+1-7442448	2	2019-01-29 10:07	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+Nagapattinam Tamilnadu - Nagapattinam	mraina	mraina	2019-01-29 12:00
+mraina	2019-02-05 23:33	
+IM88801618//Hardware//TNNGPMUTMP1NA1O32101//Card:SFD5D//Observing Hardware device access failure alarm//Circle:TN//Site Name:Nagapattinam//Slot:1-6//Impacted No
+FSE awaited at site
+1-7442370	3	2019-01-29 08:02	1830 PSS-32	DK UNC CO., LTD.
+No Selection	mhan1	mhan1	2019-02-01 11:21
+mhan1	2019-02-15 10:54	
+[NIRS] Los propagation is not working on 12P120
+Under Investigation
+1-7442248	2	2019-01-29 04:01	1830 PSS-32	Maxis M Sdn Bhd
+Kuala Lumpur MY - MAXIS KLANG VALLEY	rahulkus	rahulkus	2019-02-01 10:22
+rahulkus	2019-02-04 23:00	
+CC got LOL at both end and currently Donw. Pls confirm this cc. MCJLL0216 still down
+Awaiting Customer Approval for Resolve/Closure
+1-7442157	3	2019-01-29 01:39	1830 PSS-32	AZTECA COMUNICACIONES PERU S.A.C.
+No Selection	rireyes	rireyes	2019-01-30 03:57
+rireyes	2019-02-08 11:30	
+Peru Azteca TARAPOTO / SMT-TAO-DR-AL-P32-01  172.16.33.204 Card Initializing 1/1
+29/01/2018 According to what was discussed with the CTS tomorrow, a debug cable will be provided to the client in order to schedule an appointment to the site and validate the conditions of the 1/1 card
+1-7442093	3	2019-01-29 00:32	1830 PSS-36	Emirates Integrated Telecommunications Company
+EITC	shadyi	shadyi	2019-01-29 00:59
+sarnowski	 	
+BB OCS network - HealthCheck review  to get GO for SW upgrade 9.0.1>10.0.5 >11.0.0
+1-7442039	3	2019-01-28 23:32	1830 PSS-32	AZTECA COMUNICACIONES PERU S.A.C.
+No Selection	larios	larios	2019-02-01 22:34
+larios	2019-02-08 22:30	
+Ticket preventivo por upgrade de equipos: Yurimaguas, Bellavista, Moyobamba, Tarapoto, Tocache.
+01/02/19 Awaiting approval for closure, no trouble during sw upgrade
+1-7441914	2	2019-01-28 21:30	1830 PSS-16	AZTECA COMUNICACIONES PERU S.A.C.	jesush	jesush	2019-01-29 06:35
+jesush	2019-02-05 23:30	
+Azteca Peru | Card Failure 11QPA4 3/9 NE ACH-COX-DR-AL-P32-01
+28/01/19 After replacing card 3/9 11QPA4, the CONTCOM alarm clears.
+1-7441733	4	2019-01-28 19:22	1830 PSS-16II	Cox Communications Inc.	fabyazi	fabyazi	2019-01-30 16:32
+fabyazi	2019-02-08 19:47	
+UNO000030470627 - DAVSOKBUOZZILA1830NK - Arbuckle site
+Jan 28 - 1/1 PF APN: 3KC49010AAAC01 S/N: EZ1628A2996 to be replaced
+1-7441431	2	2019-01-28 15:29	1830 PSS-32	E-Net
+No Selection	cboia	cboia	2019-02-01 13:55
+senses	2019-02-09 01:32	
+ISSUE between PSS - 32 vs interaction
+Awaiting Problem Re-Occurrence
+1-7441420	2	2019-01-28 15:20	1830 PSS-32	Maxis M Sdn Bhd
+Kuala Lumpur MY - MAXIS KLANG VALLEY	abhisheg	abhisheg	2019-02-01 23:53
+abhisheg	2019-02-02 23:52	
+PSS32 LANC01 : Link Down <D14751/01/19>
+Alarm is cleared: confirmation awaited for the action
+1-7441348	2	2019-01-28 14:34	1830 PSS-32	MTS PJSC
+MTS NOVOSIBIRSK	aonokhin	aonokhin	2019-01-31 13:26
+aonokhin	2019-02-08 13:30	
+T54_907_5-NSK: 260SCX2-3-16 got failed during planned fimware upgrade 1.3.1 -> 1.9.1
+31-Jan: 260SCX2-3-16 was replaced. No issue with OCh. Awaiting closure confirmation.
+1-7441312	4	2019-01-28 13:59	1830 PSS-32	Saudi Telecom Company
+Riyadh	najam	najam	2019-01-29 14:09
+jempleo	2019-02-04 02:30	
+Node 23100000-1PS where communication state is down in OMS Server but NE is pingable and reachable from STC network and OMS. Snapshots are attached where the no
+see text for details
+1-7441288	3	2019-01-28 13:49	1354 RM-PhM	SK broadband
+No Selection	hju	hju	2019-01-30 14:35
+hju	2019-02-15 07:30	
+[SKB] Dongjak PM can not be collected.
+Recommanded to do NE warm reset waiting for customer activity
+1-7440955	2	2019-01-28 07:14	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+No Selection	magc	magc	2019-01-30 10:36
+mraina	2019-02-05 23:00	
+: IM88761622 || Hardware//DLNOIDXXXX1AG3R32202 ( 10.199.32.4 )//Card: WR8-88A-2-7// Observing Card failure - communication //Circle: DL//Site Name:  Noida Sec 6
+Awaiting Customer Field Engineer Arrival
+1-7440901	2	2019-01-28 02:20	1830 PSS-4	Bharti
+BHARTI BAREILY	rahulkus	rahulkus	2019-02-01 10:23
+rahulkus	2019-02-03 23:00	
+node unmanaged a1015
+Awaiting Customer Field Engineer Arrival
+1-7440805	2	2019-01-27 15:53	1830 PSS-32	Telecom Egypt
+MAADI_II	ahmedso	ahmedso	2019-01-31 17:23
+ahmedso	2019-02-07 03:30	
+OSC module count Error between Maadi2
+1-7440613	2	2019-01-26 12:28	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+No Selection	bipsingh	bipsingh	2019-01-30 19:54
+bipsingh	2019-02-04 23:17	
+Hardware//MUNVMBXXXX1AG3R32202//Card: 260scx2 //Observing PCS Errors at MUNVMBXXXX1AG3R32202 //Circle: MU //Site Name: RCP (West) //Slot: 11-12-C1 //Impacted
+Awaiting Customer Review of Proposed Corrective Action
+1-7440524	1	2019-01-26 04:28	1830 PSS-32	CLARO
+No Selection	cmancill	cmancill	2019-02-01 23:00
+cmancill	2019-02-14 11:30	
+Claro | Guatemala | 1830 PSS-32 | Five nodes cannot complete the Backup
+January 28th TAC engineer is working in the solution. Pending provide feedback to customer
+1-7440480	4	2019-01-26 02:32	1830 PSS-32	Navega
+No Selection	alejands	alejands	2019-01-30 21:52
+alejands	2019-02-20 11:30	
+SFTP DB Transfers stuck in "Remote backup in progress"
+29/Jan Awaitng to get more details of involve site and behavior
+1-7440437	2	2019-01-26 01:20	1830 PSS-4	Verizon Wireless
+No Selection	acarenza	acarenza	2019-01-30 23:14
+acarenza	2019-02-28 18:30	
+we need to back up file for the product
+replace 2G EC with an 8G EC
+1-7440398	2	2019-01-26 00:28	1830 VWM	Verizon Wireless
+Schertz TX - 5804 Tri County Parkway	bobfoster	bobfoster	2019-02-01 20:19
+bobfoster	2019-02-22 22:30	
+got a bad port on the pmu
+Need to check is Shelves 4 and 5 are showing as "NotCOnnected". Also need to check for the presence of tilt. See Investigation Log for details.
+1-7440368	3	2019-01-25 23:36	1830 PSS-32	Pacific Gas and Electric
+No Selection	wilmerd	wilmerd	2019-01-31 16:03
+wilmerd	2019-02-08 11:30	
+Power balance failure on FRESNODCC-PSS16-1
+01/25/19: 11QPA4 1/7/L1 tx was 1.67 and VA2 Rx was 2.25, was performed clean FO and plug out/in of VA SFP, after that Rx value was 1.58, also was indicated where configure VA expexted power, after that power balance was performed well
+1-7440316	3	2019-01-25 22:22	1830 PSS-32	Navega
+Guatemala GT - Carretera a El Salvador Km 9.5	rireyes	rireyes	2019-01-31 23:29
+jortegay	2019-01-31 11:30	
+Navega Guatemala Alarma de Hardware device access failure 11DPM12 1 /15. Proceres-2 10.12.3.22
+During technical meeting Customer informed they will provide date for the MW. Probably to be executed next week.
+1-7440239	4	2019-01-25 21:09	1830 PSS-32	Telecom Argentina
+No Selection	lmilian	jorgeru	2019-02-01 06:00
+lmilian	2019-02-08 23:30	
+Analyze the next service, is not possible to put it in operation 32MUN01 8/4/2 - 32COG01 3/16/2
+1/28 gtac sent the recommendatiosn. According to the CWR8 3/4 in 32LOP01 measurement is wrong. It will be to apply a warm reset in order to eliminate the measurement mistake
+1-7440141	1	2019-01-25 19:31	1830 VWM	Verizon Wireless
+Atlanta GA - 1100 Champa Avenue NW	droman	droman	2019-01-28 17:02
+droman	2019-02-06 23:30	
+2 sites is down or 6 10GIG circuits
+got remote access restored by configuring a gateway in the NE "config admin gateway6 <>". PMU 13 to PMU 14 OSP fiber loss is till too high but customer will not adress until after Superbowl 53
+1-7439996	3	2019-01-25 17:27	1830 PSS-32	Movistar Chile
+No Selection	acayo	acayo	2019-01-31 23:01
+acayo	2019-01-29 11:30	
+Movistar Chile:During software download rel11.0-1 after successful software download we didnt get alarms software upgrade in the node 16_SanJavier-1
+About alarm not raised in cli (SWFTDWN) override severity changed to none was the root cause, since that default alarm is MINOR
+1-7439853	3	2019-01-25 15:03	1830 PSS-32	Movistar Chile
+No Selection	acayo	acayo	2019-01-31 22:59
+acayo	2019-01-29 11:30	
+Movistar Chile :During software download rel11.0-1 after successful software download we didn?t get alarms software upgrade in node Principal_Sur
+Principal_Sur Node IP address: 10.1.4.1 next steps continue process of upgrade (activate and commit ) since that audit and load were completed 100%.
+1-7439800	3	2019-01-25 14:40	1830 PSS-32	Bharti
+BHARTI BALASORE	sdinodia	sdinodia	2019-02-01 12:40
+preetigu	2019-02-05 23:55	
+OTMCPF at A 2314 1-14
+High temp on site // Awaiting Customer Review of Proposed Corrective Action
+1-7439721	3	2019-01-25 13:41	1830 LX OA	SUPER SEA CABLE NETWORKS PTE. LTD.	wcatur	wcatur	2019-02-01 09:51
+wcatur	2019-02-05 13:45	
+Checking test commissioning report of 1830LX link Global Switch-Mersing on SEAX Phase-1 project
+escalate to TEC
+1-7439456	4	2019-01-25 08:36	1830 PSS-32	Saudi Telecom Company
+No Selection	najam	najam	2019-01-27 13:25
+najam	2019-02-04 02:30	
+We can login through webGUI, but communication state unreachable in NFM-T
+No action taken from our side, the node become reachable during investigation
+1-7439344	2	2019-01-25 06:23	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+RJIL Tarapur	vnarain	vnarain	2019-01-29 02:59
+magc	2019-02-08 23:00	
+IM88652754//Hardware//GJTARRXXXX1ILAO32101//Card:EC Card//Observing Card Initializing alarm//Circle:GJ//Site Name:Tarapur//Slot:1-18//Impacted Node:ALU Collecto
+Awaiting Customer Field Engineer Arrival
+1-7439333	3	2019-01-25 06:05	1830 PSS-32	AZTECA COMUNICACIONES PERU S.A.C.
+No Selection	jazierm	jazierm	2019-01-29 22:50
+jazierm	2019-02-12 23:30	
+CUTERVO / CJM-CUT-DR-AL-P32-01 172.16.33.214 Card Initializing 1/18
+Jan, 29th.- Awaiting Customer Maintenance Window.- jazierm
+1-7439326	4	2019-01-25 05:43	1830 PSS-64	Saudi Telecom Company
+No Selection	najam	najam	2019-01-27 13:22
+najam	2019-02-04 02:30	
+No drops found when we ping 48700000-1PS
+Association restored after fixing the DCN route for the node
+1-7439264	3	2019-01-25 03:26	1830 PSS-32	CLARO
+No Selection	alejands	alejands	2019-02-02 00:41
+asatorai	2019-02-27 11:30	
+En base al ISSUE determinado por el TEC sobre los Amplificadores AHPLG-AHPHG, se solicita realizar una revisión de todos estos en todos los anillos de la Red DW
+31/Jan/2019 LD pack analysis about FW O-NET involve in the network shared to customer. Awaitng customer agree to close AR.
+1-7439195	4	2019-01-25 01:58	1830 PSS-32	Saudi Telecom Company	najam	najam	2019-01-27 13:16
+najam	2019-02-04 02:30	
+71200000-4PS Communication to the NE is down
+The node is reachable after we switched the EC card
+1-7439187	4	2019-01-25 01:52	1830 PSS-32	Saudi Telecom Company	najam	najam	2019-01-27 13:14
+najam	2019-02-04 02:30	
+Communication to the NE is down
+We found the supervised was stopped in NMS. We started the supervision and the node become reachable
+1-7439079	3	2019-01-24 23:45	1830 PSS-32	AZTECA COMUNICACIONES PERU S.A.C.
+No Selection	jesush	jesush	2019-01-29 09:42
+jesush	2019-02-05 23:30	
+Azteca Peru | Preventive AR, Sw upgrade for Celendin, Chota, Cumbil, Cutervo, Jaen
+28/01/19 Sw upgrade completed, waiting for customer closure approval
+1-7439067	2	2019-01-24 23:38	1830 PSS-16II	TELEMAR NORTE LESTE S/A
+No Selection	rireyes	rireyes	2019-02-01 21:37
+rireyes	2019-02-08 11:30	
+Brasil Oi Failure to perform Synch Port on ESM module of PSS1830-RJO-ALV-002 site (shelf 3 slot 9).
+30/01/2018 Penging to local team applied the wa in order to fix the problem
+1-7438957	2	2019-01-24 21:17	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+No Selection	vnarain	vnarain	2019-01-31 19:50
+suchopra	2019-02-04 23:00	
+node isolated @ morning 8.38 (site dhampur)
+All packs including ECs booted, seen SMPS corelation, suspect utility issue
+1-7438949	2	2019-01-24 21:09	1830 PSS-32	Invitel	cdezso	cdezso	2019-01-28 17:41
+cdezso	2019-01-31 14:13	
+Power down occurred during firmware download
+The only way to recover these packs is to have repaired at factory.
+1-7438845	3	2019-01-24 19:34	1830 PSS-32	Comcast Corporation
+Atlanta GA - 1900 Cumberland Pkwy	bobfoster	bobfoster	2019-01-30 17:19
+audreys	2019-03-01 22:30	
+Assistance Troubleshooting 100G Link flap
+The 260SCX pack in slot 4-10 of the Atlanta (Vinning) node was replaced. Additional instances of flapping occurred. Recommend replacing the 260SCX pack in slot 1-8 in the Rome node.
+1-7438658	4	2019-01-24 16:24	1830 PSS-32	Telefonica de Espana	jjuarezg	jjuarezg	2019-01-30 07:21
+anblanco	2019-02-21 04:30	
+Alarma fallo comunicacniones tarjeta 3/2 en OR.PO TR01:TOAD1830 WSS:1
+Reset del amplificador
+1-7438248	3	2019-01-24 11:56	1830 PSS-32	Vodacom Pty Ltd
+No Selection	gmehdipu	gmehdipu	2019-01-24 12:13
+gmehdipu	2019-01-28 02:30	
+We have finished upgrading the network to V9.1. We now need to do a GMRE Active Network Version Upgrade to V9.1
+MW will be done on Monday 28 th January at 22:00.
+1-7438228	2	2019-01-24 11:43	1830 PSS-32	Maxis M Sdn Bhd
+Kuala Lumpur MY - MAXIS KLANG VALLEY	agorle	agorle	2019-01-31 12:28
+agorle	2019-02-04 23:00	
+Observed service intermittent switching event occurred. - Detect  multiple errors  and signal degraded alarm at TGEM03 1/12/L4. - No errors observed at TGEM01
+Awaiting Customer Review of Proposed Corrective Action
+1-7437981	3	2019-01-24 07:02	1830 PSS-32	Shaw Cablesystems G.P.	fabyazi	fabyazi	2019-01-30 16:32
+fabyazi	2019-02-08 17:47	
+RA2P 1/3/linein power drop briefly
+Jan 27 -RA2P s/n EZ1349A5744 replaced
+1-7437799	3	2019-01-24 01:59	1830 PSS-64	Vodafone Spain
+No Selection	lgarciap	lgarciap	2019-01-24 19:52
+lgarciap	2019-02-13 04:30	
+no se crea cross conexion en circuito de 10 Gigas
+1-7437778	2	2019-01-24 01:41	1830 PSS-32	CLARO	jesush	jesush	2019-01-30 21:24
+jesush	2019-02-05 23:30	
+Claro Guatemala | Review for alarm VOLTAGEHIGH 2/3 AHPHG, NE VER003
+28/01/19 After to replace the card 2/3, the alarm VOLTAGEHIGH cleared, OLD 2/3 AHPHG, 8DG59245AAAB02, EZ114020333 , NEW 2/3 AHPHG, 8DG59245AAAA02, EZ102920551 | WAITING FOR CLOSURE APPROVAL
+1-7437768	1	2019-01-24 01:31	1830 PSS-32	CLARO
+No Selection	gejimene	gejimene	2019-01-31 02:21
+gejimene	2019-01-31 22:30	
+Favor verificar el enlace VER003-HER007 en la RED DWDM.
+28/01 Amplifier on slot 2/2 at VER003 with "Out of operational range - loss too high" alarm After carrying out the cleaning of fibers in the DCM port, the alarm was cleared
+1-7437668	2	2019-01-23 23:27	1830 PSS-32	Claro Argentina
+No Selection	alejands	alejands	2019-01-24 23:43
+alejands	2019-02-28 11:30	
+Caso análisis de log de DWDM 1830
+24/Jan/2019 Awaiting IP and site name from customer to obtain relevant logs.
+1-7437562	3	2019-01-23 21:32	1830 PSS-32	AZTECA COMUNICACIONES PERU S.A.C.	larios	larios	2019-01-31 03:51
+larios	2019-02-08 21:30	
+Ticket preventivo por upgrade de equipos: Bambamarca, Cajabamba, Chiclayo, Lambayeque, Olmos
+SW upg planned for tonight
+1-7437514	3	2019-01-23 20:57	1830 PSS-64	Telefonica de Espana
+No Selection	amanzan	amanzan	2019-02-01 13:56
+amanzan	2019-04-26 03:30	
+Durante la auditoria previa al upgrade release 9.2.4 en el log HealthCare del equipo HV.ON-NOW1830ANIL-1#OCS (10.191.114.5)
+En espera de intervebcion por parte de Telefonica
+1-7437465	2	2019-01-23 20:19	1830 PSS-24x	VODAFONE MOBILE SERVICES LTD.
+VODAFONE DWDM Banglore WH 3180079366	magc	magc	2019-02-01 17:40
+rkhaire	2019-02-04 23:59	
+TN_KGRI_8035X_B01_W_U_NP24001 PSS Node Not Reachable
+Node is reachable from OMS. Node got manage after deleting static route, however we have recreated static route as it is again
+1-7437177	2	2019-01-23 16:51	1830 PSS-32	Zayo Group, LLC	vfu	vfu	2019-01-23 22:03
+dprinz	2019-03-24 10:30	
+ETYX/090692//ZYO / Hard Down
+1/23: Provided COA
+1-7436988	2	2019-01-23 15:06	1830 PSS-32	TATA TELESERVICES (MAHARASHTRA) LIMITED
+No Selection	rkhaire	rahulkus	2019-02-01 20:58
+afzalk	2019-02-05 23:00	
+Backup path unavailable for 4 SNC in PSS24 ( 1350 OMS  10.104.160.4 )
+Awaiting Customer Approval for Resolve/Closure
+1-7436941	2	2019-01-23 14:35	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+Gandherwa Jammu and Kashmir - Gandherwa	rkhaire	rkhaire	2019-01-28 21:46
+rahulkus	2019-02-02 23:59	
+IM88570448 || Services flapped multiple time between JKBTOTBTOT1NA1O32101 1/16/L2 to JKJMMUTRKU2SA2T32104 1/16/L1 JKBTOTBTOT1NA1O32101 1/16/L1 to JKJMMUTRKU2SA2
+RX Power fluctuation between Jammu and Majhalta
+1-7436936	4	2019-01-23 14:32	1830 PSS-32	Saudi Telecom Company
+No Selection	abdul	abdul	2019-01-31 15:13
+abdul	2019-02-11 14:30	
+Need to Investigate who deleted the LEG at host 20600000-2PS under ERP: 401-DWDMSS1-206 CH193.7-ERP-1
+we can see the MCLAG already in EPLAN so please arrange MDT to correct the QoS at 206 as we can see there is OoS mismatch between NE and NMS
+1-7436634	3	2019-01-23 10:19	1830 PSS-16	PT INOVASI LINTAS MEDIA
+No Selection	wcatur	wcatur	2019-01-23 10:27
+wcatur	2019-02-03 10:25	
+: Jombang (Problem : Found alarm Fan Speed Is Too Low on FAN module slot 2 (no service
+Awaiting Fan Replacement
+1-7436449	4	2019-01-23 04:11	1830 PSS-32	Cable ONE Inc.	nstrout	nstrout	2019-01-29 04:25
+nstrout	2019-02-08 23:02	
+1830-AQ1-CO - Monitor Card Issues
+called customer and they indicated they will handle the part on their end
+1-7436437	2	2019-01-23 03:46	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+RJIL Tenali	ashar129	ashar129	2019-01-29 12:09
+mraina	2019-02-05 23:00	
+IM88552576 || Hardware//APTNLIKTPE1NA1O32101//Card: PF //Observing Card Failure-device alarm//Circle: AP //Site Name: Tenali //Slot: 1-36 //Impacted Node: Colle
+Awaiting Customer Field Engineer Arrival
+1-7436390	3	2019-01-23 02:50	1830 PSS-32	Level3 Communications	aho	aho	2019-01-23 03:17
+aho	2019-02-23 03:18	
+S13X100R cards taking errors when under test
+1/22: AR for customer tracking purposes only
+1-7436343	2	2019-01-23 01:52	1830 VWM	Verizon Wireless
+Jersey City NJ - 40 Amity Street	droman	droman	2019-02-01 18:06
+droman	2019-02-15 02:17	
+unable to recover alpha 850 on cran equipment
+requested update and offered help
+1-7436315	2	2019-01-23 01:18	1830 PSS-36	Telefonica Moviles
+No Selection	gejimene	gejimene	2019-02-01 03:07
+gejimene	2019-02-05 22:30	
+HC Telefonica Mexico
+01/28 We already sent the schedule of the activities to customer
+1-7436275	1	2019-01-23 00:24	1830 PSS-32	INTERNEXA PERU S.A.
+Lima PE - Prolongacion Pedro Miotta 421	jesush	jesush	2019-02-01 23:16
+jesush	2019-02-05 23:30	
+Internexa Peru | Issues found in the protection for 4 services of 10 GB | Monterrico <-> La Victoria <-> San Juan
+31/01/19 01 of the 04 lambdas was reconfigured to work with CWR 4/5 without pass by SFD 33 in the 1830PSS-32 of San Juan. After this change we didn't register any error.
+1-7435931	3	2019-01-22 19:47	1830 PSS-4	Bharti
+BHARTI BHAGALPUR	sdinodia	sdinodia	2019-02-01 12:38
+preetigu	2019-02-05 23:45	
+Node MUG_A1483 is unmanaged.
+Awaiting Customer Review of Proposed Corrective Action
+1-7435909	2	2019-01-22 19:29	1830 PSS-32	Google
+Eemshaven NL - TCN Eemsdelta Datacenter, Havennumm	abasthan	abasthan	2019-02-02 12:13
+sdinodia	2019-02-07 23:00	
+Node constantly creating fake MSH8-FSM module + preventing CVT access
+logs under investigation
+1-7435584	1	2019-01-22 15:02	1830 PSS-32	Telecom Egypt
+No Selection	ahmedso	ahmedso	2019-01-29 14:04
+ahmedso	2019-02-03 03:30	
+Power Adjustment failer on AHPLG Card Port-Said-2-1 in the direction of Portfouad-1
+waiting test Tx power for Amplifier slot 2 in port saeed
+1-7435370	4	2019-01-22 12:50	1830 PSS-32	Telefonica de Espana	amanzan	amanzan	2019-01-30 21:37
+fserrano	2019-03-29 17:30	
+Estudio de la viabilidad del rediseño del sistema
+En estudio
+1-7435354	1	2019-01-22 12:37	1830 PSS-4	AZTECA COMUNICACIONES PERU S.A.C.
+No Selection	eolvera	eolvera	2019-01-31 22:33
+eolvera	2019-01-29 11:30	
+caida de enlace
+EC is not booting even after hard reset. LD is not emmiting power. EC replacement is needed in order to troubleshoot the amplifier and recover the traffic
+1-7435266	2	2019-01-22 11:25	1830 PSS-32	Turk Telekom
+No Selection	acaldir	acaldir	2019-01-30 11:34
+acaldir	2019-02-05 11:56	
+Nokia DWDM de son zamanlarda fazlaca sayida \"card failure communication\" alarmi gelmeye baºladi...
+Awaiting Customer Maintenance Window
+1-7435037	3	2019-01-22 07:22	1830 PSS-32	Vodafone Omnitel
+Rimini IT - Rimini BSC Hub 02	mafugall	mafugall	2019-01-30 19:43
+mafugall	2019-02-22 07:22	
+[post_EC32_SWAP] After performing EC swap for the Main shelf EC16 with 32EC2 activity, observed status LED for the new 32EC2 in Solid Orange ...
+1-7434937	3	2019-01-22 03:41	1830 PSS-32	Telmex Mexico
+No Selection	eolvera	eolvera	2019-01-22 05:33
+eolvera	2019-01-29 11:30	
+FUERTES TELCEL ( PUBLPBFRO05.1) 10.17.60.95/32 WILL BE UPGRADED TONIGHT FROM R7.0.2 TO R7.0.4.  IT IS NECESSARY TO HAVE AN ASSIGNED WDM TAC ENGINEER IN CASE OF
+awaiting MW
+1-7434873	2	2019-01-22 01:01	1830 PSS-32	Telecom Argentina
+No Selection	ubernal	ubernal	2019-01-31 01:19
+ubernal	2019-03-08 11:30	
+Incoming Payload LOS alarm between : 3286Q01 contra 327QL01
+28/01/19 | We send a friendly reminder to customer , we waiting the feedback of the customer.
+1-7434762	3	2019-01-21 22:02	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+Patna Bihar - Patna	sjere	sjere	2019-01-27 18:47
+ashar129	 	
+RFO For Tejas STM16 Service down on BRPTNARKPR1SA2T32101# 1/10/C6 port after fiber cut.// Node name Patna //Impacted Service: COLLECTOR
+Under Investigation
+1-7434660	2	2019-01-21 20:32	1830 PSS-4	Bharti
+No Selection	sdinodia	sdinodia	2019-01-29 20:01
+bipsingh	2019-02-03 23:00	
+LOSDCM at 1-7-dcm of A882
+Awaiting Customer Field Engineer Arrival
+1-7434487	3	2019-01-21 17:46	1830 PSS-32	Vodafone Spain
+No Selection	lgarciap	lgarciap	2019-01-22 17:51
+lgarciap	 	
+No se puede realizar el ajuste de potencia en el WMX1190 4/2 Egress.
+En estudio
+1-7434217	2	2019-01-21 13:55	1830 PSS-24x	Alcatel-Lucent
+No Selection	rchavda	rchavda	2019-01-31 17:53
+ashar129	2019-02-05 23:00	
+GMRE related query
+escalated to TEC
+1-7434200	3	2019-01-21 13:29	1830 PSS-32	MTS PJSC
+No Selection	dbalaban	dbalaban	2019-01-25 12:05
+dbalaban	2019-02-18 02:30	
+C SU NFM-T is not available part of the nodes through the gateway element T27_31_7-HABAR.
+25-Jan: corrections to DCN has been done. Monitoring till 28-Jan
+1-7434189	3	2019-01-21 13:05	1830 VWM	Alcatel-Lucent	ey	ey	2019-01-24 07:12
+ey	2019-03-21 13:51	
+Security Management requested for CHT-4G FH VWM project
+internal discuss
+1-7434129	2	2019-01-21 12:38	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+No Selection	preetigu	preetigu	2019-01-28 21:47
+rahulkus	2019-02-03 23:59	
+IM88460664 || Hardware//KAMYSRCHMP1NA2O32102//Card:11STMM10//Card failure - Communication //Circle:KA //Site Name: Maysore//Slot:1-15 //Impacted Node: Colle
+Alarm re-appeared // Card needs to be changed at 1/15
+1-7434099	4	2019-01-21 12:17	1830 PSS-32	Asia Pacific Telecom Co., Ltd.
+AAA TW - APT	mlin010	mlin010	2019-01-21 12:58
+mlin010	2019-03-21 12:17	
+1830PSS32 DWDM SLOT07 Amplifier failure replacement card
+Under Investigation
+1-7434003	4	2019-01-21 10:35	1830 PSS-16	PT INOVASI LINTAS MEDIA
+No Selection	alala	alala	2019-01-23 10:33
+alala	2019-02-21 22:30	
+Problem :  Follow Up Healthy Check Result  ) CA SA  18/12/27 05:29:23 OTS LOS-OUT 1/4/SIG Out  and Alarm Statistics: CR-1, MJ-0, MN-0, WR-2 on Pekutatan Negara
+1-7433826	1	2019-01-21 04:35	1830 PSS-32	CLARO
+No Selection	eolvera	eolvera	2019-01-29 23:43
+jortegay	2019-01-22 11:30	
+Se perdió gestión del elemento de red. Personal técnico  se conectó local SAYAXCHE, y  se tienen alarmas de card failure boot failure ,   en todo el equipamient
+After technical meeting Customer authorized AR closure.
+1-7433799	2	2019-01-21 00:28	1830 PSS-32	Telecom Egypt
+Alexandria EG - Mahatet masr Sq	mahmouga	mahmouga	2019-01-31 14:55
+mahmouga	2019-02-13 15:30	
+PO14  Duplicate wave key alarm on two wavelengths between Saloum and Mashefa Wavelength No: 9320 & 9510
+Awaiting de-insertion of site Shobykat.
+1-7433749	1	2019-01-20 18:19	1830 PSS-32	Turk Telekom
+No Selection	mgorece	mgorece	2019-01-21 16:20
+mgorece	2019-01-31 13:30	
+AT50125944-{"KAHRAMANMARAª NOKIA DWDM SISTEMI 18.30.46.19 ÜNIVERSITE IZOLE OLMUªTUR. 2
+EC replaced.
+1-7433728	2	2019-01-20 16:42	1830 PSS-16II	Cox Communications Inc.
+No Selection	droman	droman	2019-02-02 05:04
+webcustomer	2019-02-14 17:53	
+TACNAZAGOZZILA 32 EC2 card down.
+probeblay won't be addressed until the 17th or later
+1-7433708	2	2019-01-20 15:00	1830 PSS-4	Bharti
+BHARTI VARANASI	rahulkus	rahulkus	2019-01-31 09:26
+mraina	2019-02-06 23:00	
+A1262 unmanaged.
+Awaiting Customer Field Engineer Arrival
+1-7433626	3	2019-01-20 07:02	1830 PSS-32	AZTECA COMUNICACIONES PERU S.A.C.
+No Selection	acayo	acayo	2019-01-26 09:10
+acayo	2019-01-30 11:30	
+AZTECA PERU: No power levels are observed in the supervision channel in the Matucana node
+This is not an issue , this is a change in behavior by Nokia in Rel 9.0.2
+1-7433605	3	2019-01-20 02:58	1830 PSS-32	Entel Peru S.A.
+Camino Real (Americatel)	acayo	acayo	2019-01-26 09:02
+acayo	2019-01-30 11:30	
+Entel Peru: LOS-O Alarms in NEs of site MSO01
+The Alarm was cleared after change LD and OSC (shelf1 slot2) module in the node LM-MSO1-OTN-PHN
+1-7433548	2	2019-01-19 19:30	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+Trichy Tamilnadu - Trichy	vnarain	vnarain	2019-02-02 03:05
+sjere	2019-02-04 23:00	
+IM88408136 || Hardware//TNTCPPVRGT1NA2O32101//Observing Payload Type Mismatch Egress - ODU alarm//Circle: TN //Site Name: TRICHY//Slot: 2/6/C6 //Impacted Node:
+MW is requested for loop testing
+1-7433498	2	2019-01-19 15:26	1830 PSS-36	Vodafone Qatar
+No Selection	mgorece	mgorece	2019-01-21 16:24
+mgorece	2019-01-31 13:30	
+Power max gain alarm appeared between QSTP to ILS segment
+Awaiting Customer Review of Proposed Corrective Action
+1-7433354	4	2019-01-19 05:17	1830 PSS-32	Navega
+No Selection	rireyes	rireyes	2019-02-02 00:36
+jgretzula	2019-02-28 11:30	
+Navega Guatemala Warning: Check Compact Flash card for file system defects
+31/01/2019 The Debug Dumps are available in the next link HC ResultsDebug_dump of the nodes involved https://nokia-my.sharepoint.com/:f:/r/personal/jesus_alberto_martinez_nokia_com/Documents/Tigo%20GT/Health%20Care/debug_28JAN2019?csf=1&e=TYfxf
+1-7433285	1	2019-01-19 02:39	1830 PSS-32	Apple Inc	mlanctot	mlanctot	2019-01-31 23:42
+mlanctot	2019-02-09 03:30	
+span down in Dallas Texas affecting 32 100gig circuits.
+Jan.28, Data Link Down alrm remains after fiber restoration. Req remote session.
+1-7433180	4	2019-01-18 23:49	1830 PSS-32	SaskPower
+Regina SK - 2025 Victoria Avenue	larios	larios	2019-01-31 04:05
+larios	2019-02-08 21:30	
+Power adjustment failed - Maximum number of iterations reached
+28/01/18 Awaiting MT window
+1-7433107	3	2019-01-18 22:15	1830 PSS-32	Telmex Mexico
+No Selection	jorgeru	jorgeru	2019-01-30 11:39
+jorgeru	2019-01-31 10:30	
+GENERAR HEALTH CHECK DE LOS EQUIPOS 1830PSS-32 DE TELMEX (NORTE) PROACTIVO
+Results sent to customer, jorgeru
+1-7433098	3	2019-01-18 22:08	1830 PSS-32	Telmex Mexico
+No Selection	jorgeru	jorgeru	2019-01-30 02:29
+jorgeru	2019-01-31 10:30	
+GENERAR HEALTH CHECK DE LOS EQUIPOS 1830PSS-32 DE TELMEX (CENTRO) PROACTIVO
+Results sent to customer, jorgeru
+1-7433093	2	2019-01-18 21:59	1830 PSS-32	Comcast Corporation
+Houston TX - 18500 Keith Harrow Blvd	aho	aho	2019-01-24 00:15
+aho	2019-02-18 22:09	
+Outgoing channel absent
+1/23: MW scheduled on 2/12
+1-7432920	4	2019-01-18 19:26	1830 PSS-32	T-Mobile	gmehdipu	gmehdipu	2019-02-01 13:55
+gmehdipu	2019-01-31 02:30	
+Last 4 months: 3 x 130SNX cards failure
+We are waiting for repair report result of cards
+1-7432374	2	2019-01-18 10:02	1830 PSS-32	Maxis M Sdn Bhd
+Kuala Lumpur MY - MAXIS KLANG VALLEY	mraina	mraina	2019-01-31 11:46
+mraina	2019-02-06 23:33	
+Observed Locked ODU & Outgoing Channel Absent alarm;
+Awaiting Customer Review of Proposed Corrective Action
+1-7432233	3	2019-01-18 06:56	1830 PSS-32	AZTECA COMUNICACIONES PERU S.A.C.
+No Selection	rireyes	rireyes	2019-02-01 06:59
+rireyes	2019-02-11 11:30	
+Peru Azteca HealthCare del equipo del Callao muestra 2 Failures Check for VLAN, MAC and possible mis-cabling
+28/017/2019 Waiting for the client to provide a window date to swithc the EC boards for the subshelf and the main shelf.
+1-7432157	2	2019-01-18 04:53	1830 PSS-16	AZTECA COMUNICACIONES PERU S.A.C.
+No Selection	dcamposb	dcamposb	2019-01-29 12:24
+dcamposb	2019-02-13 22:30	
+Canta 172.16.33.70 (LIM-CTA-DF-AL-P16-01) failing the LOAD to rel 9.0.2
+01/28: *NO CHANGES* Load failed at node. It is needed @CANTA an EC switch and then try gain the loaf, after commit in rel 7.0.2 again | Waiting theh Customers confirms the activities.
+1-7432125	4	2019-01-18 03:52	1830 PSI-2T	Apple Inc
+No Selection	mlanctot	mlanctot	2019-02-01 20:23
+mlanctot	2019-02-16 03:30	
+USMSC2-LOL3-2TXP3 hangs on CLI or WebUI sessions
+Requesting additional information
+1-7432023	3	2019-01-18 01:25	1830 PSS-32	Level3 Communications
+No Selection	vfu	vfu	2019-01-22 02:30
+vfu	2019-02-16 10:30	
+S13X100R with QSFP28 modules taking errors when under test
+Follow up on AR1-7387324
+1-7431056	3	2019-01-17 10:56	1626 LM	Rostelecom
+SOUTH	ssobolev	ssobolev	2019-01-17 19:43
+ssobolev	2019-03-20 11:30	
+VLK063D_6 TRBD1111 1-1-11-L1-OUT Wavelenght Out Of Range
+17/01: Sent request to replace TRBD1111-1-1-11 card
+1-7430856	3	2019-01-17 06:55	1830 PSS-32	SK broadband
+No Selection	hju	hju	2019-01-30 14:15
+hju	2019-02-15 07:30	
+[SKB B2B] Anyang_sh6sl3_line in 9510-channel optical power out of range.
+Under Investigation
+1-7430828	3	2019-01-17 05:12	1830 PSS-64	TELEMAR NORTE LESTE S/A	ppichnof	jorgeru	2019-02-02 02:43
+ppichnof	2019-03-02 06:19	
+Lab preparation to make tests related to 1-7421972/1-7430630
+29-jan-2019 15:58 UTC-2 -> Waiting TEC NMS information to close the issue.
+1-7430795	2	2019-01-17 03:29	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+RJIL Begusarai	preetigu	preetigu	2019-01-28 21:48
+rahulkus	2019-02-03 23:00	
+Card Failure-boot failure and Card failure-Fuse BattA, BattB on 1/12 at Begusarai(10.199.25.9)
+260SCX2 card needs to be replaced at slot 12
+1-7430685	2	2019-01-17 01:15	1830 PSS-4	Canadian Pacific Railway	acarenza	acarenza	2019-02-01 21:38
+acarenza	2019-02-28 18:30	
+ec card will not come up
+Shipped EC had 10.1 preloaded intead of the factory load
+1-7430645	3	2019-01-17 00:09	1830 PSS-16	Pacific Gas and Electric
+No Selection	larios	larios	2019-01-31 04:05
+larios	2019-02-08 22:30	
+issue with one of a EC controller is initializing state
+28/01/18 EC slot 1/2 must reseat or replaced, awaiting feedback from the customer
+1-7430558	3	2019-01-16 22:14	1830 PSS-4	University of Pittsburgh Medical Center
+Pittsburgh PA -	kelldo	kelldo	2019-02-02 01:03
+kelldo	2019-02-06 04:30	
+need assistence OSPF configuration
+1-7430523	2	2019-01-16 21:48	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+No Selection	preetigu	preetigu	2019-02-02 03:02
+sjere	2019-02-04 23:00	
+IM88297450 || Hardware// TNRMPMSRKT1NA1O32101 ( 10.199.20.125 ) // PF //Observing Card failure - boot failure alarm //Circle: TN //Site Name: Ramnathpuram //Sl
+Awaiting Customer Field Engineer Arrival
+1-7430519	3	2019-01-16 21:48	1830 PSS-32	Level3 Communications	mlanctot	mlanctot	2019-02-02 02:59
+mlanctot	2019-02-16 03:30	
+Two nodes in APR - Node on greenfield segment
+Remote session completed - waiting for session logs
+1-7430205	1	2019-01-16 17:25	1830 PSS-32	AZTECA COMUNICACIONES PERU S.A.C.
+No Selection	dcamposb	dcamposb	2019-01-29 12:24
+dcamposb	2019-02-13 11:30	
+Abancay IP: 172.16.33.112 alarms of BoardEqpt PF 1/36 & VoltageLow PF 1/19
+01/2Customer asked to keep this AR in pendig ultil MW is authorized.| Waiting that Customer confirms the activities in NE ABANCAY
+1-7430073	2	2019-01-16 15:28	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+RJIL GPON-Rewari-3180059691	magc	magc	2019-01-31 20:09
+suchopra	2019-02-04 23:59	
+IM86382806//685772588 || CreateWO:CRC error is increasing on RWRINRNLPAR003 for Te0/4/8 || New TT IM88046233
+NFF at Nokia end
+1-7429868	3	2019-01-16 12:57	1830 PSS-32	Turk Telekom
+No Selection	senses	senses	2019-01-25 15:12
+senses	2019-01-29 17:00	
+AT50043114-{"Burdur DWDM üzerinde 1/11/L1 üzerinden Bucak'a çaliºan 9440 kanalinda Rx BER to be calculated from FEC-EC and FEC-UBC : 1.15E-06 seviyesinde hata s
+1-7429851	3	2019-01-16 12:26	1830 PSS-32	Vodafone Spain
+No Selection	lgarciap	lgarciap	2019-01-19 02:53
+lgarciap	 	
+Alarmas repetitivas del GMRE  WMX1189
+1-7429766	1	2019-01-16 11:03	1830 PSS-32	CLARO
+No Selection	alejands	alejands	2019-02-01 03:45
+alejands	2019-02-13 11:30	
+Demanda 100G de Guarda Viejo hacia Villa Fontana intermitente  Team Viewer: ID 997 461 790 PW:  632and
+Customer confirms that the outage event was originated by a fiber, when the fiber was fixed the service was recovered. However there are still errors in the service, suggestions from gTAC and TEC have been accepted by Customer awaiting a MW.
+1-7429592	3	2019-01-16 06:30	1830 PSS-32	Sandeul Networks
+No Selection	hju	hju	2019-01-30 14:15
+hju	2019-02-15 07:30	
+[SeJong-Tbroad] 11dpm12 card esncp 1g aps group not visible.
+Provided the answer and waiting for customer feedback
+1-7429550	1	2019-01-16 05:10	1830 PSS-32	COLOMBIA TELECOMUNICACIONES SA ESP
+No Selection	gejimene	gejimene	2019-01-29 07:50
+gejimene	2019-02-05 22:30	
+Signal Degrade on slot 1/13/L1 11QPA4 CUC1 node.
+01/19 LOF on 11QPA4 slot 1/13 at CUC_1_PSS32 node,
+1-7429477	2	2019-01-16 02:33	1830 PSS-32	Level3 Communications
+No Selection	aho	aho	2019-02-01 02:10
+aho	2019-02-16 03:03	
+using 100gbe circuit using s13x100 cards, and having known issue with card. receiving errors across the cards
+1/31: Customer replaced 2-14-C32 third time now it runs clean and monitoring
+1-7429387	2	2019-01-16 00:31	1830 PSS-16II	Claro Argentina
+No Selection	eolvera	eolvera	2019-02-01 21:34
+eolvera	2019-02-12 11:30	
+We have issues erasing/creating services in NFM-T
+Feb 1st/ Asking for closure
+1-7429302	3	2019-01-15 23:03	1830 PSS-32	Telecom Argentina
+No Selection	larios	larios	2019-01-31 03:56
+larios	2019-02-08 22:30	
+Maximum number of iterations reached 32BEL02/AHPHG-4-2
+29/01/18 Remaind about gTAC recommendtions sent to the customer
+1-7429153	3	2019-01-15 20:34	1830 PSS-4	SFR FIXE
+No Selection	gaspar1	gaspar1	2019-01-29 16:55
+gaspar1	2019-02-17 04:30	
+A4-C-000280599-01 ==> 1/2 PF HS.
+1-7428638	4	2019-01-15 13:13	1830 PSS-16	Telefonica de Espana	rodiazna	rodiazna	2019-01-25 18:18
+fserrano	2019-02-28 20:05	
+ELX.VI TR01:TNOW1830 PSS:1 Fallo del backup y controladoras inestables
+Cambio de EC slot 12
+1-7428544	2	2019-01-15 12:00	1830 PSS-16	AZTECA COMUNICACIONES PERU S.A.C.
+No Selection	guadalhe	guadalhe	2019-02-02 03:39
+guadalhe	2019-02-28 23:30	
+Cotahuasi 172.16.33.15  EC 1/2 Card Initializing Azteca_Sur (Peru)
+Awaiting people at site to get logs last update Feb 01 2019 16:09 Mex Time by Jonatan Hernandez
+1-7428518	2	2019-01-15 11:38	1830 PSS-32	AZTECA COMUNICACIONES PERU S.A.C.
+No Selection	rireyes	rireyes	2019-01-29 00:06
+rireyes	2019-02-04 11:30	
+Peru Azteca Chivay 172.16.33.7  EC 1/1 Card Initializing
+28/01/2018 According to what was discussed with the CTS tomorrow, a debug cable will be provided to the client in order to schedule an appointment to the site and validate the conditions of the 1/1 card
+1-7428514	2	2019-01-15 11:26	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+No Selection	mraina	mraina	2019-01-30 14:16
+mraina	2019-02-05 23:33	
+Allahabad UEABDDCVLL1OA2T32104 ||  NE is not working as GNE
+FSE awaited at site
+1-7428277	2	2019-01-15 07:03	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+Nawada Bihar - RJIL Nawada	preetigu	preetigu	2019-01-30 11:50
+rkhaire	2019-02-03 23:00	
+IM88237476 || Hardware//BRNWDARSLN1NA1O32101// Observing Shelf data inconsistent alarm // Circle: BR // Site Name: Nawada // Shelf 1 // Impacted Node: Collector
+FSE is awaited at site
+1-7428195	4	2019-01-15 03:30	1830 PSS-32	Apple Inc
+Dallas TX - 1950 Stemmons	aho	aho	2019-02-01 22:44
+aho	2019-02-15 03:42	
+Incomplete circuit path trace on some circuits
+1/30: Rescheduled 1000hrs 1/31
+1-7428061	3	2019-01-15 00:19	1830 EPT	Alcatel-Lucent
+Plano TX - 601 DATA DRIVE	nstrout	nstrout	2019-01-15 22:02
+nvillanu	 	
+260SCX2 Muxponder routing forcing regen for unknown reason
+ept attached.
+1-7428031	3	2019-01-14 23:38	1830 PSS-32	AZTECA COMUNICACIONES PERU S.A.C.
+No Selection	eolvera	eolvera	2019-02-01 21:32
+eolvera	2019-02-05 11:30	
+Tracking AR1-7338964 Remplazo de EC 1/18 en Jaen. Check Compact Flash card for file system defects
+Feb 1st/ Asking for closure
+1-7427829	2	2019-01-14 20:24	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+No Selection	ashar129	ashar129	2019-01-28 21:50
+rahulkus	2019-02-03 23:59	
+IM88226910//Hardware//MUMUMBGDVL2CLSR32201//Card:A2325A//Observing APR Unavailable - Monitor Card Booting alarm//Circle:MU//Site Name:CLS VODAFONE//Slot:2-2//Im
+Awaiting Customer Review of Proposed Corrective Action
+1-7427556	4	2019-01-14 16:32	1830 PSS-32	Saudi Telecom Company
+No Selection	jempleo	jempleo	2019-01-31 16:36
+jempleo	2019-02-04 14:30	
+Investigation PR - With ref to attached mail for 1350-OMS (NFM-T) Huge NE Communication Loss issues
+issue related to 214 GNE router; after rectified it became stable
+1-7427434	3	2019-01-14 15:19	1830 PSS-32	France Telecom Espana SA	chernanz	chernanz	2019-01-30 16:41
+chernanz	2019-02-14 21:30	
+HOSPITAL/BOT_CORNELLA/CE0_LAMBDA_2_plano OPR degradado
+A la espera de revisar estado con ORG.
+1-7427417	2	2019-01-14 15:01	1830 PSS-16	Tiscali S.p.A
+No Selection	rloprete	rloprete	2019-01-23 12:54
+rloprete	2019-03-14 15:01	
+Avremo la necessita di analizzare gli allarmi  sulla sezione ottica in oggetto.
+Awaiting Receive Log Files / Technical Info
+1-7427362	4	2019-01-14 14:24	1830 PSS-32	Stark Technology Inc.
+AAA TW - STI	awlee	awlee	2019-01-30 07:36
+philshih	2019-03-30 21:30	
+1830PSS-32 OTN equipment health check
+Under Investigation
+1-7426425	3	2019-01-12 05:01	1830 PSS-36	Telmex Mexico
+No Selection	guadalhe	guadalhe	2019-02-02 03:37
+guadalhe	2019-02-28 22:30	
+Alarma de Filter Missing en equipo 1830PSS36 ZAPATILLA EZABXPREOS0-1 _ AR relacionada 1-7303481 1-7346088 1-7424053
+Dummies and metal deflector were changed, monitoring time last update Feb 01 2019 16:07 Mex Time by Jonatan Hernandez
+1-7425952	2	2019-01-11 18:34	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+Himmatnagar Gujrat - Himmatnagar	rchavda	rchavda	2019-01-28 15:26
+kmerani	2019-02-04 23:00	
+Kindly open AR:-  IM88120694 || Hardware//GJHGARXXXX1ILAO32101//EC//Node Isolate //Circle: PB //Site Name: Himmatnagar //Impacted Node: Collector
+Awaiting HW Replacement
+1-7425594	2	2019-01-11 15:38	1830 PSS-24x	TATA TELESERVICES (MAHARASHTRA) LIMITED	afzalk	afzalk	2019-02-01 18:31
+afzalk	2019-02-05 23:59	
+Filter clogged high alarm issue at TURBHE1_PSS24_MU_PUN, it is occur every 2 days. Kindly check and share permanent resolution.  
+Awaiting Customer Review of Proposed Corrective Action
+1-7424527	3	2019-01-11 13:50	1830 PSS-32	Telecom Italia S.p.A.
+No Selection	pacamera	pacamera	2019-01-31 21:21
+cdaniele	2019-03-08 21:30	
+PALEITBC-PXM3-1 / 50.248.95.97 Fan 2/37 FLT Nokia Remote Technical Support Pr.3
+TO BE REPLACE FAN 2/37 scheduled 02/05/19
+1-7424178	3	2019-01-11 08:52	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+No Selection	mraina	mraina	2019-01-29 12:45
+mraina	2019-02-05 23:33	
+IM88103655 || MUNVMBDGHB5BOIT32301 //1/17/C1 ESNCP circuit not switched//Site name: Sify-Rabale// Impacted Node: Metro Access
+Link was down due to media failure and manual activity. further for TX packet not seen needs to be chceked separately.
+1-7424055	2	2019-01-11 04:44	1830 PSS-36	Entel Peru S.A.
+Camino Real (Americatel)	jorgeru	jorgeru	2019-01-29 21:32
+jorgeru	2019-02-06 11:30	
+Se registra alarmas de High Filter Clogging en equipos PSS36
+MW scheduled for 21/01 may be, customer requested to check HAYA node instead. jorgeru
+1-7424044	3	2019-01-11 04:09	1830 PSS-32	Saudi Telecom Company
+No Selection	kjadoon	kjadoon	2019-01-27 14:09
+najam	2019-02-04 14:30	
+There is intermittent error in 100G link
+Link is unstable due to high span loss. Waiting for HSL rectification.
+1-7423981	2	2019-01-11 02:33	1830 PSS-32	Bharti
+No Selection	magc	magc	2019-02-01 20:30
+afzalk	2019-02-06 23:50	
+card provisning failure on 1/1 EC during software upgrade //A514
+Awaiting Customer Field Engineer Arrival
+1-7423970	2	2019-01-11 02:09	1830 PSS-32	Google
+No Selection	nstrout	nstrout	2019-01-29 03:57
+nstrout	2019-01-31 21:49	
+Several of the NEs are continuously warm rebooting and triggering EC redundancy switches.
+Core dumps attached
+1-7423951	4	2019-01-11 01:49	1830 PSS-32	Saudi Telecom Company
+No Selection	aismaiel	aismaiel	2019-01-27 14:08
+najam	2019-02-04 14:30	
+For GNE 242-1PS loopback IP: 172.31.134.97 is not pingable but OAMP IP: 172.31.134.181 is pingable
+Please send the field team to check the LAN cable between OAMP and IT switch and make sure you able to ping the node with OAMP IP
+1-7423947	3	2019-01-11 01:44	1830 PSS-32	Level3 Communications	vfu	vfu	2019-01-29 19:36
+vfu	2019-02-16 10:30	
+S13X100R taking intermittent errors on testing
+1/11: Collecting port and FW status data. Follow up on AR1-7387324
+1-7423841	3	2019-01-10 23:31	1830 PSS-32	Level3 Communications	rust	dbowman	2019-02-01 01:43
+jeffgordon	2019-02-08 10:30	
+Unable to get point to point S13X100R circuit to run clean on test set
+Jan 21 Next Steps: Receive the two packs from CL, replicate the problem then upgrade to R10.1 and verify error free operation. being tracked by 1-7387324
+1-7423754	2	2019-01-10 22:02	1830 PSS-32	Entel Peru S.A.
+Camino Real (Americatel)	acayo	acayo	2019-01-26 09:06
+acayo	2019-01-30 11:30	
+ENTEL PERU: There are errors in OSC Channel between LM-MSO01-DWDM and LM-MSO01-OTN-PHN.
+This ticket is about AR R 1-7352907 ,after window maintenance (change of LD and OSC : shelf 1 slot 2 in the node LM-MSO01-OTN-OHN) the issue was solved.
+1-7423662	2	2019-01-10 20:49	1830 PSS-32	Telmex Mexico	wilmerd	wilmerd	2019-01-28 22:57
+wilmerd	2019-02-08 22:30	
+PWRMAXGAIN alarm in port Line Out of LD AM2125B slot 16 TULAHGTUO1P.2
+01/28/19: Span loss way SYNQXMSFO0F (10.167.135.177) 1/3/lineout => 1/16/linein TULAHGTUO1P.2 (10.167.135.183) is 23.71 dB, (6.7 dB more than other way), spanloss was changed by customer but now we have loss to low, awaiting feedback of customer
+1-7423427	3	2019-01-10 17:23	1830 PSS-32	France Telecom Espana SA	chernanz	chernanz	2019-02-01 07:00
+chernanz	2019-02-15 21:30	
+MADRID/CAM_MADRID/IC0_LAMBDA_7A Unknown OCH Trail for xconnect
+A la espera de TP.
+1-7423308	4	2019-01-10 15:47	1830 PSS-32	Saudi Telecom Company
+No Selection	jempleo	jempleo	2019-01-31 16:33
+jempleo	2019-02-04 14:30	
+During one week time(01-07 January 2019), 2357 NE communication Loss alarms reported.
+awaiting further investigation results from TEC if there is an issue with NFM-T or DCN
+1-7423198	2	2019-01-10 14:49	1830 PSS-24x	Bharti
+BHARTI JHARSUGUDA	rkhaire	rkhaire	2019-02-01 10:12
+rkhaire	2019-02-04 23:59	
+Battery off alarm at A096
+Awaiting Customer Field Engineer Arrival
+1-7422667	3	2019-01-10 06:47	1830 PSS-32	DK UNC CO., LTD.
+No Selection	mhan1	mhan1	2019-01-29 11:53
+mhan1	2019-01-30 20:30	
+[NIRS] 12P120 sh signal fail
+will have remote session
+1-7422663	3	2019-01-10 06:42	1830 PSS-32	Stark Technology Inc.
+AAA TW - STI	ey	ey	2019-01-31 04:56
+ey	2019-03-10 07:27	
+HC Test - Check for OspfArea operational state
+Under Investigation
+1-7422547	4	2019-01-10 03:42	1830 PSS-32	Navega
+No Selection	lmilian	gejimene	2019-02-01 06:12
+lmilian	2019-02-06 23:30	
+A low power is observed in the service "A15677" on the side El Rodeo 2
+During technical meeting Customer confirmed MW is scheduled for tonight. Awaiting MW results.
+1-7422519	2	2019-01-10 02:42	1830 PSS-32	Verizon Wireless
+No Selection	rickeyk	rickeyk	2019-01-30 18:38
+rickeyk	2019-02-09 04:30	
+Frame loss on Drop and some Pass thru channels
+Sent the next steps to clear the PostFEC errors.
+1-7422223	3	2019-01-09 21:04	1830 PSS-32	France Telecom Espana SA
+No Selection	chernanz	chernanz	2019-01-31 19:53
+georgegs	2019-02-05 21:30	
+Alarmas FECC Threshold crossed en 260SCX2
+Bajo estudio.
+1-7422118	3	2019-01-09 19:41	1830 PSS-32	France Telecom	scercle	scercle	2019-01-17 20:14
+bcabon	2019-05-15 20:22	
+des soucis sur certains NE 1830PSS32 quand on réalise des remote inventory ? l'OMS : certains modules ne remontent pas dans le RI (généralement les modules de t
+1-7422067	3	2019-01-09 18:47	1830 PSS-64	Vodafone Spain
+No Selection	lgarciap	lgarciap	2019-01-09 20:15
+lgarciap	2019-01-30 04:30	
+WMX3133OCS  AFO/031541 Power Out of Range en el WMX3133OCS slot34 No se aprecia caída de potencia en la entrada. a Además  esta teniendo esta tarjeta un Channel
+1-7422051	3	2019-01-09 18:34	1830 PSS-32	Vodafone Spain
+No Selection	lgarciap	lgarciap	2019-01-11 17:01
+fserrano	2019-01-30 04:30	
+WMX3287 Replace Unit Missing Shelf2 EC-18
+Pte cambio de EC 2/18
+1-7422046	3	2019-01-09 18:29	1830 PSS-32	Vodafone Spain
+No Selection	lgarciap	lgarciap	2019-01-19 02:51
+lgarciap	2019-01-31 04:30	
+WMX3175 Replace Unit Missing Shelf2 (FAN/PF´s/EC´s)
+1-7422032	3	2019-01-09 18:17	1830 PSS-32	France Telecom Espana SA	chernanz	chernanz	2019-01-21 15:38
+chernanz	2019-03-22 15:30	
+PSSALGINETDOCFO2862 sin gestión
+A la espera de revisión local.
+1-7421971	3	2019-01-09 17:21	1830 PSS-32	Movistar Chile
+No Selection	cmancill	cmancill	2019-02-01 10:36
+cmancill	2019-02-21 11:30	
+Chile | Movistar | 1830 PSS-32 | Failure during GMRE upgrade
+December 9th Waiting for further details in order to continue the analysis.
+1-7421726	2	2019-01-09 14:22	1830 PSS-32	D.I.L. TECHNOLOGY
+No Selection	mgorece	mgorece	2019-01-21 16:27
+mgorece	2019-01-31 02:30	
+Fluctuation problem
+Awaiting Receive Log Files / Technical Info
+1-7421483	2	2019-01-09 11:57	1830 PSS-24x	Bharti
+BHARTI KHARAGPUR	afzalk	afzalk	2019-01-29 17:00
+bipsingh	2019-02-06 23:59	
+Card degrade MOD 1/19/2 of A099
+Awaiting Customer Review of Proposed Corrective Action
+1-7421416	2	2019-01-09 10:55	1830 PSS-32	Ontario Research and Innovation Optical Network
+No Selection	acarenza	acarenza	2019-01-30 19:09
+acarenza	2019-02-28 10:30	
+Trying to add RAMAN amps, can't get span up
+RA2P-96 insertion was completed on 1/27/2019
+1-7421174	4	2019-01-09 03:23	1830 PSS-36	Telefonica Moviles
+No Selection	eolvera	eolvera	2019-02-01 21:18
+eolvera	2019-02-05 11:30	
+Servicio configurado de 10 ligas.
+Feb 1st/ We still waiting for MW to clear overflow issue
+1-7421095	4	2019-01-09 01:28	1830 PSS-32	Saudi Telecom Company
+No Selection	abdul	abdul	2019-01-31 15:11
+abdul	2019-02-11 14:30	
+Please check this issue Card failure and CF 16G
+This is newly installed unit in the network and EMC can order it from vendor here is the detail of the unit Unit Mnemonic : 32EC2 Unit Part Number : 8DG62635AA
+1-7421057	3	2019-01-09 00:54	1830 PSS-32	CableVision Mexico
+No Selection	alejands	alejands	2019-01-30 21:52
+dcamposb	2019-02-07 11:30	
+San Juan de los Lagos | EC Loop After config cler all
+1-7420491	3	2019-01-08 16:17	1830 PSS-4	Telefonica de Espana	amanzan	amanzan	2019-01-18 20:01
+amanzan	2019-03-29 17:30	
+Las siguientes incidencias son de equipos aislados de Nokia DWDM METRO.
+En estudio
+1-7420139	4	2019-01-08 12:28	1830 PSS-32	Stark Technology Inc.
+AAA TW - STI	awlee	awlee	2019-01-30 07:33
+philshih	2019-03-30 21:30	
+1830PSS OTN HealthCheck for 4UC400 issue
+Under Investigation
+1-7419911	4	2019-01-08 07:03	1830 PSS-32	Telecom Argentina
+No Selection	cmancill	cmancill	2019-02-01 10:35
+cmancill	2019-02-15 11:30	
+Argentina | Telecom | 1830PSS-32 | PSSCOG01/AHPLG-2-2-LINE-PSSLUG01/AHPLG-1-2-LINE
+January 29th Customer confirms the pendign activity is going to be implemented on February 6th
+1-7419902	2	2019-01-08 06:40	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+No Selection	sjere	sjere	2019-01-28 21:51
+rahulkus	2019-02-05 23:50	
+Following mentioned 10G E-SNCP circuit is taking more switching time(around 150 to 200 ms) than expected(50ms).
+Awaiting Customer Maintenance Window
+1-7419769	3	2019-01-08 01:42	1830 PSS-32	Emirates Integrated Telecommunications Company
+EITC	shadyi	shadyi	2019-01-31 03:35
+shadyi	2019-02-25 01:30	
+AUH2911-1 - HealthCheck review to get GO for upgrade 9.0.2 -> 10.1.1 > 11.0.1
+13/01 AP provided via email.
+1-7419767	3	2019-01-08 01:42	1830 PSS-32	Emirates Integrated Telecommunications Company
+EITC	shadyi	shadyi	2019-01-31 13:19
+ahammad	2019-02-25 01:30	
+AUH2938-1- HealthCheck review  to get GO for upgrade  9.0.2 -> 10.1.1 > 11.0.1
+13/01 Action Plan to clear the issue provided.
+1-7419385	2	2019-01-07 18:26	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+Hyderabad Andhra Pradesh - RJIL Hyderabad#2	suchopra	suchopra	2019-02-01 11:21
+rkhaire	2019-02-04 23:39	
+IM87983339 || Card reboot at APHDBDBGLM1SA2R32201 (RCOM MCN Hyderabad) Slot- 2-4 & 2-12 card -WR8-88A
+Awaiting Receive Log Files / Technical Info
+1-7419045	4	2019-01-07 13:16	1830 PSS-24x	Stark Technology Inc.
+AAA TW - STI	awlee	awlee	2019-01-30 07:32
+philshih	2019-03-30 21:30	
+1830-24X TCM1-2001-23-1-1 loss of signal-otu
+Under Investigation
+1-7418826	3	2019-01-07 10:38	1830 PSS-24x	OTC Technology
+No Selection	sunghwam	sunghwam	2019-01-30 13:55
+sunghwam	2019-02-08 06:30	
+[SKT] ASAP modification for T-FECC alarm is impossible on 2UC400 card.
+For the reproducing test, preparing lab system now.
+1-7418339	2	2019-01-05 18:42	1830 PSS-32	Maxis M Sdn Bhd
+Kuala Lumpur MY - MAXIS KLANG VALLEY	afzalk	afzalk	2019-01-31 17:49
+ashar129	2019-02-07 23:59	
+SGTP-L01(3-22-L1) - MUAR-L01(1-33-L1) 10GE otu#1 is down  - requesting GTAC to check.
+Awaiting Customer Review of Proposed Corrective Action
+1-7418008	2	2019-01-04 22:41	1830 PSS-32	NuevaTel Bolivia
+No Selection	cmancill	cmancill	2019-02-01 10:35
+cmancill	2019-02-15 11:30	
+Bolivia | NUEVATEL | 1830 PSS-32 | NE: DWDM_LP7005. It is not possible to manage the equipment by CLI
+January 29th To continue the follow up, it is needed customer restore the connectivity between NE and NTP server.
+1-7417870	3	2019-01-04 19:47	1830 PSS-32	Netia S.A.
+No Selection	mjakubow	mjakubow	2019-01-28 04:29
+mjakubow	2019-02-07 19:30	
+KaliH001wm50 - possible miscabling
+Awaiting HW Replacement - KaliH001wm50 EC-1/1
+1-7417590	2	2019-01-04 14:39	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+No Selection	rkhaire	magc	2019-01-31 11:46
+rkhaire	2019-02-03 23:59	
+IM86362149 || Hardware//BRSSRMADSH1NA1O32101//Card:DCM//Observing Card missing alarm //Circle: BR//Site Name:Sasaram //Slot:29-1 //Impacted Node: Collector
+Awaiting Customer Review of Proposed Corrective Action
+1-7417514	1	2019-01-04 13:49	1830 PSS-32	Telmex Mexico
+No Selection	wilmerd	wilmerd	2019-02-02 08:33
+jorgeru	2019-02-08 11:30	
+100G Fuera GB100L-1510-0013
+01/28/19: Och 44 was created successfuly with OTs in available slots PUBLPBCT02A.2: 2/11/L1 <=> 28/1/9440 and PCHCHGREO1Z.2: 2/2/L1 <=> 30/1/9440, Lambda is free of errors. Awaiting MW to delete test Ch44 and normalize ch 39 to 44 MOP delivered
+1-7417354	3	2019-01-04 11:58	1830 PSS-32	SK broadband	hju	hju	2019-01-21 14:31
+hju	2019-01-25 07:30	
+1830PSS_SKB__1830_ B2B_Health check for upgrade
+Provided HC report by email
+1-7417147	3	2019-01-04 04:58	1830 PSS-16II	Cox Communications Inc.	fabyazi	fabyazi	2019-02-02 01:08
+fabyazi	2019-02-08 15:27	
+Span loss issue between Newton and Wichita
+Feb 01: MW to be scheduled 1/10 -COA provided.
+1-7417074	2	2019-01-04 02:14	1830 VWM	Verizon Wireless
+Rochester NY - 175 Calkins Road	rickeyk	rickeyk	2019-01-31 19:34
+rickeyk	2019-02-14 04:30	
+after 851 upgrade we are receiving channnel not supported by SFP
+Sent the next steps to clear the channel rate not supported alarms.
+1-7417047	2	2019-01-04 01:32	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+No Selection	mraina	mraina	2019-02-01 11:25
+rkhaire	2019-02-04 23:00	
+IM85608431 || Hardware//BRFRBSXXXX6NA1O32101//Card: SFD & DCM//Observing multiple Card missing alarm //Circle: BR//Site Name: Forbeshganj//Slot: Multiple//Impa
+Awaiting Customer Field Engineer Arrival
+1-7416892	3	2019-01-03 21:51	1830 VWM	Verizon Wireless
+No Selection	acarenza	acarenza	2019-02-01 21:31
+acarenza	2019-02-28 10:30	
+SFP transmit bias current overthreshold
+Analyzing SFP data
+1-7415873	2	2019-01-03 11:28	1830 PSS-32	DK UNC CO., LTD.	mhan1	mhan1	2019-01-29 14:40
+mhan1	2019-02-14 20:30	
+[NIRS] Dual Client Tx Power is ON on 12P120
+Local check issue related with AR1-17415061
+1-7415215	2	2019-01-02 18:45	1830 PSS-8	Level 3 SP Cotia
+Level 3 SP Cotia -- Bill To	rsegundo	rsegundo	2019-01-28 19:54
+rsegundo	2019-02-11 19:30	
+02/01/2019_Level 3_PSS-32_CTIABZAF and BLHRBZAO sites IP 10.85.250.128 and IP 10.85.250.136 with intermittent circuits.
+22/01/2019 -- 11h35 -- UTC-2 --> The customer should be check the network attenuation between the CTA and ATB sites and to verify the attenuation in the 10-15km between CTA - ATB.
+1-7415146	2	2019-01-02 17:06	1830 PSS-32	SUPERONLINE
+No Selection	senses	senses	2019-02-01 14:15
+senses	2019-01-22 17:00	
+Absnode alarmlari clear olmuyor.
+1-7415035	3	2019-01-02 15:31	1830 PSS-36	Telefonica de Espana	rodiazna	rodiazna	2019-01-28 14:12
+rodiazna	2019-02-20 04:30	
+1830 OCS Errores en Matriz
+Pendiente nuevo BTP
+1-7414944	2	2019-01-02 14:03	1830 PSS-32	SUPERONLINE
+No Selection	mgorece	mgorece	2019-01-15 18:09
+kkuyucu	2019-01-31 13:30	
+Ticket: Balikesir 3/2 ingress power adj fail
+Awaiting Customer Maintenance Window
+1-7414912	4	2019-01-02 13:39	1830 PSS-32	Saudi Telecom Company
+No Selection	kjadoon	kjadoon	2019-01-27 14:05
+najam	2019-02-04 14:30	
+For complained NI-183254 PRN-98393 TNOC investigate and found no abnormality in transmission path for mentioned date/time stamp
+Asked the customer to update more details about the faced problem.
+1-7414782	3	2019-01-02 11:46	1830 PSS-4	Sandeul Networks
+No Selection	mhan1	mhan1	2019-01-29 14:42
+mhan1	2019-02-14 20:30	
+[LGU+_HCN]_Request "clear wave key function"
+Under Investigation
+1-7414746	3	2019-01-02 10:44	1830 PSS-32	Sandeul Networks
+No Selection	mhan1	mhan1	2019-01-29 14:43
+mhan1	2019-02-14 20:30	
+[SamsungSDS]_RoA_S1.SCCC.S1_43SCX4E L1 Output port fail
+Under Investigation
+1-7414543	4	2019-01-01 18:14	1830 PSS-32	Saudi Telecom Company
+No Selection	aabarque	aabarque	2019-01-27 14:06
+najam	2019-02-04 14:30	
+With reference of TT # 12659094 Multiple 10G and 4x100G channels are effected
+CRQ000000171933 has been re-schedule for 2/7/2019 12:00:00 AM 2/7/2019 6:00:00 AM And send for further Approval...
+1-7414415	3	2019-01-01 02:39	1830 PSS-32	S.T.I.B.
+Rogier P.C.	gaspar1	gaspar1	2019-01-31 19:29
+gaspar1	 	
+OTUTrail Down FB-543-RR-A 1/17/1 L1 SFP Receive power out of range
+OTUTrail Down FB-543-RR-A 1/17/1 L1 SFP Receive power out of range 9230
+1-7414386	2	2019-01-01 01:37	1830 PSS-32	Zayo Group, LLC	nstrout	nstrout	2019-02-02 00:19
+nstrout	2019-02-12 02:24	
+CLSSCO54LT1 shelf 2 slot 36 power filter failure, changed out did not clear, stared&compared 437 418 watt difference
+slot 2/32 11STAR replaced but initially alarm did not clear alarm. Cold rebooted inactive EC in 2/18/warm rebooted EC in 2/1 and alarm cleared. ran "config red dbsync"and warm rebooted 2/18 - alarm stayed clear on PF 2/36 - customer will monitor.
+1-7413759	2	2018-12-30 13:27	1830 PSS-32	Bharti
+BHARTI ALLAHABAD	abhisheg	abhisheg	2019-01-30 21:46
+abhisheg	2019-02-05 23:58	
+Deference value of line power and OSC power at 1-2 of SNR-TGUP-ONR-T-A2134
+Awaiting Customer Field Engineer Arrival
+1-7413523	2	2018-12-29 13:30	1830 PSS-36	Entel Peru S.A.
+Camino Real (Americatel)	jorgeru	jorgeru	2019-01-29 21:32
+jorgeru	2019-02-06 21:30	
+LSP-31 SNCP state Unknown, and on Tail node GMRE degraded after FLC switch.
+The SNCP unknown status becomes because a failure of communication between FLC process and GMRE process, jorgeru
+1-7413321	2	2018-12-29 02:51	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+Jagdishpur Uttar Pradesh -East - Jagdishpur	rkhaire	rkhaire	2019-01-28 21:52
+rahulkus	2019-02-04 23:59	
+Unable to clear OMD loss at Jagdishpur(10.199.25.152)
+input awaited
+1-7413297	2	2018-12-29 01:45	1830 PSS-32	Movistar Chile
+No Selection	wilmerd	wilmerd	2019-01-29 02:51
+wilmerd	2019-02-08 11:30	
+ason trail - ser3 - inde separacion sh50w with optical feasibility violation alarm in GMRE
+01/28/19: Was found a common point in optical layer of LSP Ch 56,57,50 in LD 1/2 of EfernandezNorte it can`t perform power adjustment due Loss to High, was confirmed with EPT design out of EOL, Awaiting feedback from customer to fix it
+1-7413259	3	2018-12-29 00:02	1830 PSS-32	AZTECA COMUNICACIONES PERU S.A.C.
+No Selection	dcamposb	dcamposb	2019-01-30 00:04
+dcamposb	2019-02-13 22:30	
+4 NEs PSS-32 are unreachble, alarms Data Link down and OCHTRAILUNKNOWN present in LD AM2032A
+01/28: WAITING for Closure authorization | COLD reset in 1/17 SN:EZ1544A2673 @ PUN-MAC-DR-AL-P32-01 and managment was recovered of adyacent nodes.
+1-7412966	2	2018-12-28 17:41	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+RJIL TIRUVARUR	sdinodia	sdinodia	2019-01-31 20:24
+suchopra	2019-02-04 23:00	
+IM87638635//THIRUVRUR node isolate : TAMIL NADU//Span Name: Nagapattinam-Thiruvarur Mannargudi//Link Name: Mayiladuthurai- Pattukkottai- Thanjavur //Impacted Se
+Awaiting Customer Field Engineer Arrival
+1-7412825	1	2018-12-28 14:59	1830 PSS-24x	Bharti
+BHARTI GURGAON	bipsingh	bipsingh	2019-01-31 17:15
+bipsingh	2019-02-04 23:30	
+KOL _ LSP-306 :- Found sncp state UnKnown and continues Soft Rerouting event for main path in the gmre logs. While there issue in Media.
+Awaiting SW Upgrade / Migration
+1-7411988	2	2018-12-27 18:51	1830 PSS-24x	Bharti
+Bharti Guwahati	bipsingh	bipsingh	2019-01-31 19:33
+bipsingh	2019-02-04 23:23	
+getting plugbule module unknown
+Correct SFP's need to be replaced
+1-7411977	4	2018-12-27 18:33	1830 PSS-64	Telecom Argentina
+No Selection	jorgeru	jorgeru	2019-01-29 21:32
+jorgeru	2019-02-06 21:30	
+Falla en la creación de servicios 10G entre los NE indicados. Las Líneas se presentan con estado indeterminado, Sin Alarmas y sin responder a los loops lógicos/
+23/01 .- Awaiting MW to be scheduled by customer, jorgeru
+1-7411853	2	2018-12-27 15:53	1830 PSS-24x	VODAFONE MOBILE SERVICES LTD.
+VODAFONE DWDM KERALA WH 3180089366	suchopra	suchopra	2019-01-31 17:46
+ashar129	2019-02-05 23:59	
+Node Backup Fail Issue
+Issue resolved after warm rest the Node.The issue is fix in rel-11.x.
+1-7411694	4	2018-12-27 13:56	1830 PSS-24x	Stark Technology Inc.
+AAA TW - STI	awlee	awlee	2019-01-31 07:41
+xizhou	2019-03-31 07:52	
+CHT OTN 1830PSS-24X 4UC400 service interrupted
+Under Investigation
+1-7411363	3	2018-12-27 07:54	1830 PSS-32	UNITED FIBER OPTIC COMMUNICATION
+AAA TW - UFOC	awlee	awlee	2019-01-30 07:47
+philshih	2019-03-29 10:59	
+1830PSS-32 FET 7x50 SR 100G service stuck after ASON 260SCX2 LSP restored
+Under Investigation
+1-7411102	2	2018-12-26 22:23	1830 PSS-16II	Google
+Council Bluffs IA - 10410 Bunge Avenue	shivs	shivs	2019-01-29 17:16
+shivs	2019-02-26 22:54	
+Replace ALU lt10.cbf16 SLOT-12-1
+Awaiting Receive Log Files / Technical Info
+1-7411087	2	2018-12-26 21:49	1830 VWM	Verizon Wireless
+Troy NY - 225 Jordan Road.	nstrout	nstrout	2019-02-02 00:38
+nstrout	2019-02-16 22:17	
+LakePlacid 071249--Loss of com on Shelf 5 TLU
+Customer to arrange for replacement TLU sent replacement .procedure. Original Customer contact asked if tcustomer contact be changed to Tom Goodnough - called WC and made that change.
+1-7410704	3	2018-12-26 13:57	1830 PSS-32	Maxis M Sdn Bhd
+Kuala Lumpur MY - MAXIS KLANG VALLEY	abasthan	abasthan	2019-01-23 15:37
+abhisheg	2019-02-23 23:50	
+GMRE_Glue writing has stopped
+Work Suspended by Customer
+1-7410148	2	2018-12-25 13:18	1830 PSS-4	RELIANCE JIO INFOCOMM LIMITED
+RJIL Lab - Network Replica Lab	kmerani	kmerani	2019-01-29 12:41
+mraina	2019-02-05 23:00	
+The RPM files in most of the PSS4 NEs in Production as well as QA lab is showing date as 1971 which seems to be default Linux timing.
+escalated to TEC
+1-7409683	2	2018-12-24 16:52	1830 PSS-32	Vodafone Qatar
+No Selection	kkuyucu	kkuyucu	2019-01-22 15:22
+kkuyucu	2018-12-25 02:30	
+Want to know,Is our Amplifier capble of tollerate the extar 10 KM fiber length after migration from exiting one to new one.
+1-7408931	4	2018-12-23 18:05	1830 PSS-32	Saudi Telecom Company
+No Selection	najam	najam	2019-01-27 14:05
+najam	2019-02-04 14:30	
+EPLAN 231-DWDMSS1-712-193.8-ERP2 is inconsistent cannot add any client port.
+Please arrange MDT to solve the ERP inconsistent, ERP name: ERP2-231-DWDMSS1-712-CH9380
+1-7408677	1	2018-12-22 23:47	1830 PSS-32	CLARO	knaves	knaves	2019-02-01 00:50
+knaves	2019-02-14 17:30	
+Claro_BR - PSS32 - Node GOACG01-PSS1830-0009 with alarm EQPTDGR in the AHPHG board.
+==== 29/01/2019--09h16 -- GMT-3 --> The remote access are unavailable. Waiting remote access to continue the investigation
+1-7408332	4	2018-12-22 00:39	1830 PSS-16II	Cox Communications Inc.	mlanctot	mlanctot	2019-02-02 00:22
+mlanctot	2019-02-16 03:30	
+LSANCAJWOZZPER1830NK - 13/12/ES2 -32EC2 Link down
+Recommend replacing EC 13/12. Need info for PR
+1-7407979	4	2018-12-21 16:09	1830 PSS-64	Telefonica de Espana	rodiazna	rodiazna	2019-01-28 14:11
+rodiazna	2019-02-08 18:17	
+Hardware Minor fail en unidad 130SCUP 1-35
+BTP-0002146124 07/02/2019 00:00:00
+1-7407962	3	2018-12-21 15:51	1830 PSS-32	Telefonica de Espana
+No Selection	rodiazna	rodiazna	2019-01-27 23:19
+rodiazna	2019-01-31 18:10	
+Degradación del vano N9 de 1-13-C1 y 1-11-C1
+Pendiente de intervención tras periodo de congelación para comprobación local de medidas y fibras.
+1-7407907	4	2018-12-21 15:04	1830 PSS-32	Telefonica de Espana	amanzan	amanzan	2019-02-01 19:33
+amanzan	2019-02-22 17:30	
+El amplificador Shelf 3 slot 2 no permite realizar ajuste
+En espera de autorizacion de cierre
+1-7407661	2	2018-12-21 10:39	1830 PSS-32	Samhwa Telecom Industry Co., Ltd
+No Selection	mhan1	mhan1	2019-01-29 14:44
+mhan1	2019-02-14 20:30	
+[NIRS] 1830PSS-32 W/P Service
+Information/Action Provided
+1-7407648	2	2018-12-21 10:33	1830 PSS-4	RELIANCE JIO INFOCOMM LIMITED
+SOPORE	kmerani	kmerani	2019-01-28 14:54
+kmerani	2019-02-04 23:00	
+RE: IM86323045 || Hardware//JKSPREUPRS1NA1O32101//Card:DCM //Observing Card missing alarm //Circle: JK //Site Name: Sopore //Slot: 29-1 //Impacted Node: Collect
+Awaiting Customer Review of Proposed Corrective Action
+1-7407142	3	2018-12-20 20:01	1830 PSS-32	PT INOVASI LINTAS MEDIA
+No Selection	suryanto	suryanto	2019-01-31 13:56
+wsubagdj	2019-02-22 20:20	
+INOVASI LINTAS MEDIA//[FS_DWDM] Project_B3JS
+after change setting client port, alarm cleared.
+1-7406997	2	2018-12-20 17:57	1830 PSS-32	LLC ADV CONSULTING
+Moscow Moscow - Ozerkovskaya naberezhnaya, 50	aonokhin	aonokhin	2019-01-31 12:55
+aonokhin	2019-02-08 13:30	
+112SDX11 Fibre Channel trunk deskew difference
+10-Jan: recommend to collect logs and perform tests (loopbacks) to localize issue (Nokia/optic-fiber/Brocade). Awitinf results. Pending confirmed.
+1-7406956	1	2018-12-20 17:21	1830 PSS-64	SUPERONLINE
+No Selection	kkuyucu	kkuyucu	2019-01-24 04:18
+hammadf	2019-01-05 02:30	
+SNCN not Working between VANTOV and MEDNAUTILUS
+Information/Action Provided
+1-7406871	4	2018-12-20 16:04	1830 PSS-16	Telefonica de Espana	rodiazna	rodiazna	2018-12-20 16:24
+amanzan	2019-01-25 17:30	
+Tenemos dos tarjetas de un PSS16 cercanas al límite máximo térmico (86ºC
+1-7406229	3	2018-12-20 06:14	1830 PSS-32	CableVision Mexico
+No Selection	cmancill	cmancill	2019-02-01 10:34
+cmancill	2019-02-15 11:30	
+México | CableVision | 1830 PSS-32 | NE: EL_SALTO_1_PSS32. VOA3 of the 1/17 board reports Card Degrade alarm
+January 29th The spare part is under purchase processes, CTS comments there is not an expected date to deliver the fVOA.
+1-7405550	4	2018-12-19 16:56	1830 PSS-36	Telefonica de Espana	amanzan	amanzan	2019-01-22 14:14
+amanzan	2019-02-28 17:30	
+Alarma LSSC en tarjeta 130SCUP slot 1/2 de MTL.TR02:TNOW1830 OCS:1
+Pendiente cambio de tarjeta BTP-0002154785 07/02/2019
+1-7405166	2	2018-12-19 12:17	1830 PSS-32	Bharti
+BHARTI GURGAON	mraina	mraina	2019-02-01 12:09
+preetigu	 	
+Unable to delete services
+[SP] : Given this connection Stability-RCH-NWD-6 to NE team to delete LSP - PSS-TAC action pending.
+1-7405018	4	2018-12-19 09:26	1830 PSS-32	Stark Technology Inc.
+AAA TW - STI	awlee	awlee	2019-01-30 07:28
+philshih	2019-03-30 21:30	
+1830 OTN GMRE LINK DOWN
+Under Investigation
+1-7404746	2	2018-12-19 01:44	1830 PSS-8x	Alcatel-Lucent
+No Selection	kelldo	kelldo	2019-01-29 01:38
+kelldo	2019-01-30 04:30	
+LOF on 1UX100 2/5 McAllen
+12/21 - issue under investigation
+1-7404411	4	2018-12-18 20:18	1830 PSS-16II	Public Service Telephone Company	ttitirig	ttitirig	2019-01-31 10:02
+ttitirig	2019-02-01 03:30	
+Rolled to new fiber path.
+Awaiting ept file to check planned span loss
+1-7404320	2	2018-12-18 19:12	1830 PSS-32	Bharti
+No Selection	bipsingh	bipsingh	2019-01-30 19:28
+bipsingh	2019-02-07 23:59	
+error getting at A2443 1-8-c32
+Awaiting Customer Review of Proposed Corrective Action
+1-7404097	2	2018-12-18 15:49	1830 PSS-32	France Telecom Espana SA
+No Selection	chernanz	chernanz	2019-01-24 16:07
+chernanz	2019-02-20 21:30	
+ORANGE WDM_IT-MAN-18-2069_PROBLEMA AJUSTE CANAL 30_865 CX02 VIGO WDM
+En observación.
+1-7403515	3	2018-12-18 06:48	1830 PSS-32	Sandeul Networks
+No Selection	mhan1	mhan1	2019-01-29 14:58
+mhan1	2019-02-15 07:30	
+[SamSung SDS]_SAMSUNGSDS ROA-B1-GMCC-N1 WR8-88_2-4 Card Failure
+Under Investigation
+1-7402076	3	2018-12-17 07:55	1830 PSS-32	Emirates Integrated Telecommunications Company
+EITC	shadyi	ahmansou	2019-01-14 17:48
+ahmansou	2019-01-31 01:30	
+Output LOS on 1/14/SIG OUT and 1/9/SIG OUT after software activation from R1830PSSEC-8.2.2 to R1830PSSECX-9.1-1
+17/12 Awaiting log files.
+1-7401863	2	2018-12-16 15:02	1830 PSS-32	Vodafone Qatar
+No Selection	ttitirig	ttitirig	2019-01-31 08:54
+ttitirig	2019-02-15 13:07	
+3 x 10G services down with out any alarms
+customer asked to hold the ticket till issue re-occurs (in monitor)
+1-7401287	3	2018-12-14 21:46	1830 PSS-32	Level3 Communications	droman	droman	2019-01-28 23:52
+droman	2019-02-27 19:10	
+LATCHOPEN alarm on 32EC2: EZ1823A4904
+For Tracking purposes. Update to be provided through PLM.
+1-7401273	3	2018-12-14 21:35	1830 PSS-32	Level3 Communications	droman	droman	2019-01-28 23:52
+droman	2019-02-27 19:10	
+LATCHOPEN alarm on 32EC2: RT183800751
+Customer was asked to pick an EC to send back for lab test
+1-7401238	3	2018-12-14 21:05	1830 PSS-32	Level3 Communications	droman	droman	2019-01-31 00:13
+droman	2019-02-25 19:10	
+LATCHOPEN alarm on 32EC2: EZ1749A3718
+Jeff offered to have the next problematic EC FMA'd. Waiting to hear back.
+1-7401139	3	2018-12-14 19:25	1830 PSS-4	Alcatel-Lucent
+No Selection	milesi100000	milesi100000	2019-01-26 02:25
+milesi100000	2019-01-28 14:09	
+PSS4 Hardware EC 2G => 8G upgrade on  ORANGE FRANCE NETWORK
+Under Investigation
+1-7400818	4	2018-12-14 14:54	1830 PSS-36	Telefonica de Espana	anblanco	anblanco	2019-01-28 17:37
+fserrano	2019-02-27 18:09	
+alarma LSSC en 130SCUP Slot 16 de ETP.CS TR01:TOAD1830 OCS:1
+Try COLD reset, if it fails try alternative slot, if it fails replace it.
+1-7400573	3	2018-12-14 11:41	1830 PSS-32	Samhwa Telecom Industry Co., Ltd
+No Selection	mhan1	mhan1	2019-01-29 14:57
+mhan1	2019-02-14 20:30	
+[NIRS] 1830PSS-32 12P120 3R Setting
+Provided the way of configuring 3R function
+1-7400567	3	2018-12-14 11:44	1830 PSS-32	Samhwa Telecom Industry Co., Ltd
+No Selection	mhan1	mhan1	2019-02-01 12:08
+mhan1	2019-02-14 20:30	
+[NIRS] flapping DCM Card missing
+investigate with ticket 1-7382110
+1-7400368	3	2018-12-14 06:20	1830 PSS-32	Sandeul Networks
+No Selection	mhan1	mhan1	2019-01-29 14:55
+mhan1	2019-02-15 19:30	
+[SamSung SDS]_ROA-S1-SACC-N1 A2325A-1-2-SIG-9600 CHANNEL COLLISION
+changed the Lamda and cleared alarm
+1-7400097	3	2018-12-13 23:16	1830 PSS-32	VIVO
+No Selection	knaves	knaves	2019-02-01 00:41
+knaves	2019-02-14 17:30	
+Vivo_BR - PSS-32 - Customer question about the alarms to indicate the changes in span loss as increase of attenuation.
+==== 29/01/2019--09h59 -- GMT-3 --> Sent new e-mail to customer explaining about the "Optical Intrusion detection" function and how configure it. We also requested customer authorization to close the AR.
+1-7400094	4	2018-12-13 23:15	NFM-T	Antel
+No Selection	[unassigned]	[unassigned]	2018-12-26 21:15
+sztamber	 	
+.
+Customer requested closure of this ar
+1-7399795	3	2018-12-13 18:39	1830 PSS-32	Exelon Corp
+PECO - Conowingo	najepr	najepr	2019-02-02 00:36
+najepr	2019-03-09 03:30	
+Trouble reaching mgt address of node. ..>reachability problem on node
+Attached retrievals from customer
+1-7399390	3	2018-12-13 12:37	1830 PSS-32	Sandeul Networks
+No Selection	mhan1	mhan1	2019-01-29 14:54
+mhan1	2019-02-14 20:30	
+LGU AHPHG Time to detect osc power monitoring
+provided technical info to customer
+1-7398532	2	2018-12-12 20:42	1830 PSS-32	Bouygues Telecom	gaspar1	gaspar1	2019-01-23 19:06
+gaspar1	2019-12-13 22:17	
+backup failed
+1-7397594	3	2018-12-12 07:52	1830 PSS-32	Vodafone Omnitel
+Roma IT - Roma 04	gfalasca	gfalasca	2019-01-30 22:11
+gfalasca	2019-02-12 07:52	
+[postISU_PHN] - after ISU minor UNKNOWNMOD alarms on some boards
+1-7397426	2	2018-12-12 03:00	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+RJIL Malout	preetigu	preetigu	2019-01-28 14:50
+kmerani	2019-02-04 23:00	
+IM86930221||Hardware//PBMLUTGRMK1NA1O32101//Card: DCM and SFD44//Observing Multiple Card missing alarm //Circle: PB //Site Name: Malout //Slot: multiple //Impac
+Shielded INV cables are delivered at Malout
+1-7397333	2	2018-12-12 00:40	1830 PSI-2T	Facebook
+No Selection	mlanctot	mlanctot	2019-01-30 00:17
+mlanctot	2019-02-09 03:30	
+We have external interface fails on L1 and L2 of bio1-ts057 facing vab1-ts034 and an Optics Coherent Controller, Port Minor alarm. Need to get some assistance o
+Alarms have cleared - cold rebooted 1/2 in Bio NE
+1-7397065	3	2018-12-11 20:15	1830 PSS-32	E-Net	milesi100000	milesi100000	2019-01-17 17:36
+dano	2019-01-24 12:36	
+Suspected ILAN identified on lon_PS32_tc01 during proactive health-check
+sent a mail to customer with next steps
+1-7397029	3	2018-12-11 19:18	1830 PSS-32	Saudi Telecom Company
+No Selection	aismaiel	aismaiel	2019-01-27 14:05
+najam	2019-02-04 14:30	
+FAM15-1PS Visibility is unstable
+Under Investigation
+1-7396892	3	2018-12-11 17:49	1830 PSS-32	France Telecom
+No Selection	gaspar1	gaspar1	2018-12-12 19:40
+gaspar1	2018-12-13 23:01	
+le trafic est interrompu sur les 4 ports de la carte (Seul L1 et L2 sont utilisés)
+1-7396736	3	2018-12-11 16:19	1830 PSS-32	COM PLUS CZ a.s.	vstehlik	vstehlik	2018-12-21 17:24
+vstehlik	2019-01-31 04:30	
+KLT Out of operational range - loss too high (Cleared) z 1/2/DCM In Optical
+1-7395146	3	2018-12-11 07:49	1830 PSS-32	DK UNC CO., LTD.	hju	hju	2018-12-12 09:56
+jajeong	2018-12-21 07:30	
+[SKB-CJ] AL1830-WonJu 1-1 Card failure - communication
+Under Investigation
+1-7395125	3	2018-12-11 07:26	1830 PSS-32	SK broadband
+No Selection	hju	hju	2018-12-11 09:07
+hju	2018-12-21 07:30	
+[SKB-B2B] SKB_Physical Connection delete Fail
+Under Investigation
+1-7394942	3	2018-12-11 01:15	1830 PSS-32	Level3 Communications	nstrout	nstrout	2019-02-02 01:00
+nstrout	2019-01-31 23:38	
+S13X100R and QSFP28 taking hits on facility loop to local test set on 100GbE test
+the current slot 14/4/C32 module is showing "nil" recieve power and no RX lane powers. reccomend the fiber connections and output power/lane powers of the connecting equipment be checked. linked to TEC AR 1-7387324
+1-7394509	2	2018-12-10 18:23	1830 PSS-32	Emirates Integrated Telecommunications Company
+EITC	mhached	mhached	2019-01-19 13:37
+ahmansou	2019-01-22 14:40	
+PRCDRERR-TOPO : Power management topology invalid alarm on the amplifier 2/3/LINE in RVMP_AUH2920-1
+14/12 As per local CE Engineer, 1/5/THRU<>2/5/THRU topology will be removed during outage CR planned on 16th and 17th January 2019.
+1-7394274	4	2018-12-10 15:45	1830 PSS-8	Telefonica de Espana	amanzan	amanzan	2019-01-25 18:21
+fserrano	2019-05-31 12:59	
+Los en BJ.UN-NOW1830ANIL1 en la unidad 1UX100 del shelf 3 slot 10.
+Ticket escalado 1-734144. Enviado reporte con RCA. Pendiente reset de unidades con 6 meses (WA) y carga FW en cuanto se disponga.
+1-7393448	2	2018-12-09 19:05	1830 PSS-8x	Telefonica de Espana	anblanco	anblanco	2018-12-17 13:55
+martama	2019-01-17 14:00	
+Alarma OTU-LOS en tarjeta 1UX100 del nodo MTO. TR10:TNOW1830 ANIL:1
+Ticket escalado 1-734144. Enviado reporte con RCA. Pendiente reset de unidades con 6 meses (WA) y carga FW en cuanto se disponga.
+1-7392592	3	2018-12-07 17:58	1830 PSS-32	SFR FIXE
+No Selection	ml81	ml81	2019-01-08 19:47
+scercle	2019-12-07 21:14	
+ALU NG] Loss Too High sur AHPHG en 2/2/3 (DCM) sur A32-R-0000291198-01.
+5dBM gagner dans le sens Lorient-Quimper le 6/12 vers 21h30
+1-7392542	2	2018-12-07 16:57	1830 PSS-32	VIVO
+No Selection	knaves	knaves	2019-02-01 00:37
+knaves	2019-02-14 17:30	
+Vivo_BR - PSS-32 - Impossible set the FECType or clear PM by WebUi for board 130SCX10 in the node YTSPIA32-01
+==== 29/01/2019--09h15 -- GMT-3 --> Restored. Changed the FEC Type by CLI. Requested to customer wait the upgrade to R9.0-2 to double check the WebUi issues.
+1-7391878	3	2018-12-07 13:21	1830 PSS-32	Sandeul Networks
+No Selection	hju	hju	2018-12-11 09:13
+hju	2018-12-21 07:30	
+1830_ SamsungSDS_RoA_S1.SWDC.DR _ Outgoing Channel optical power out of range
+Under Investigation
+1-7391876	3	2018-12-07 13:21	1830 PSS-32	Sandeul Networks
+No Selection	hju	hju	2018-12-11 09:10
+hju	2018-12-21 07:30	
+1830_ SamsungSDS_RoA_S1.GCCC.N1_43SCX4E Sh2 Slot16 L1 LOF
+Under Investigation
+1-7391795	3	2018-12-07 12:23	1830 PSS-32	DK UNC CO., LTD.	hju	hju	2018-12-12 09:58
+jajeong	2018-12-14 07:30	
+[SKB-CJ] YangCheon-01 130SNX10 5-10/12 ~ JungAng-01 1-10/12 path switching occurred.
+Under Investigation
+1-7391406	2	2018-12-07 03:10	1830 PSS-32	Fidelity Telephone Co
+Sullivan	rickeyk	rickeyk	2019-01-30 18:39
+rickeyk	2019-02-08 04:30	
+critical alarm card failure communication on amplifier
+Slot 1/10 seems to be defective, will escalate to TEC to check if they see anything from the logs before replacing the Shelf
+1-7391173	3	2018-12-06 22:08	1830 PSS-36	EI TOWERS S.p.A
+MARGHERA_EI-1	mafugall	mafugall	2019-01-14 14:18
+mafugall	2019-12-06 22:08	
+Transport failure, SVC-OPR-DWN e LOC
+1-7391073	4	2018-12-06 20:42	1830 PSS-32	Canadian Pacific Railway
+No Selection	droman	droman	2019-01-29 01:47
+droman	2019-02-28 19:16	
+How to setup FTP server for SSLCSR transfer
+Chris has not tested yet. Will he ping him in a few days.
+1-7390410	2	2018-12-06 11:27	1830 PSS-32	Vodafone Telekomunikasyon AS	senses	senses	2019-02-01 14:08
+senses	2019-02-12 17:00	
+SAM3201/AM2032A-1-2-LINEOUT Power Adjsutment Required Alarm? Hk
+Information/Action Requested
+1-7390016	2	2018-12-06 00:39	1830 PSS-32	Orange Dominicana S.A.	sammarti	sammarti	2019-01-09 23:59
+sammarti	2019-01-15 23:30	
+Orange | Dominicana | Supress all the alarms in a NE by OMS for Northbound.
+02/01/19 NMS team continues working with customer requierements, waiting for their feedback.
+1-7389658	3	2018-12-05 19:48	WaveLite Metro 200	Exatel S.A.	mmichta	mmichta	2019-01-27 17:15
+mmichta	2019-02-15 16:30	
+High error rate on the 200G interface WaveLite Metro 200
+Information was sent to the Customer.
+1-7389423	3	2018-12-05 16:28	1830 PSS-32	Vodafone Spain
+No Selection	anblanco	anblanco	2018-12-05 18:15
+anblanco	 	
+Channel unexpected en todos los nodos de la ruta. Frecuencia 9255.000. AFO/109711. El circuito está en funcionamiento.
+1-7388305	3	2018-12-04 19:48	1830 PSS-64	Antel
+No Selection	alejands	alejands	2019-01-18 04:06
+alejands	2019-12-04 11:30	
+Varios servicios correspondientes a un mismo Trail presentan micro-cortes pero no se observan alarmas en la capa DWDM
+17/Jan/2018 NEs are not presenting HW failure, awaiting feedback from customer
+1-7388139	2	2018-12-04 18:05	1830 PSS-4	Eurotunnel
+No Selection	ml81	ml81	2018-12-04 20:35
+ml81	2018-12-31 04:30	
+L'equipement tunnel ER 5204 non joignable
+Plan d'action envoyé
+1-7387591	4	2018-12-04 11:35	1830 PSS-32	Stark Technology Inc.
+AAA TW - STI	awlee	awlee	2019-01-30 07:27
+philshih	2019-03-30 21:30	
+1830 PSS-32 TCM1-2001 Y CABLE APS SWTCH FAIL
+Under Investigation
+1-7387324	2	2018-12-04 04:03	1830 PSS-32	Level3 Communications
+Peoria IL - 111 W WASHINGTON ST STE.310	dbowman	dbowman	2019-01-31 22:17
+jeffgordon	2019-02-09 10:30	
+S13X100R/QSFP28 taking errors when in facility loopback
+29JAN19 packs being sent to TEC through RMA process for testing
+1-7387033	3	2018-12-03 21:49	1830 PSS-32	Alcatel-Lucent	mlanctot	mlanctot	2019-01-28 20:57
+mlanctot	2019-02-09 03:30	
+130 and 260SCX2 Firmware Obsolete issue for Shaw
+provided inventory and firmware details
+1-7386935	3	2018-12-03 20:48	1830 PSS-32	SFR FIXE
+SFR St Gaudens POP	kguoui	kguoui	2019-01-25 14:11
+carestoolsuite	2019-03-25 05:44	
+default sur les ports C7 entre St Gaudens et C5 sur Toulouse
+1-7386399	4	2018-12-03 14:05	1830 PSS-36	Telefonica de Espana
+TELEFONICA LERIDA	anblanco	anblanco	2018-12-27 18:02
+martama	2019-01-27 18:07	
+Hardware minor circuit pack failure 130SCUP
+Tarjeta cambiada. Pendiente recibir de Telefónica.
+1-7385642	2	2018-12-02 02:28	1830 PSS-16II	Cox Communications Inc.	nstrout	nstrout	2019-02-02 01:05
+nstrout	2019-02-16 01:04	
+Possible fiber span issue between Mclain and Millersville
+1/21: Customer setting up ECR to check fiber incoming to the McLean site 12/18: Latest OTDR shows a high reflection event at ~40M from the equipment followed by 2 more lossy events; this may point to an intermediate jumper being faulty
+1-7384785	3	2018-11-30 16:04	1830 PSS-8	TeliaSonera
+No Selection	milesi100000	milesi100000	2019-01-26 02:34
+milesi100000	2019-02-04 16:35	
+ELTTJE-OTM44-01, wawekeys missing
+requested customer to re-create cross connections with same names in all NEs
+1-7384496	2	2018-11-30 12:03	1830 PSS-32	SUPERONLINE	gmehdipu	gmehdipu	2019-01-16 11:28
+mozgur	2018-12-26 02:30	
+Vakfikebir NE sine cli ile eriºemiyoruz. Acilen kontrol eder misiniz?
+CF send to R&D for further investigation
+1-7383278	3	2018-11-29 12:47	1830 PSS-64	Stark Technology Inc.
+AAA TW - STI	chunhaoh	chunhaoh	2019-01-30 07:45
+philshih	2019-03-30 21:30	
+PSS64 Migration support
+1-7383213	3	2018-11-29 11:34	1830 PSS-16	Rostelecom
+NORTH-WEST	maximvasiliev	maximvasiliev	2019-01-30 15:47
+maximvasiliev	2020-01-10 13:30	
+Verifying RA2P units on the SPB0005_3 node
+30/01 Back Panel was checked. Photos received. Additional problems on site was not detected. Awaiting results of repairs form repair center.
+1-7383094	3	2018-11-29 09:32	1830 PSS-32	Sandeul Networks
+No Selection	mhan1	mhan1	2019-01-29 14:53
+mhan1	2019-02-15 09:36	
+LGU_HCN Raised unprovisioned channel
+Under Investigation
+1-7382382	3	2018-11-28 19:16	1830 PSS-32	EMBRATEL	rsegundo	rsegundo	2019-01-25 16:45
+rsegundo	2019-02-11 19:30	
+28/11/2018 11h55 - 1830PSS32_Level oscillating in MPB Raman_LINHAO between JURUPARI-ALMERIM X VITORIA DO XINGU
+22/01/2019 12h00 UTC-2_Embratel_The procedure about MPB Raman configuration will be prepared and sent to customer.
+1-7382365	3	2018-11-28 16:19	1830 PSS-32	Alcatel-Lucent	rcanali	[unassigned]	2019-01-29 16:57
+shivs	 	
+Channel Unexpected on MVAC8B board
+Information/Action Requested
+1-7382331	4	2018-11-28 18:42	1830 PSS-4	Telefonica de Espana	anblanco	anblanco	2018-12-03 15:04
+martama	2018-12-30 19:08	
+Equipo PSS4 con ping y acceso SSH pero no abre WebUI.
+Nodo recuperado con reset remoto. Pendiente autorización de cierre.
+1-7382312	3	2018-11-28 18:24	1830 LX OA	MTS PJSC
+No Selection	maximvasiliev	maximvasiliev	2019-01-14 14:23
+maximvasiliev	2019-11-27 02:30	
+GUI for node 1830LX Kachikattsy not available.
+28/12 GUI was restored. Under monitoring by customer. Awaiting RCA. Awaiting on-site check power failures and grounding issue.
+1-7382123	4	2018-11-28 15:43	1830 PSS-64	Telefonica de Espana	amanzan	amanzan	2019-01-28 14:29
+kdierkes	2019-03-29 17:30	
+Fallo de tarjeta 130SCUPC de B.GI-MURB
+Pendiente de informe Factory FMA.
+1-7382099	3	2018-11-28 15:22	1830 PSS-32	Alcatel-Lucent
+No Selection	rkhaire	rkhaire	2019-01-30 19:28
+afzalk	2019-02-06 23:00	
+HC test case 10.1.8
+Awaiting Customer Approval for Resolve/Closure
+1-7381110	2	2018-11-27 20:51	1830 PSS-32	Telecom Italia S.p.A.
+No Selection	pacamera	pacamera	2019-01-31 14:48
+pacamera	2019-03-04 04:30	
+CEFAITAE-PXM3-1 / 50.248.101.17
+to be replace EC 2/18; activity fereseen next week
+1-7380961	1	2018-11-27 19:02	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+RJIL Ambedkar Nagar	sjere	sjere	2019-02-01 11:41
+rkhaire	2019-02-04 23:59	
+IM86275086 || Observing Multiple LOS on transponder at APHDBDBGLM1SA2R32201 RCOM MCN
+Awaiting Customer Approval for Resolve/Closure
+1-7380734	3	2018-11-27 15:52	1830 PSS-32	SK broadband
+No Selection	mhan1	mhan1	2019-01-29 14:52
+mhan1	2019-02-14 20:30	
+SKB_HI STOCK Ring _ YI node "EC communication" alarm occur
+wait customer feedback for issue
+1-7380457	4	2018-11-27 12:44	1830 PSS-32	Asia Pacific Telecom Co., Ltd.
+AAA TW - APT	ppwu	ppwu	2019-01-30 07:24
+philshih	2019-03-30 21:30	
+The "Channel unexpected" alarms raised at some channel of 1830PSS-32 node NKIS-HL1OR-8301 several times without any fiber-cut condition or HW alarm.
+Information/Action Provided
+1-7379668	4	2018-11-26 20:33	1830 VWM	Verizon Wireless
+Hooksett NH - 85 Londonderry Turnpike	acarenza	acarenza	2019-02-01 21:32
+acarenza	2019-02-28 18:30	
+multiple errors after sw upgrade
+Requested an update on the status of the software upgrade
+1-7379486	2	2018-11-26 18:29	1830 PSS-64	Vodafone Qatar
+No Selection	acaldir	acaldir	2018-12-20 03:10
+absami	2018-12-11 02:30	
+duplex impared alarms along with FLC temporarily in service state
+Awaiting Customer Maintenance Window
+1-7379155	2	2018-11-26 14:15	1830 PSS-4	Bharti
+No Selection	bipsingh	bipsingh	2019-01-31 12:35
+agorle	2019-02-15 23:50	
+Multiple Power Adjustment Required alarms pending in network.
+Awaiting for the network EPT file for network optical value verification as ref.
+1-7377966	3	2018-11-23 18:02	1830 PSS-24x	SK broadband	hju	hju	2018-12-06 11:53
+hju	2018-12-14 07:30	
+[SKB] WonJu2-NO1830 4UC400 1/1/1 and 1/1/2 LOS-P alarm.
+Under Investigation
+1-7377951	3	2018-11-23 17:51	1830 PSS-32	Orange Moldova
+Chisinau MD - Alba Iulia str., 75	filies	filies	2019-01-28 18:37
+filies	2019-01-31 03:30	
+OTMCPF alarms on 11DPE12E cards
+1-7377942	2	2018-11-23 17:39	1830 PSS-24x	SK broadband
+No Selection	hju	hju	2019-02-01 13:39
+berndmueller	2019-01-04 07:30	
+[SKB] Wonju1-NO1830 4UC400 1-1-1 and 4UC400 1-1-2 LOS-P Alarm
+Under Investigation
+1-7377223	3	2018-11-22 20:43	1830 PSS-32	Rostelecom	aonokhin	aonokhin	2019-01-30 13:37
+aonokhin	2019-02-08 13:30	
+UFA0007_2: Node not available on NMS.
+10-Jan: no issue from 11-Dec-2018. The Customer wants to monitor this Node till AR 1-7360191 will be resolved. Pending confirmed.
+1-7376763	3	2018-11-22 13:58	1830 PSS-32	SK broadband
+No Selection	hju	hju	2018-11-22 16:00
+hju	2018-11-30 07:30	
+[SKB-Tbroad] TB1830-DongDaeMun-01 WR8-88A-1-4,EQPT Card failure - communication
+Recommended to replace the pack 1/4
+1-7376657	3	2018-11-22 12:46	1830 PSS-36	ZAIN KSA
+No Selection	milesi100000	milesi100000	2018-12-17 18:42
+mabdella	 	
+Hardware Minor circuit pack failure alarm has been observed many times last 3 months ago specially during/after NE software upgrade to R9.1.2
+Under Investigation
+1-7376305	3	2018-11-22 06:48	1830 PSS-32	Stark Technology Inc.
+AAA TW - STI	ey	ey	2019-01-30 07:24
+philshih	2019-03-30 21:30	
+Optical feasibility Violation alarm in YLCS-TPNTAF-OCH-2008
+related information to customer side, which will focus on fiber optimization improvement
+1-7375793	3	2018-11-21 18:49	1830 PSS-32	LLC ADV CONSULTING
+Moscow Moscow - Ozerkovskaya naberezhnaya, 50	maximvasiliev	maximvasiliev	2019-01-14 14:15
+maximvasiliev	2019-11-20 02:30	
+The link between nodes periodically drops.
+14/01 AHPLG-1-6 replacement was requested on w_KZN_Nizhnekamsk-1 site. Сurrent status has been requested. Awaiting customer MW.
+1-7375785	3	2018-11-21 18:44	1830 PSS-32	Telefonica de Espana	amanzan	amanzan	2019-01-24 16:57
+amanzan	2019-04-26 16:30	
+Varias frecuencias con alarma Power Suspended
+A la espera de nuevo BTP
+1-7375170	4	2018-11-21 10:09	1830 PSS-32	Comcast Corporation
+North Chicago IL - 2200 Argonne Dr	nstrout	nstrout	2019-01-29 04:01
+jjwilliams	2019-02-09 10:41	
+Please investigate - Another north ring issue causing 911 problems.
+1/28 Mt Prospect CWR8-88 in slot 1/8 [S/N EZ111720639] scheduled for replacement on Feb 12th
+1-7374453	4	2018-11-20 17:46	1830 PSS-64	Telefonica de Espana	amanzan	amanzan	2019-01-22 14:14
+amanzan	2019-02-28 17:30	
+RESET 130SCUP SB.IN 2-47
+Pendiente cambio de tarjeta BTP-0002154785 07/02/2019
+1-7374209	3	2018-11-20 14:28	1830 PSS-32	SK broadband
+No Selection	hju	hju	2018-11-20 14:39
+hju	2018-11-23 07:30	
+[SKB] AL1830-DaeGu-01 43SCX4E-3-2 Card failure - boot failure.
+Under Investigation
+1-7373682	3	2018-11-20 01:56	1830 PSS-16	C Spire Wireless
+Jackson MS - 400 S. State St.	sdinodia	sdinodia	2019-02-02 12:06
+sdinodia	2019-02-07 23:30	
+lag failure
+Awaiting Receive Log Files / Technical Info
+1-7373408	3	2018-11-19 20:42	1830 PSS-32	France Telecom
+No Selection	gaspar1	gaspar1	2018-12-11 15:03
+gladieu1	2018-12-23 17:36	
+Ticket TASC power ajustment failure MTPELIERKCRO.BEZIERSRIQU.WD.03
+Suivi par P. Jolly ; Orange doit renvoyer des infos à Paulo.
+1-7373378	3	2018-11-19 20:25	1830 PSS-32	MTS PJSC
+No Selection	aonokhin	aonokhin	2019-01-30 19:29
+aonokhin	2019-02-08 13:30	
+Incorrect output of cli show wavekey wtmonitor summary (CWR) command
+30-Jan: Additional log collection. Check UAS status of OCh. || TEC Update recieved. To be checked and provided to the Customer.
+1-7372874	4	2018-11-19 14:29	1830 PSS-32	Telefonica de Espana
+No Selection	amanzan	amanzan	2019-01-24 16:57
+amanzan	2019-04-26 16:30	
+CBL. TR02:TNOW1830 ANIL:1 , definición de trabajo de landa 9580 incorrecto
+En espera de autorizacion de cierre
+1-7372811	3	2018-11-19 13:36	1830 PSS-32	SK broadband
+No Selection	hju	hju	2018-11-19 14:53
+hju	2018-11-23 07:30	
+[SKB] AL1830_Gangnam_01 Fan 5:37 Fan speed is too high
+Under Investigation
+1-7372694	3	2018-11-19 12:29	1830 PSS-24x	SK broadband	hju	hju	2019-01-09 06:49
+jajeong	2018-11-23 07:30	
+[SKB] Busan2-NO1830 1-1-2C LOS Alarm
+Under Investigation
+1-7371050	3	2018-11-16 12:47	1830 PSS-32	DK UNC CO., LTD.	hju	hju	2018-12-12 10:00
+jajeong	2018-11-23 07:30	
+[SKB-CJHV] AL1830-BuSaT-02 Check Compact Flash card for file system defects.
+Under Investigation
+1-7368752	3	2018-11-14 20:30	1830 PSS-32	France Telecom
+No Selection	cparre	cparre	2018-12-07 15:47
+cparre	2018-12-22 04:30	
+Liaison avec gabaris de lambda mal positionnés
+Problème procédural de création de service
+1-7368414	2	2018-11-14 16:02	1830 PSS-32	France Telecom
+No Selection	scercle	scercle	2019-01-21 20:37
+scercle	2019-12-16 04:30	
+Power adjustement failed LONGWY
+En cours côté Orange
+1-7368114	3	2018-11-14 13:02	1354 RM-PhM	SK broadband	hju	hju	2018-11-16 13:09
+hju	2018-11-23 07:30	
+[SKB-CJHV] Services in HaeUnDae 11DPE12A 2-6/7 are automatically unmanaged from the PhM.
+Under Investigation
+1-7367909	2	2018-11-14 09:26	1830 PSS-16	PT. MORA TELEMATIKA INDONESIA	ridwanm	ridwanm	2019-01-31 13:45
+wsubagdj	2019-02-22 21:30	
+Request Assistance on 11OPE8 Configuration
+Request customer to test by using 2 nodes.
+1-7366682	4	2018-11-13 13:06	1830 PSS-36	Telefonica de Espana	amanzan	amanzan	2019-02-01 15:42
+amanzan	2019-03-24 17:49	
+Errores postFEC en slot 33 de OR.CE TR02:TNOW1830 OCS:1
+Por los logs no parece ser problema de la tarjeta si no parece que pudiera ser un problema externo. Por favor, avisarnos si vuelve a ocurrir con el problema activo.
+1-7365735	4	2018-11-12 18:09	1830 PSS-4	Telefonica de Espana	anblanco	anblanco	2019-01-30 21:35
+fserrano	2019-03-30 22:30	
+Alarma Card Failure Device en la PF del slot 3
+Pendiente de actuación
+1-7363305	2	2018-11-10 02:25	1830 PSS-32	Zayo Group, LLC
+No Selection	bobfoster	bobfoster	2019-02-02 04:09
+bobfoster	2019-02-08 22:30	
+Power filter failed
+1/15/19 - Also see ARs 7429182, 7414386 and 6517124. Replaced the 11STAR pack in slot 2/32 of the CLSSCO54LT1 node. The alarm associated with the PF in slot 2/36 remained. Switched ECs to clear alarms. Monitoring for re-occurrence.
+1-7363085	3	2018-11-09 20:47	1830 PSS-32	T-Mobile Polska S.A.	mjakubow	mjakubow	2019-01-31 09:01
+mjakubow	2019-02-27 16:30	
+Wysoka stopa bledow w rel. WDM40990NB - WDM20909H ch25.0 112SNA
+Awaiting Customer Review of Proposed Corrective Action
+1-7362535	3	2018-11-09 10:20	1830 PSS-32	Sandeul Networks
+No Selection	mhan1	mhan1	2019-01-29 14:51
+mhan1	2019-02-14 20:30	
+[SamsungSDS]_RoA_B1.SACC.N2_OCHUNKNOWN-OUT (Channel unexpected)
+Under Investigation
+1-7361576	3	2018-11-08 15:39	1830 PSS-32	OTC Technology
+No Selection	hju	hju	2018-11-09 12:56
+hju	2018-11-16 07:30	
+[SKB] NE is not connected when line is disconnected.
+Waiting for ACL setting information from BP.
+1-7361461	4	2018-11-08 14:07	1830 PSS-16	Telefonica de Espana	amanzan	amanzan	2019-01-24 16:58
+amanzan	2019-04-26 16:30	
+SGO.V TR06:TOLA1830:1 Data Link down sobre el amplificador AHPHG del slot 1/9.
+En espera de BTP para cambio de amplificador
+1-7360038	3	2018-11-07 13:10	1830 PSS-24x	Bharti
+Patna Bihar - Bharti Airtel Limited	magc	magc	2019-01-31 17:35
+ashar129	2019-02-05 23:59	
+6*100G CH Open between Banaras to Patna RS-TGUP-TVS-A-A077/4UC400-1-15-3
+Awaiting Customer Review of Proposed Corrective Action
+1-7358991	2	2018-11-06 17:32	1830 PSS-24x	TATA TELESERVICES (MAHARASHTRA) LIMITED
+TTML MUMBAI TECHNOPOLIS	ashar129	ashar129	2019-02-01 19:38
+afzalk	2019-02-05 23:00	
+Multiplex Structure Identifier Mismatch alarm on TURBHE1_PSS24_MU_PUN on ODU4ODU0 1/72/2203 LO:57-64
+Awaiting Customer Review of Proposed Corrective Action
+1-7358899	4	2018-11-06 16:13	1830 PSS-32	Telefonica de Espana
+No Selection	amanzan	amanzan	2019-01-25 21:44
+amanzan	2019-04-26 16:30	
+El amplificador 1/2 de M.YU0088-PSS-2 de Tecnoalcalá, da alarma Power Adjustment Required.
+Proximo BTP-2129064 para cambio de amplificador
+1-7358775	3	2018-11-06 14:15	1830 PSS-24x	Bharti
+BHARTI SILIGURI	sdinodia	sdinodia	2019-01-31 11:48
+sdinodia	2019-02-04 23:59	
+2*100G CH Open between Muzaferpur to Silliguri
+Awaiting Customer Review of Proposed Corrective Action
+1-7358605	4	2018-11-06 12:18	1830 PSS-8x	Telefonica de Espana	rodiazna	rodiazna	2019-01-16 14:37
+rodiazna	2019-03-01 14:43	
+OLOT. TR03:TNOW1830 ANIL:1/OCH-3-6-1,OCH,RCV QUALITY OF SERVICE T-FECC-15-MIN
+Reparar la perdida de Vano entre CNV-->VIC(Pendiente CNSI)
+1-7356005	2	2018-11-03 03:55	1830 PSS-32	Canadian Pacific Railway
+No Selection	dbowman	dbowman	2019-01-25 19:22
+dbowman	2019-02-07 10:30	
+Node unreachable after SW upgrade
+25JAN19 TEC awaiting debug dump logs for EC Parts request number 5-2346460 EZ1412A2870 for factory FMA
+1-7355092	3	2018-11-02 09:59	1830 PSS-24x	SK broadband	hju	hju	2018-11-09 12:51
+hju	 	
+[SKB] ChungJu OTN AUX Port OSPF Error
+Under Investigation
+1-7353317	4	2018-10-31 20:00	1830 PSS-32	Canadian Pacific Railway	droman	droman	2019-01-28 18:53
+droman	2019-02-18 01:47	
+DCM is missing after software upgrade at Shawanaga
+requested update from customer team
+1-7353106	2	2018-10-31 17:07	1830 PSS-24x	Bharti
+No Selection	afzalk	afzalk	2019-02-01 19:21
+afzalk	2019-02-08 23:59	
+TANA-T7590 link was down on 29/10/2018 between 05:15 PM - 05:45 PM IST . Need RCA
+RCA Shared, Awaiting Customer Approval for Resolve/Closure
+1-7352417	3	2018-10-31 05:55	1830 PSS-32	Sandeul Networks
+No Selection	mhan1	mhan1	2019-01-29 14:50
+mhan1	2019-02-14 20:30	
+[SamSung SDS]ROA-S1-SWCC-N2 130SCX10E_3-4 Card Failure
+Under Investigation
+1-7351857	2	2018-10-30 19:16	1830 PSS-24x	VODAFONE MOBILE SERVICES LTD.
+VODAFONE DWDM Coimbatore 3180109366	rkhaire	rkhaire	2019-01-31 12:13
+rkhaire	2019-02-03 23:59	
+Severity Configuration on important selected Alarms
+MOP Shared
+1-7351856	3	2018-10-30 19:14	1830 PSS-32	France Telecom
+No Selection	gaspar1	gaspar1	2018-12-11 14:46
+gladieu1	2019-11-30 04:30	
+Gain Exceeded Max Value Saint Philippe
+Actions en cours côté Orange
+1-7350103	4	2018-10-29 15:21	1830 PSS-64	Telefonica de Espana	amanzan	amanzan	2018-12-27 18:45
+amanzan	2019-02-22 17:30	
+CRITICAL 2018/10/26 15:39:49 B.TB-NOW1830MURB-1#OCS/130SCUP-1-1-36
+Pendiente de FMA
+1-7346795	2	2018-10-25 13:06	1830 PSS-32	JTC
+No Selection	milesi100000	milesi100000	2019-01-24 17:53
+milesi100000	2019-01-14 12:22	
+Card required for adjust not present
+Under Investigation
+1-7345275	2	2018-10-24 12:33	1830 PSS-24x	Alcatel-Lucent
+No Selection	rchavda	rchavda	2019-01-31 17:09
+ashar129	2019-02-04 22:00	
+Clarification on Issue HC test case 9.5.6
+Awaiting Customer Approval for Resolve/Closure
+1-7344885	3	2018-10-24 02:37	1830 PSS-32	Level3 Communications	nstrout	nstrout	2019-01-28 17:56
+nstrout	2019-02-08 02:47	
+Unable to get new subtended shelf to upgrade software
+EC being sent to TEC for testing.
+1-7344771	4	2018-10-24 00:11	1830 PSS-32	Canadian Pacific Railway
+No Selection	droman	droman	2019-01-30 00:19
+droman	2019-02-18 01:47	
+DCM is missing after software upgrade
+requested update from customer team
+1-7343633	2	2018-10-23 09:09	1830 PSS-36	Telefonica de Espana	amanzan	amanzan	2019-01-24 17:01
+amanzan	2019-06-28 16:30	
+Al activar la nueva versión de SW el equipo LOJA.-NOW1830ANIL-1#OCS (10.191.104.69) no vuelve a entrar en gestión no hay corte de trafico, no se puede arrancar
+En espera de activación a 9.2.0 y posterior salto a 9.2.4.
+1-7340822	3	2018-10-19 15:10	1830 PSS-32	France Telecom Espana SA	chernanz	chernanz	2019-01-21 15:32
+chernanz	2019-03-08 21:30	
+PSSBX1981FO1508 (10.222.129.113) con Card initializing EC 1/18.
+En observación.
+1-7340819	3	2018-10-19 15:08	1830 PSS-32	France Telecom Espana SA	chernanz	chernanz	2019-01-21 15:38
+chernanz	2019-03-08 21:30	
+PSSGUADALAJESTFO0921 (10.222.129.42) Card failure - communication en EC 1/18.
+En observación.
+1-7340269	4	2018-10-19 02:05	1830 PSS-32	Canadian Pacific Railway
+No Selection	mlanctot	mlanctot	2019-01-30 04:45
+mlanctot	2019-02-16 03:30	
+dcm34 missing after sw upgrade - site name agingcourt
+Replaced splitter - no change
+1-7339755	2	2018-10-18 17:09	1830 PSS-32	SUPERONLINE
+No Selection	nkilicas	nkilicas	2019-01-29 13:39
+nkilicas	2019-02-18 17:22	
+Bu ekipmanlarda backup processleri inprogress kalmiº. Backup alinmadigina dair bir alarm gelmiyor. Bunun bir timeoutu yok mudur inceler misiniz?
+alert has been shared with customer
+1-7338980	2	2018-10-18 04:49	1830 PSS-4	Canadian Pacific Railway
+No Selection	aho	aho	2019-01-29 03:34
+aho	2019-02-28 06:06	
+pss4 shelf failed during upgrade
+1/24: Customer had one node lefe on Wendsday
+1-7336710	2	2018-10-16 15:39	1830 PSS-32	Comcast Corporation
+Mt Prospect IL - 1201 FEEHANVILLE DRIVE	aho	aho	2019-01-29 04:01
+jjwilliams	2019-02-26 16:51	
+Multiple channels out of range 9580 9540 and 9410
+1/28 Mt Prospect CWR8-88 in slot 1/8 [S/N EZ111720639] scheduled for replacement on Feb 12th
+1-7335185	3	2018-10-15 14:23	1830 PSS-32	SK broadband
+No Selection	hju	hju	2018-10-17 19:15
+hju	2018-10-19 07:30	
+[SKB-Tbroad] SeoBuSan 10G*2 Service Down. (BroadCasting#2, Internet#4 10G path)
+Under Investigation
+1-7333764	4	2018-10-12 18:52	1830 PSS-32	Canadian Pacific Railway
+No Selection	aho	aho	2019-01-31 21:42
+aho	2019-02-22 20:09	
+upgrading software 7.0.0 to 11.0.1
+1/31: Sent email requesting an update
+1-7332499	4	2018-10-11 19:32	1830 PSS-36	Telefonica de Espana	amanzan	amanzan	2018-12-21 18:10
+martama	2019-02-10 13:50	
+130SCUP_1_1_3 status of N25Q32 Occ flash not as expected
+L.BO.-OAD1830OCS-1: 130SCUP_1_1_3 status of N25Q32 Occ flash not as expected. Tarjeta cambiada. Pendiente recibir de Telefónica y enviar a Factory FMA.
+1-7330723	4	2018-10-11 10:55	1830 PSS-64	Telefonica de Espana
+Carmen CU	anblanco	anblanco	2018-10-29 19:53
+martama	2018-11-30 22:30	
+V.CR-OAD1830WSS-1#OCS/OTU-1-1-41-1,OTU4,NEND,RCV,15-MIN QUALITY OF SERVICE TCA 15 MIN High Corrected Count Seconds OTU Layer
+Pendiente BTP para solucionar pérdidas entre la SFD 27 y los tributarios de este grado local.
+1-7330625	3	2018-10-11 08:36	1830 PSS-32	Stark Technology Inc.
+AAA TW - STI	ey	ey	2019-01-31 04:47
+ey	2019-03-30 21:30	
+move traffic is not allowed in PCPDM2-TCM1-OCH-2001
+JTJT - PCPDM2 fiber / span loss Optimization
+1-7329946	2	2018-10-10 18:42	1830 PSS-32	A1 Bulgaria EAD	lwenth	amengler	2018-10-29 15:43
+lwenth	2018-11-07 16:30	
+link flap
+1-7329712	4	2018-10-10 15:54	1830 PSS-36	Telefonica de Espana	amanzan	amanzan	2018-12-27 18:44
+amanzan	2019-02-22 17:30	
+CC.PE-OAD1830WSS-1#OCS/OTU-1-1-3-1,OTU4,NEND,RCV,15-MIN QUALITY OF SERVICE TCA 15 MIN High Corrected Count Seconds OTU
+Necesario otro BTP para realizar pruebas en el extremo de CC.PE
+1-7329444	2	2018-10-10 13:23	1830 PSS-32	Comcast Corporation
+Mt Prospect IL - 1201 FEEHANVILLE DRIVE	acarenza	acarenza	2019-02-01 21:31
+acarenza	2019-02-28 18:30	
+Multiple channels out of range.
+1/28 Mt Prospect CWR8-88 in slot 1/8 [S/N EZ111720639] scheduled for replacement on Feb 12th
+1-7328782	2	2018-10-09 22:45	1830 PSS-32	Emirates Integrated Telecommunications Company
+EITC	shadyi	shadyi	2019-01-27 23:57
+shadyi	2019-02-25 01:30	
+Intermittent Outgoing Loss of tones from IND-CITY-1/AM2125A-2-7-LINEOUT
+27-1-2019 PF-19 replaced on 31-Oct 18 @1:30 AM GST, kindly approve AR closure.
+1-7328233	3	2018-10-09 16:25	1830 PSS-32	Kazakhtelecom	ykhakimo	ykhakimo	2019-01-31 13:35
+ykhakimo	2019-02-22 16:30	
+1830 PSS-32 upgrade to 9.1.1.
+08.01.2019. FW upgrade of 130SCX10 cards on PET_1830_PSS and PAV_1830_AST is postponed to February by customer.
+1-7327363	1	2018-10-09 11:57	1830 PSS-32	VIVO
+No Selection	knaves	knaves	2019-02-01 00:35
+knaves	2019-02-14 17:30	
+Vivo_BR - PSS-32 - Node GPIPRA32-01 with alarm SSF-OMS, LOS-OUT in LD 1/2 and MISMATCHFIBER in WTOCM board.
+==== 28/01/2019--08h38 -- GMT-3 --> Awaiting customer replace board WTOCM slot 1/6 SN: EZ140620206 in node GPIPRA32-01.
+1-7325222	3	2018-10-06 02:14	1830 PSS-32	AltaLink Management, Ltd.
+No Selection	rust	rust	2019-01-30 21:11
+rust	2019-03-01 03:30	
+On 9.1 software, radius functionality isn't working as expected
+Closing orignal AR 1-6958743
+1-7324445	2	2018-10-05 13:16	1830 PSS-32	France Telecom	cparre	larios	2019-02-01 22:12
+tondo1	2019-02-01 04:30	
+LOF Intermittents/3 months on cards 112SCX10 aux on both ends.
+TEC Request
+1-7323896	3	2018-10-04 22:35	1830 EPT	Alcatel-Lucent
+No Selection	kelldo	kelldo	2019-01-29 01:54
+kelldo	2019-01-30 04:30	
+Design Failing with Transparent Link Validation Failed error
+1/4 - could not recreate issue
+1-7323576	3	2018-10-04 18:22	1830 PSS-4	Bharti
+No Selection	sudhansv	sudhansv	2019-01-31 10:02
+mraina	2019-02-07 23:00	
+Unable to get dump of OMD port for LCD connectivity  
+Requested Feature not supported
+1-7322696	3	2018-10-04 01:35	1830 EPT	Alcatel-Lucent
+Plano TX - 601 DATA DRIVE	mlanctot	mlanctot	2019-01-16 02:17
+mlanctot	2019-02-15 22:30	
+Cannot place D5X500 card in slot 9 of PSS-32 shelf
+PSSEPTSW-20358 has been validated. The issue has been fixed in R11.1.
+1-7322167	3	2018-10-03 17:34	1830 PSS-4	CLARO
+No Selection	jesush	jesush	2019-01-28 21:06
+jesush	2019-02-05 23:30	
+CLARO Guatemala | After creation of 10G service: C_Colotenango_LD_Huehuet~, the alarms: "Ch Unspect", "Ch Absent", "Ch Op of Range", raised up
+28/01/19 TEC need a plan from Local team to audit sites for excess humidity and a replacement of entire systems like Democracia node.
+1-7321494	3	2018-10-03 02:58	1830 PSS-32	Saskatchewan Telecommunications Holding Corp	nstrout	nstrout	2019-01-24 02:47
+nstrout	2019-01-30 04:30	
+Power trace not consistant at every NE
+asked for atoz trace from CLI.
+1-7319951	3	2018-10-01 20:25	1830 PSS-32	Vodafone Spain
+No Selection	lgarciap	lgarciap	2018-10-01 21:37
+lgarciap	 	
+Problem Description: Fallo Channel Unexpected de Grado2 en el WMX2218
+1-7319465	4	2018-10-01 14:40	1830 PSS-32	Telefonica de Espana	anblanco	anblanco	2019-01-15 18:49
+martama	2019-07-01 19:40	
+ETP.CS TR01:TOAD1830 OCS:1 alarma DXIMPAIRED en ambas matrices
+Pendiente cambio de armazón.
+1-7318941	3	2018-09-30 20:31	1830 PSS-32	DK UNC CO., LTD.	hju	hju	2018-12-12 09:51
+jajeong	2018-10-01 07:30	
+[SKB-CJHV] Busa2 1-2-2 AMP Line Output Power Down
+Replaced the CWR8-8B 2/4 and cleared the alarm
+1-7317746	4	2018-09-28 17:00	1830 PSS-32	Asia Pacific Telecom Co., Ltd.
+AAA - APBT	ppwu	ppwu	2019-01-30 07:22
+philshih	2019-03-30 21:30	
+PM error detected on KH10-HB02-8321 STM16-1-1-28-2.
+Suggest the APT customer to replace KH10-HL1OR-8301 3/14/C2 and keep monitoring.
+1-7316794	2	2018-09-27 21:12	1830 PSS-32	Level3 Communications
+Broomfield CO - 1025 Eldorado Boulevard	dbowman	dbowman	2019-01-18 21:03
+dbowman	2019-02-03 10:30	
+C4 LOSPROP does not work unless L1 is provisioned on D5X500Q card
+18JAN19 PSSFIELD-2160 is fixed via PSSSW-86589 that has been validated in R11.1. Therefore, this issue is fixed in R11.1 via software change. awaiting R11.1 to verify
+1-7315557	4	2018-09-27 00:27	1830 PSS-32	Antel
+No Selection	[unassigned]	[unassigned]	2018-09-27 00:35
+kperzano	 	
+Upgrade 1830 PSS-32 ANTEL Uruguay. Thursday September 27 from 8.2.2 to 10.0.5. Friday September 28 from 10.0.5 to 10.1.1.
+1-7312249	3	2018-09-24 19:13	1830 PSS-32	Level3 Communications	jeffgordon	jeffgordon	2019-01-30 19:02
+jeffgordon	2019-02-16 20:26	
+AIR OP#53: 11DPM8/11DPM12 - LOS Prop Laser Off becomes stuck on new turn-ups, client laser shuts off without defect present.
+Refer to AR#1-7352200 opened to track specific ASBNVA investigation. Efforts to reproduce stuck FDICLT condition in Nokia lab have been unsuccessful; believed that FDICLT condition is not generated by Nokia equipment.
+1-7311308	2	2018-09-23 10:38	1830 PSS-32	JTC
+No Selection	milesi100000	milesi100000	2019-01-24 17:53
+milesi100000	2018-09-26 17:34	
+Please kindly and favorably send the HC (healthy check) for our whole network.
+Under Investigation
+1-7308214	2	2018-09-19 23:21	1830 PSS-32	Comcast Corporation
+Livermore CA - 3077 Comcast Place	rsaranu	rsaranu	2019-01-09 21:16
+rsaranu	2019-02-22 10:30	
+NE not responding to NFM-T getBulk query of TN-LLDP-MIB::tnLldpRemManAddrEntry = 1.3.6.1.4.1.7483.6.1.2.59.4.2.1
+This issue is committed for fix in R11.1.
+1-7307718	2	2018-09-19 17:22	1830 PSS-32	France Telecom Espana SA	chernanz	chernanz	2019-01-21 15:32
+chernanz	2019-03-08 21:30	
+PSSORENSECAPFO1264 (10.222.132.107) Card Initializing en la EC 1/18 tras upgrade 9.1.1ECX.
+En observación.
+1-7307709	2	2018-09-19 17:19	1830 PSS-32	France Telecom Espana SA	chernanz	chernanz	2019-01-17 13:48
+chernanz	2019-03-08 21:30	
+PSSGIJONPORFO1118 (10.222.130.187) Card Initializing en la EC slot 18.
+En observación.
+1-7307707	2	2018-09-19 17:18	1830 PSS-32	France Telecom Espana SA	chernanz	chernanz	2019-01-17 13:47
+chernanz	2019-03-08 14:30	
+PSSMADRIDDIAFO1067 (10.222.130.91) Card Initializing en la EC 1/1.
+En observación.
+1-7306434	2	2018-09-18 19:19	1830 PSS-4	VIVO
+No Selection	knaves	knaves	2019-02-01 00:34
+knaves	2019-02-14 17:30	
+Vivo_BR - PSS-4 - Nodes PBAESA04-01 / BIEESA04-01 / MCNESA04-01 / MZCESA04-01 loosing supervision in NFT-M
+==== 29/01/2019--10h23 -- GMT-3 --> Waiting local technician arrive on site BIEESA04-01 to check why this node are unreachable
+1-7305022	3	2018-09-17 19:24	1830 PSS-32	Comcast Corporation
+Stone Mountain GA - 4545 Stonegate Ind Blvd	najepr	najepr	2019-01-25 21:22
+najepr	2019-03-07 11:30	
+Shelf 3 Fan Speed too low alarm when 3/18 is active
+1/24 No update received; Alarm still an issue; checking for spare FAN.
+1-7304180	3	2018-09-17 07:55	1830 PSS-32	SingTel
+No Selection	jackzipingli	jackzipingli	2018-12-31 02:53
+jackzipingli	2019-01-30 18:30	
+1. Need to investigate RFO of WR-8 card failure at  35BA-AP3-G0AB-F02-05 shelf1 slot 13 WR8 card, what went wrong with WR-8 card.                              
+17/09: investigating
+1-7301122	4	2018-09-13 06:20	1830 PSS-32	UNITED FIBER OPTIC COMMUNICATION
+AAA TW - UFOC	ppwu	ppwu	2019-01-30 07:44
+philshih	2019-03-30 21:30	
+Need FMA for 2 1830PSS-32 Equipment Controller cards (STN-RNB-M01/EC-2-1 and EC-2-18)
+RES colleague already picked up these 2 EC card from the partner's office this Monday(9/10).
+1-7300392	3	2018-09-12 16:58	1830 PSS-32	France Telecom Espana SA	chernanz	chernanz	2019-01-21 15:37
+chernanz	2019-03-22 17:30	
+PSSMADRIDULIRO0915 Power Adjustment Required
+A la espera de TP.
+1-7296997	4	2018-09-11 01:22	1830 PSS-16II	Comcast Corporation
+Fairfield CA - 2270 Boynton Ave	rickeyk	rickeyk	2019-01-30 18:37
+rickeyk	2019-02-23 04:30	
+Requesting a method/feature for changing the trail name of a cross connect
+Requesting a method/feature for changing the OCH Trail Name of a cross connect that is already in-service.
+1-7292891	3	2018-09-06 13:23	1830 PSS-24x	SK broadband	hju	hju	2019-01-09 06:51
+jajeong	2018-10-12 07:30	
+[SKB] Released WTR condition on 2F MS-SPRing of 1660MS after OTN(PSS24x) GMRE switching activity
+Under Investigation
+1-7290981	2	2018-09-05 12:33	1830 PSS-32	Alcatel-Lucent	hho	hho	2019-01-30 07:44
+philshih	2019-03-30 21:30	
+The parameter wss attenuation current relative of WR20-TF missed
+Set expected power manually
+1-7289694	3	2018-09-04 13:56	1830 PSS-32	Sandeul Networks
+No Selection	mhan1	mhan1	2019-01-29 14:49
+mhan1	2019-02-14 20:30	
+[SamSung SDS] ROA-S1-GCCC-N2 _11DPM12 9580,9520_S2 DEGRADE SIGNAL PM
+Awaiting Problem Re-Occurrence
+1-7286136	2	2018-08-30 20:26	1830 PSS-32	Asia Pacific Telecom Co., Ltd.
+AAA TW - APT	chunhaoh	chunhaoh	2019-01-30 07:44
+philshih	2019-03-30 21:30	
+1830PSS-32 ROADM Y-CABLE got affected by interfacing CWDM and switch back and forth multiple times
+Need BE team's support
+1-7282212	3	2018-08-27 23:09	1830 PSS-32	We Energies
+No Selection	bobfoster	bobfoster	2019-02-02 01:44
+bobfoster	2019-03-01 22:30	
+Lost both sides of the ring, traffic was interrupted for 3 minute period and services restored - need to know what happened and how to prevent it
+2/1/19 - Requested status update regarding the availability of the replacement Power Filters (Parts Request 5-2355513 created for Qty=2 PFs). MOP to replace the Power Filters sent to Scott on 1/3/19.
+1-7279850	3	2018-08-24 13:20	1830 PSS-24x	OTC Technology
+No Selection	sunghwam	sunghwam	2019-01-30 13:50
+sunghwam	2019-02-08 14:09	
+[SKT] 200G Uplink Card(2UC400) TCA Not Control
+For the reproducing test, awaiting customer response now.
+1-7278744	4	2018-08-23 15:56	1830 PSS-64	Telefonica de Espana
+No Selection	amanzan	amanzan	2019-01-15 18:43
+martama	2019-06-10 19:52	
+VG.CS-NOW1830ANIL-1 OTU4-1-1-33-1 ERRORES entrada
+Pendiente resultados de la causa raíz del Factory FMA.
+1-7278318	4	2018-08-23 10:51	1830 PSS-36	Telefonica de Espana	anblanco	anblanco	2019-01-30 17:16
+webcustomer	2019-09-23 14:40	
+ABA.CS TR01:TNOW1830 OCS:1 High Filter Clogging
+Tras el cambio de la matriz A se mantienen estables los valores de medida del flujo de aire, con lo que se solicita cambio de la matriz B.
+1-7276266	3	2018-08-21 18:10	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+Etah Uttar Pradesh -West - Etah	rchavda	rchavda	2019-01-25 16:24
+mraina	2019-02-04 23:59	
+FMA AR for 11QPA4 YP162003558/8DG60349AAAC03//Field AR1-7209338
+FMA AR for YP162003558/8DG60349AAAC03
+1-7275249	3	2018-08-20 21:46	1830 PSS-32	Axtel, S.A. De C.V.
+No Selection	eolvera	eolvera	2019-02-01 21:17
+eolvera	2019-02-11 20:30	
+TORREON Site | 130SNX10 1/10 | Data Error alarm
+feb 1st/ FMA still in progress
+1-7272505	4	2018-08-17 13:33	1830 PSS-32	Telefonica de Espana	rodiazna	rodiazna	2019-01-28 13:50
+rodiazna	2019-02-22 21:01	
+Nodo de AV.SR co pérdida de gestión intemitente
+Pendiente de BTP
+1-7266672	4	2018-08-12 00:53	1830 PSI-2T	Alcatel-Lucent	mlanctot	mlanctot	2019-01-22 00:49
+mlanctot	2019-03-09 03:30	
+Possible error in PSI-2T R2.0 PIPG
+Fixed in R2.0.1 PIPG
+1-7265174	3	2018-08-11 06:09	1830 PSI-2T	Comcast Corporation
+Sunnyvale CA - 1380 Kifer RD	bobfoster	bobfoster	2019-01-17 01:53
+bobfoster	2019-11-29 22:30	
+External topology connection on PSI2t is incorrect
+1/16/19 - The fix is in 11.1 PSS32 release. The PSS32 release is equivalent to PSI-2T R4. PSI-2T R4 release is targeted for Q3 2019.
+1-7263945	3	2018-08-10 06:25	1830 PSS-32	DK UNC CO., LTD.	hju	hju	2018-12-12 09:49
+jajeong	2018-10-12 07:30	
+[SKB-CJHV] AL1830-DongJakB-1:OCh Out:1:3:2:LINE:9590 Outgoing channel absent
+Still waiting for required data and logs from field
+1-7258180	3	2018-08-03 19:55	1830 PSS-32	UNITED FIBER OPTIC COMMUNICATION
+AAA TW - UFOC	ppwu	ppwu	2019-01-30 07:44
+philshih	2019-03-30 21:30	
+The "Card missing" alarms raised on both 3/3 and 3/4 and cleared in 1 second, and then "Card failure - communication" alarm persisted on 3/18 till now.
+The provided log and information are under analysis.
+1-7258121	1	2018-08-05 18:11	1830 PSS-32	SUPERONLINE
+No Selection	nkilicas	nkilicas	2019-01-29 11:53
+nkilicas	2018-09-13 12:37	
+The circuit does not reroute to nominal route automatically
+MW is arranged for next Monday. Regarding AR 1-7106810 , OMS team will take action.
+1-7252805	2	2018-07-31 15:24	1830 PSS-32	MTS PJSC
+MTS NOVOSIBIRSK	aonokhin	aonokhin	2019-01-30 13:37
+aonokhin	2019-02-08 13:30	
+The board 130SCA1 8DG62229AAAB02 EZ141830136 after repair has alarm Loss of Frame. RX_ADCCALIBRATION_FAIL.
+18-Jan: awaiting Factory FMA result. Board is still shipping to repair center (delivered to Hungary 26-Nov)
+1-7252776	2	2018-07-31 15:02	1830 PSS-32	MTS PJSC
+MTS NOVOSIBIRSK	aonokhin	aonokhin	2019-01-30 13:36
+aonokhin	2019-02-08 13:30	
+Alarms OTMCPF and Loss of Signal  OTU were raised on pack 260SCX2-1-13 after FW upgrade 1.3.1 to 1.9.1.
+18-Jan: awaiting Factory FMA result. Board is still shipping to repair center (delivered to Hungary 26-Nov) || 01-Aug: escalate to TEC
+1-7252771	2	2018-07-31 14:56	1830 PSS-32	MTS PJSC
+MTS NOVOSIBIRSK	aonokhin	aonokhin	2019-01-30 13:36
+aonokhin	2019-02-08 13:30	
+Alarm OTMCPF was raised on pack 130SCA1-2-11 after FW upgrade 2.3.1 to 2.5.1.
+18-Jan: awaiting Factory FMA result. Board is still shipping to repair center (delivered to Hungary 26-Nov) || 31-Jul: escalate to TEC
+1-7251613	3	2018-07-30 19:23	1830 PSS-32	University of Pittsburgh Medical Center
+Pittsburgh PA - 3600 Forbes Ave.	dbowman	dbowman	2019-01-25 20:27
+tysmith	2019-02-10 10:30	
+Potential software fix not implemented 10.1.1 - Stuck SFTP
+25JAN19 Waiting on software fix verification in software release 11.1. expected release Feb 2019
+1-7248981	3	2018-07-27 07:10	1830 PSS-32	UNITED FIBER OPTIC COMMUNICATION
+AAA TW - UFOC	awlee	awlee	2019-01-30 07:52
+philshih	2019-03-31 07:52	
+shelf-2 EC init fail after removing DCM
+Need TEC urgent help on answering customer questions
+1-7247942	4	2018-07-26 13:20	1830 PSS-64	Telefonica de Espana	amanzan	amanzan	2019-01-15 18:13
+martama	2019-06-30 13:57	
+M.NO-OAD1830OCS-2/130SCUP-1-1-37 HWFAIL
+Tarjeta cambiada. Pendiente recibir de Telefónica.
+1-7244031	3	2018-07-23 16:45	1830 PSS-32	MTS PJSC
+No Selection	aonokhin	aonokhin	2019-01-30 13:36
+aonokhin	2019-02-08 13:30	
+mWDM_77_100110_1_2/31/A_Channel collision
+18-Jan: boards still are going to repair/investigation || 23-Aug: investigation in the local lab with TEC/RnD. Awaiting 3 boards are delivering || 31-July: board OPSA-2-31 was successfully replacement. New board under monitoring. Pending confirmed.
+1-7238828	3	2018-07-18 06:15	1830 PSS-32	SK broadband
+No Selection	hju	hju	2018-08-30 08:03
+hju	2018-09-07 07:30	
+[SKB-B2B] Please check how to configure OSPF for multi area.
+Provided the information and waiting for customer feedback
+1-7236720	2	2018-07-16 19:52	1830 PSS-32	OOREDOO TUNISIE
+No Selection	ml81	ml81	2018-07-17 13:10
+ml81	2018-07-26 20:59	
+High Voltage PF slot19
+1-7236251	3	2018-07-16 13:55	1830 PSS-16	Sandeul Networks
+No Selection	hju	hju	2018-10-10 12:08
+hju	2018-10-26 07:30	
+[LGU-SCK] 1JUD1CBCG1R-Amplifier out of operational range - amplifier gain too low
+Provided WA to clear the alarm and still waiting for customer activity
+1-7234492	2	2018-07-13 13:14	1830 PSS-24x	Alcatel-Lucent
+No Selection	sunilk	sunilk	2019-01-31 17:06
+ashar129	2019-02-06 23:21	
+Observing  TN_CMBT_8034X_M01_W_U_NP24001, Detected high voltage from on-board power supply
+Hardware sent for FMA
+1-7234395	3	2018-07-13 12:08	1830 PSS-32	MTS PJSC
+No Selection	aonokhin	aonokhin	2019-01-30 13:36
+aonokhin	2019-02-08 13:30	
+Incorrect LED indication on block DWDM-25-015-1 112SDX11 (2/17).
+18-Jan: spare board 8DG62446AA EZ153930359 still in standard repair cycle || awaiting spare pack delivering to the site to perform re-seating of the board and analyse the result. Pending confirmed
+1-7234364	2	2018-07-13 11:45	1830 PSS-32	SUPERONLINE
+No Selection	acaldir	acaldir	2019-01-09 20:34
+acaldir	2018-07-25 17:59	
+Alarm profil Not Reported olmasina ragmen alarm ekranina alarm yansimis.
+Awaiting Customer Maintenance Window
+1-7233273	3	2018-07-12 15:39	1830 PSS-32	France Telecom Espana SA	chernanz	chernanz	2019-01-24 18:07
+chernanz	2019-03-08 21:30	
+260SCX2 4/6/L1 del nodo PSSMADRIDIC0RO1209 con alarma FECC TC
+A la espera de limpiar todas las alarmas de ajustes del anillo.
+1-7225543	2	2018-07-06 11:49	1830 PSS-24x	VODAFONE MOBILE SERVICES LTD.
+VODAFONE DWDM Coimbatore 3180109366	rkhaire	rkhaire	2019-01-28 21:53
+rahulkus	2019-02-04 23:59	
+Please Open AR_ PSS24X:TN_ Voltage High (Detected high voltage from on-board power supply) alarm observed on Coimbatore PSS24X-1-17 slot
+1/2 ,1/17 and 1/10 HW has been replaced and kept under observation.
+1-7224367	3	2018-07-05 14:30	1830 PSS-32	SK broadband
+No Selection	hju	hju	2018-08-09 07:39
+hju	2018-08-17 07:30	
+[SKB] PhM <-> NE (BunDang_01) Synchronization is repeated continuously. (Repeat hourglass)
+Recommend to replace the 43SCX4E 12/2 which is raising warm reset toggling.
+1-7224357	3	2018-07-05 14:27	1830 PSS-32	SK broadband
+No Selection	hju	hju	2018-08-09 07:50
+hju	2018-08-17 07:30	
+[SKB] BunDang-01 43SCX4E 12-2 Data Error or Timeout
+The replacement activity will be done by this Saturday(8/11).
+1-7222373	3	2018-07-04 05:11	1830 PSS-32	Vodafone Omnitel
+Rimini IT - Rimini BSC Hub 02	gfalasca	gfalasca	2019-01-30 14:50
+pacamera	2019-03-04 06:11	
+[postISU_PHN] - CR SA    18/07/03 23:28:40 EQPT 1/36
+to be replace PF 1/19
+1-7221857	3	2018-07-03 18:47	1830 PSS-32	France Telecom
+No Selection	gaspar1	gaspar1	2019-01-22 13:37
+gladieu1	2018-11-29 21:07	
+Alarme out of operational range
+1-7221653	4	2018-07-03 16:02	1830 PSS-8	Telefonica de Espana	rodiazna	rodiazna	2019-01-28 14:09
+rodiazna	2019-02-12 18:36	
+Degradación del vano TRS.FE- GAND en RTP
+Se rediseña con los nuevos valores de 14,36 y 15,74. Pero el vano vuelve a degradarse a los valores originales con que se diseñó. Se debe solucionar los problemas de fluctuación de este vano. Pendiente OTDR y reflectometría.
+1-7217810	4	2018-06-29 02:20	1830 PSS-16II	Comcast Corporation
+San Jose CA - 1900 S 10th Street	nstrout	nstrout	2019-02-01 22:43
+jjwilliams	2019-02-07 20:30	
+Amber lights on 20P200 while CLI shows solid green for Status LED
+After firmware upgrade on the 20P200, lights are still Amber .although LED status is Green, under investigation
+1-7216643	3	2018-06-28 08:11	1830 PSS-32	OTC Technology
+No Selection	hju	hju	2018-12-08 01:01
+isoriano	2019-01-01 08:30	
+[SKB] Short term service disruption after Revertive mode is disabled
+Under Investigation
+1-7215575	2	2018-06-27 13:51	1830 PSS-32	D.I.L. TECHNOLOGY
+No Selection	nkilicas	nkilicas	2018-10-11 12:30
+nkilicas	2018-07-28 14:01	
+MIB backup did not taken
+Awaiting Customer Maintenance Window
+1-7214337	3	2018-06-26 16:56	1830 PSS-32	Asia Pacific Telecom Co., Ltd.
+AAA TW - APT	ppwu	ppwu	2019-01-30 07:43
+philshih	2019-03-30 21:30	
+The service impact event caused by the Automatic switch condition on Y-cable APS group related to channel 9360 between HCHC-WL4OR-8301 and NKIS-HL1OR-8301.
+The latest debug dump for NKIS and HCHC 1830 nodes were just collected and already uploaded as AR attachment#12 and #13.
+1-7213569	3	2018-06-26 05:31	1830 PSS-32	Vodafone Omnitel
+Brescia IT - Brescia 01	gfalasca	gfalasca	2018-12-09 18:55
+gfalasca	2019-03-26 06:31	
+[postISU_PHN] - After the upgrade alarm appeared: CONTCOM (card failure communication ) on shelf 6 slot 26
+LD pack 2/3 cold/reboot or to be replaced in MW - II
+1-7213331	3	2018-06-25 23:30	1830 PSS-32	Verizon Wireless
+No Selection	nstrout	nstrout	2019-01-21 20:35
+nstrout	2019-01-30 04:31	
+[EBH- West] LA 1830 PSS32 not able to resync with the NSP / NFM-P
+looking for output of the CLI command "tools snmpwalk root" .and send me the output
+1-7211571	1	2018-06-23 03:06	1830 PSS-32	Rogers Communications Inc	kelldo	kelldo	2019-01-29 01:40
+kelldo	2019-01-30 04:30	
+reset inactive EC cards first shelf, lost communication to node
+11/16 - Escalating week of 11-19
+1-7210694	2	2018-06-22 11:52	1830 PSS-32	RELIANCE JIO INFOCOMM LIMITED
+RJIL Ambajipeta	kmerani	kmerani	2019-01-29 12:38
+mraina	2019-02-05 23:59	
+Observed manreset on 1/3 AHPLG. Site:APABJPABJP1CSSO32101 - Ambajipeta
+HW has been replaced and card is LAB for further problem reproduction
+1-7209844	3	2018-06-21 18:58	1830 PSS-32	France Telecom
+No Selection	gaspar1	gaspar1	2018-12-04 20:23
+gladieu1	2018-12-15 15:16	
+Quelques soucis avec les spans en raison des atténuations des fibres sur les sections Paris MSO  Beauvais  Amiens
+1-7207844	2	2018-06-20 13:31	1830 PSS-32	Telenet	nkilicas	nkilicas	2018-08-13 13:05
+nkilicas	2018-09-21 02:30	
+Unable to create topology link between AN09901P32 SFD shelf56/57and OPSA on
+issue is investigated via AR 1-7204975
+1-7207007	2	2018-06-19 20:06	1830 PSS-64	Vodafone Qatar	nkilicas	filies	2018-09-18 12:03
+filies	2018-08-31 14:08	
+All services in between ILS to QDC switched to alternate path ,need to know the reason why it is happened even there is no media related alarms in the network.
+Awaiting Customer Review of Proposed Corrective Action
+1-7205147	3	2018-06-18 14:47	1830 PSS-32	France Telecom
+No Selection	gaspar1	gaspar1	2018-11-13 17:59
+gaspar1	2019-06-18 15:33	
+FMA request (linked to AR1-7147257) for ASWG EZ1712A3561
+En attente de livraison de Nokia à Orange d'une carte de remplacement (à celle perdue).
+1-7204975	2	2018-06-18 13:07	1830 PSS-32	Telenet	nkilicas	nkilicas	2019-01-28 13:52
+nkilicas	2018-10-26 02:30	
+Unable to create topology link between SFD and OPSA
+20190125: Manual cleanup executed as full solution was not possible. Asking customer AR closure approval.
+1-7204213	3	2018-06-15 23:37	1830 PSS-32	Claro Argentina
+No Selection	cmancill	cmancill	2019-02-01 10:34
+cmancill	2019-02-15 11:30	
+Argentina | Claro | PSS-32 | NE: CF223ECP40. It is not possible to get a backup by TFTP
+January 29th. It is pending NMS engineer finishes his analysis.
+1-7203863	4	2018-06-15 17:04	1830 PSS-32	Telefonica de Espana	martama	martama	2019-01-15 18:10
+martama	2019-12-24 21:12	
+Estudio previo de Red TecnoAlcala vanos en diseño
+Se recomienda auditoría y rediseño donde sea necesario.
+1-7200888	4	2018-06-13 12:53	1830 PSS-8	Telefonica de Espana	amanzan	amanzan	2019-01-14 13:40
+nkilicas	2019-12-12 20:26	
+Siguen saliendo (aunque cesan) alarmas de temperatura alta
+more info from tec
+1-7199731	2	2018-06-12 15:59	1830 PSS-32	WATANIYA TELECOM ALGERIE SPA
+No Selection	ml81	ml81	2018-06-15 14:41
+ml81	2018-07-15 14:45	
+LOW input Voltage PSS32 ALWOF10 shlef02 Slot 3
+1-7195899	2	2018-06-09 15:28	1830 PSS-32	VIVO	rsegundo	rsegundo	2019-01-22 17:41
+rsegundo	2019-02-11 19:30	
+VIVO BBIP INTERNET has 2 x 100GBE services without cross connection under NEs RCEPEA and FLACEA.
+22/01/2019 09h00 _VIVO_Upgrade status is almost the same as before. NOKIA's Deployment team is facing many problem to get authorization to access customer's sites. New dates for NE upgrades to be confirmed.
+1-7194510	3	2018-06-08 05:10	1830 PSS-32	Vodafone Omnitel
+Catanzaro IT - Catanzaro 02	gfalasca	gfalasca	2018-12-18 13:37
+gfalasca	2019-02-08 06:10	
+[post-ISU_PHN] - Card inventory Error alarm on 1/3 occurred aftrer 9.1 activation
+Pack 1/3 LD to be replaced in MW - II
+1-7193253	3	2018-06-07 11:06	1830 PSS-32	Sandeul Networks
+No Selection	mhan1	mhan1	2019-01-29 14:47
+mhan1	2019-02-14 20:30	
+[SamSung SDS]_SamSung SDS_RoA_S1.CAAP.N2_11DPM12_2-14-L1 T-BERPOSTFEC ALARM DETECTED.
+need to know why fec error raised and cleared.
+1-7191145	3	2018-06-05 21:21	1830 PSS-32	Apple Inc
+Charlotte NC - 125 North Myers Street	rickeyk	rickeyk	2019-01-30 18:36
+rickeyk	2019-03-01 04:30	
+While upgrading the USCLT2-LWDM-V2OL1 node from R9.0-2 to R10.0-0, WebUI TACACS is prompting for a password change on login after activating R10 software.
+R&D has confirmed R11.0 released on 8/7 to address this issue.
+1-7183044	2	2018-05-29 14:38	1830 PSS-32	MTS PJSC
+MTS ABAKAN	ssobolev	ssobolev	2019-02-01 18:33
+ssobolev	2019-11-27 11:30	
+Problem with  correct power detection
+01/02: SFP replaced on L1 port on 4DPA4 card
+1-7180270	4	2018-05-25 16:15	1830 PSS-32	Telefonica de Espana	rodiazna	rodiazna	2019-01-21 13:55
+rodiazna	2019-02-07 19:11	
+Potencia baja en punto intermedio de tarjeta de MA.GA-WS-1
+A la espera de nuevo BTP: 5/2
+1-7170413	3	2018-05-16 22:23	1830 PSS-32	Level3 Communications
+No Selection	nstrout	nstrout	2019-01-28 17:58
+nstrout	2019-01-30 00:26	
+Light level reporting problem - light level info not reporting from network element to server
+RTRV-PM-OCH TL1 commands return "Invalid AID" for certain channels; Change Request 7189775 submitted to development. This issue is Validated in R11.1
+1-7169314	2	2018-05-16 06:31	1830 PSS-16	SUPERONLINE
+ANKARA-YENIMAHALLE	gmehdipu	gmehdipu	2018-12-14 18:20
+gmehdipu	2018-05-30 02:30	
+Yenimahalle devam eden pwrsusp
+Awaiting Customer Maintenance Window
+1-7168595	2	2018-05-15 17:29	1830 PSS-4	Eurotunnel
+No Selection	gaspar1	gaspar1	2019-01-23 19:26
+gaspar1	2019-12-23 20:13	
+Database invalide
+1-7165698	4	2018-05-13 19:52	1830 PSS-32	Saudi Telecom Company
+No Selection	aismaiel	aismaiel	2019-01-27 14:04
+najam	2019-02-04 14:30	
+NI# 179269, No issue observed in ERP
+Awaiting Customer Approval for Resolve/Closure
+1-7160983	3	2018-05-09 18:54	1830 PSS-32	Maroc Telecom
+No Selection	ml81	ml81	2018-05-16 14:50
+ml81	2018-05-16 19:35	
+we have recently multiple alarms on PSS32 PF card, (bad clock frequency and suspect clock frequency) we resolved two cases by changing the PF and we still have
+1-7156170	3	2018-05-04 17:20	1830 PSS-32	Alcatel-Lucent	pbenoit	ml81	2018-06-15 14:00
+ml81	 	
+Problème sur collecte PM sur différents PSS du réseau
+1-7154858	3	2018-05-03 19:28	1830 PSS-32	France Telecom Espana SA	chernanz	chernanz	2019-01-21 15:36
+chernanz	2019-03-08 22:30	
+Alarmas sobre canales OPR en la estructura 427VITO VITO
+Pendiente posible rediseño.
+1-7152270	4	2018-05-01 18:49	1830 PSS-32	Saudi Telecom Company
+Riyadh	aismaiel	aismaiel	2019-01-27 14:04
+najam	2019-02-04 14:30	
+There are P.L for 3g Sites passing through L2 DWDM NI 183457 and L2 DWDM NI 183973
+Issue solved after modify the QoS
+1-7151840	1	2018-05-01 01:46	1830 PSS-64	SUPERONLINE
+No Selection	nkilicas	nkilicas	2019-01-25 19:07
+ssikoglu	2018-07-06 08:06	
+Ekli mailde bilgiler var. SILKNET devremiz kesik acil inceler misiniz?
+Awaiting Customer Maintenance Window
+1-7142992	3	2018-04-21 04:09	1830 PSS-32	Comcast Corporation
+San Francisco CA - 2055 Folsom Street	kelldo	kelldo	2019-02-02 00:57
+kelldo	2019-02-06 04:30	
+Looking for RCA/Analysis of alarms
+1/4 - results of investigation with R&D under 1-7215801 were inconclusive. Waiting for reoccurrence. Requested from TEC what information needs to be pulled in the case of a re-occurrence.
+1-7142040	3	2018-04-20 10:53	1830 PSS-32	OPT New Caledonia
+No Selection	shivs	shivs	2019-01-21 17:04
+shivs	2019-02-28 23:50	
+Problem summary:- LAG 1/16/1 the value of LKO-R-1 Actor System Priority is 0 and on LAG 1/17/1 the same parameter has a value of 32768.
+Solution provided with Red to old Ref AR#1-6937476.
+1-7127647	3	2018-04-09 06:35	1830 PSS-32	Asia Pacific Telecom Co., Ltd.
+AAA TW - APT	ppwu	ppwu	2019-01-30 07:52
+philshih	2019-03-31 07:52	
+The 1830PSS NE TPAM-AM1OR-8301 became Node Isolation due to EC issue.
+Need to know the correct troubleshooting SOP if the similar case happens in the future.
+1-7125527	3	2018-04-05 21:54	1830 PSS-32	Shaw Cablesystems G.P.
+No Selection	mlanctot	mlanctot	2019-01-16 02:23
+mlanctot	2019-03-09 03:30	
+1830 Radius should support accounting
+Local team needs to contact PLM
+1-7123438	4	2018-04-04 11:52	1830 PSS-32	Telefonica de Espana	martama	martama	2019-01-15 18:03
+martama	2019-10-16 20:35	
+AC.AP065-NOWPSS-1/AHPHG-1-2-SIG-9230,OCH,TRMT COMMUNICATIONS OPR
+Pendiente decidir si se hace auditoría de TecnoAlcalá y rediseño.
+1-7116292	1	2018-03-27 22:55	1830 PSS-32	SUPERONLINE
+No Selection	gmehdipu	gmehdipu	2018-10-26 13:26
+mozgur	2018-04-30 02:30	
+Control Card redundancy is compromised
+RCA has shared with customer
+1-7112521	4	2018-03-23 18:14	1830 PSS-32	Alcatel-Lucent	mlanctot	mlanctot	2018-12-11 21:52
+mlanctot	2019-08-02 21:30	
+General Customer Tool Support
+Registered and generate HCT package for Toronto Hydro
+1-7102979	3	2018-03-15 12:14	1830 PSS-32	Telefonica de Espana
+TELEFONICA MADRID JULIAN CAMARILLO	martama	martama	2019-01-30 21:03
+fserrano	2019-09-10 19:23	
+Alarma Itermitente en M.SM TR01:TNOW1830 PSS:1
+Las alarmas de OPR de este canal son debidas a la planicidad del amplificador 3-3 AHPLG. Se recomienda auditoría y rediseño.
+1-7096122	3	2018-03-09 22:08	1830 PSS-16II	Cincinnati Bell Telephone	acarenza	acarenza	2019-01-28 07:34
+acarenza	2019-02-08 18:30	
+Power Management Suspended Alarm Reporting Intermittently At All ROADM Locations
+Awaiting R11.1 DR4
+1-7091849	3	2018-03-06 19:31	1830 PSS-32	Alcatel-Lucent
+No Selection	sadmi1	sadmi1	2018-03-22 19:28
+sadmi1	2018-03-31 03:30	
+Issues during upgrade
+la carte EC 1/18 n'est pas joignable en IP merci de la remplacer
+1-7091242	2	2018-03-06 12:15	1830 PSS-36	Emirates Integrated Telecommunications Company
+EITC	shadyi	shadyi	2019-01-27 16:31
+shadyi	2019-03-25 01:30	
+Hardware failure from MTX board of IMPZ F90
+27/01/2019 Fix is included on R9.1.4 and follow, A plan to Upgrade the NEs to R11.0.x is currently on going .
+1-7040536	3	2018-01-18 13:26	1830 PSS-36	MTS PJSC
+No Selection	aonokhin	aonokhin	2019-01-30 13:35
+aonokhin	2019-02-08 13:30	
+On 12 elements of PSS36 hangs an alarm "FilterClogged". Filter cleaning is carried out regularly, most recently in December 2017. I ask for recommendations.
+18-Jan: awaiting upgrade to R10.0.5 finishing (planned on Jan-Feb). Pending confirmed.
+1-7030193	2	2018-01-10 06:05	1830 PSS-32	SUPERONLINE
+No Selection	milesi100000	milesi100000	2018-12-03 11:24
+webcustomer	2018-01-24 17:30	
+Mahmutbey internal geciste zayiflama mevcut. Incelemenizi rica ederiz. 5/4 WR8
+Awaiting MW date information from customer.
+1-7024656	2	2018-01-05 03:19	1830 PSS-32	Comcast Corporation
+San Mateo CA - 83 East 21st	mlanctot	mlanctot	2019-01-28 20:55
+mlanctot	2019-03-30 02:30	
+Commands sent from OMS do not appear to be logged on NE
+Under consideration
+1-7017148	3	2017-12-25 01:30	1830 PSS-32	Emirates Integrated Telecommunications Company
+EITC	ahmansou	ahmansou	2017-12-27 03:28
+ahmansou	 	
+AUH2920 HC Check ITLA register on 130S/260S boards Suspect 130SCX10_1_1_15 (RX/c000/c101, TX/0000/0000)
+27/12 Recommendations will be shared with Customer
+1-7006458	3	2017-12-14 18:10	1830 PSS-32	Telefonica de Espana
+Madrid ES - Calle De Torrelara, 6, 1º	rodiazna	rodiazna	2019-01-11 19:31
+martama	2019-10-26 12:41	
+Vano degradado entre ILA 19 y Sede Cliente.
+Se sigue en monitorización. La degradación tiene picos de caídas de hata 7 dBs, pero sigue estable.
+1-6994379	3	2017-12-05 02:51	1830 EPT	Alcatel-Lucent
+No Selection	mlanctot	mlanctot	2019-01-16 02:26
+mlanctot	2019-03-08 22:30	
+Cannot route 16QAM channels on 9605 with banded assignment
+Fixed in R11 and validated. PSSEPTSW-18078.
+1-6988352	4	2017-11-29 13:14	1830 PSS-4	Telefonica de Espana	anblanco	anblanco	2018-10-29 21:22
+martama	2018-10-30 16:30	
+Origen de las Alarmas Externas
+Se ha cambiado el parámetro SNMP Source a LoopbackIp Only en todos lod PSS4 GNEs. Pendiente desconfigurar y volver a configurar las alarmas de HouseKeeping en el nodo de CRIA.
+1-6965902	3	2017-11-09 15:41	1830 PSS-16	LLP SKY MOBILE	ykhakimo	ykhakimo	2019-01-24 14:59
+ykhakimo	2019-03-15 16:30	
+Channel optical power out of range on several nodes.
+24/01/2019. Return to the initial fibers is postponed to March.
+1-6953979	2	2017-10-30 18:55	1830 PSS-32	Alcatel-Lucent	aismaiel	aismaiel	2019-01-18 00:46
+najam	2019-01-28 14:30	
+This AR opened to get a procedure to upgarde the affected CFs under ON 17-0062b
+Information/Action Requested
+1-6934734	2	2017-10-13 17:41	1830 PSS-32	Telecom Italia S.p.A.
+No Selection	rloprete	rloprete	2018-12-10 12:57
+rloprete	2019-02-11 21:30	
+WDM-METRO: Veneitau-Mira: check channel power level
+Under Investigation
+1-6924828	3	2017-10-05 06:41	1830 PSS-16	Tiscali S.p.A
+No Selection	gfalasca	gfalasca	2018-04-04 17:22
+gfalasca	2018-12-05 07:41	
+[ISU_PSS] NE028-VR-POP 1/8 AHPLG fuse failure
+car 1/8 still not replaced by customer - II update
+1-6923517	3	2017-10-04 06:33	1830 PSS-32	Tiscali S.p.A	gfalasca	gfalasca	2018-04-10 14:50
+livanova	2018-12-04 07:33	
+[ISU_PSS] NE044-Quartucciu 1/4 AM2625A fuse failure
+pack 1/4 still not replaced by customer - II update
+1-6923513	3	2017-10-04 06:46	1830 PSS-16	Tiscali S.p.A
+No Selection	gfalasca	gfalasca	2018-04-04 17:13
+gfalasca	2018-12-04 07:46	
+[ISU_PSS] NE025-RE-POP 1/3 AHPHG fuse failure
+pack 1/3 still not replaced by customer - II update
+1-6903482	3	2017-09-16 01:51	1830 PSS-32	Shaw Cablesystems G.P.
+Calgary AB - 2001 27TH AVE NE	mlanctot	mlanctot	2019-01-16 02:39
+mlanctot	2019-03-30 02:30	
+no visualization of real progress during s/w download
+Feature is a candidate for NFM-T R18.12
+1-6854961	2	2017-08-04 14:35	1830 PSS-32	France Telecom Espana SA
+ORANGE CML ERP MADRID	chernanz	chernanz	2019-01-21 15:36
+chernanz	2019-03-08 21:30	
+Degradación - Martorel 354-400 HOSP BARC WDM.
+Se esta revisando la estructura por NI.
+1-6847075	3	2017-07-28 13:42	1830 PSS-32	INTEROUTE NETWORKS LTD
+Cagliari IT - SS 195 Km 2300	dano	filies	2018-11-01 18:40
+shickman	2018-11-30 20:30	
+Cag-001-Olb-001 Ch41 is taking errors
+20APR:PSS GTAC investigating
+1-6838409	2	2017-07-20 21:38	1830 PSS-36	Emirates Integrated Telecommunications Company
+EITC	shadyi	shadyi	2019-01-27 23:35
+shadyi	2019-03-25 21:30	
+EITC Network is affected with 17-0572-ON-OCS-1830 "PSS-64-36_100G_or_40G cards might enter in SWDL in R9"
+27/01/2019 Fix is included on R9.1.4 and follow, A plan to Upgrade the NEs to R11.0.x is currently on going . 17-3-2018 - Waiting Network Upgrade to R9.1.x
+1-6822598	2	2017-07-07 22:52	1830 PSS-16	TELEMAR NORTE LESTE S/A	rsegundo	rsegundo	2019-01-24 17:51
+rsegundo	2019-02-11 19:30	
+OI_PSS16_NE Brasília "CTIM DFBSA_CTIMDWDM001" without supervision and DB corrupted
+22/01/2019_OI_The customer has not yet scheduled the maintenance window for the upgrade.
+1-6687855	1	2017-03-16 22:11	1830 PSS-32	Telefonica de Espana
+TELEFONICA-SEVILLA-SAN BERNARDO C. T	martama	martama	2019-01-15 18:03
+martama	2019-12-14 16:26	
+Fallo en Plano de Control en equipos S.SB-OAD1830WSS-1 8/3/2017 19:36H de Malla Fotonica Regional
+A partir de la release R 10 se soluciona el problema. Pendiente migración.
+1-6630422	4	2017-01-31 14:38	1830 PSS-32	Vodafone Spain
+No Selection	lgarciap	lgarciap	2019-01-09 20:17
+lgarciap	2019-01-26 04:30	
+Señal degradada WMX4135 9/35 y WMX4142 10/34
+En estudio.
+1-6545397	4	2016-11-23 17:18	1830 PSS-36	Telefonica de Espana
+No Selection	martama	martama	2018-10-25 19:46
+martama	2019-09-12 21:25	
+Fallo de las unidades 130SCUP
+Se informa de cada uno de los fallos estudiados y se continua con el seguimiento con TEC y R&D de cualquier nuevo caso.
+1-6354333	1	2016-07-07 22:01	1830 PSS-32	Comcast Corporation
+Dallas GA - 1721 Graham Rd	acarenza	acarenza	2019-02-01 21:31
+acarenza	2019-02-28 18:30	
+Multiple links flapping
+Awaiting procedure to upgrade firmware

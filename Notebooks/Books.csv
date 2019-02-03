@@ -1,0 +1,501 @@
+BookID,Book Name,Author,IssuedTo,StudentName
+1,Do Androids Dream of Electric Sheep?,Philip K. Dick,4,Ena Finch
+2,"The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",Douglas Adams,28,Carmela Louque
+3,Something Wicked This Way Comes,Ray Bradbury,4,Ena Finch
+4,"Pride and Prejudice and Zombies (Pride and Prejudice and Zombies, #1)",Seth Grahame-Smith,48,Alethea Cornish
+5,I Was Told There'd Be Cake,Sloane Crosley,19,Christian Lowrie
+6,The Curious Incident of the Dog in the Night-Time,Mark Haddon,26,Joesph Mountain
+7,"Eats, Shoots & Leaves: The Zero Tolerance Approach to Punctuation",Lynne Truss,21,Austin Osborn
+8,The Hollow Chocolate Bunnies of the Apocalypse,Robert Rankin,27,Cherlyn Dabrowski
+9,To Kill a Mockingbird,Harper Lee,35,Kathe Stancill
+10,The Unbearable Lightness of Being,Milan Kundera,25,Ted Hamlett
+11,"Are You There, Vodka? It's Me, Chelsea",Chelsea Handler,50,Ginger Sease
+12,Midnight in the Garden of Good and Evil,John Berendt,22,Qiana Restrepo
+13,The Perks of Being a Wallflower,Stephen Chbosky,30,Adelaide Mccaskill
+14,The Man Without Qualities,Robert Musil,1,Rosalyn Overfelt
+15,"The Earth, My Butt, and Other Big Round Things (Virginia Shreves #1)",Carolyn Mackler,36,Elma Bayerl
+16,Cloudy With a Chance of Meatballs,Judi Barrett,11,Nathalie Helbing
+17,Where the Wild Things Are,Maurice Sendak,42,Domingo Knoblock
+18,"John Dies at the End (John Dies at the End, #1)",David  Wong,5,Major Kintner
+19,Me Talk Pretty One Day,David Sedaris,20,Yun Depue
+20,One Hundred Years of Solitude,Gabriel García Márquez,6,Ferne Mcgaha
+21,Stop Dressing Your Six-Year-Old Like a Skank: A Slightly Tarnished Southern Belle's Words of Wisdom,Celia Rivenbark,33,Chang Lusher
+22,A Heartbreaking Work of Staggering Genius,Dave Eggers,21,Austin Osborn
+23,"The Long Dark Tea-Time of the Soul (Dirk Gently, #2)",Douglas Adams,14,Jeanett Early
+24,How to Lose Friends and Alienate People,Toby Young,20,Yun Depue
+25,An Arsonist's Guide to Writers' Homes in New England,Brock Clarke,44,Hailey Osorio
+26,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",Judith Viorst,3,Yolonda Dye
+27,Another Bullshit Night in Suck City,Nick Flynn,43,Jennette Hild
+28,I Have No Mouth and I Must Scream,Harlan Ellison,10,Anthony Haddox
+29,"So Long, and Thanks for All the Fish (Hitchhiker's Guide to the Galaxy, #4)",Douglas Adams,38,Shante Phoenix
+30,A Clockwork Orange,Anthony Burgess,33,Chang Lusher
+31,A Thousand Splendid Suns,Khaled Hosseini,30,Adelaide Mccaskill
+32,"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas   Harris,1,Rosalyn Overfelt
+33,"Neverwhere (London Below, #1)",Neil Gaiman,32,Adena Macrae
+34,The Zombie Survival Guide: Complete Protection from the Living Dead,Max Brooks,31,Mikki Faith
+35,"The Devil Wears Prada (The Devil Wears Prada, #1)",Lauren Weisberger,47,Jonah Cardamone
+36,The Grapes of Wrath,John Steinbeck,29,Marietta Mattos
+37,Their Eyes Were Watching God,Zora Neale Hurston,12,Velva Philips
+38,Extremely Loud and Incredibly Close,Jonathan Safran Foer,28,Carmela Louque
+39,I Am America,Stephen Colbert,26,Joesph Mountain
+40,I Still Miss My Man But My Aim Is Getting Better,Sarah Shankman,32,Adena Macrae
+41,"A Wrinkle in Time (Time Quintet, #1)",Madeleine L'Engle,16,Milford Oxley
+42,Go the Fuck to Sleep,Adam Mansbach,28,Carmela Louque
+43,When You Are Engulfed in Flames,David Sedaris,33,Chang Lusher
+44,The Guernsey Literary and Potato Peel Pie Society,Mary Ann Shaffer,41,Hellen Vives
+45,"English as a Second F*cking Language: How to Swear Effectively, Explained in Detail With Numerous Examples Taken from Everyday Life",Sterling Johnson,49,Jodee Roger
+46,For Whom the Bell Tolls,Ernest Hemingway,32,Adena Macrae
+47,The Man Who Mistook His Wife for a Hat and Other Clinical Tales,Oliver Sacks,8,Charline Weast
+48,A Confederacy of Dunces,John Kennedy Toole,33,Chang Lusher
+49,The Gordonston Ladies Dog Walking Club,Duncan Whitehead,27,Cherlyn Dabrowski
+50,Love in the Time of Cholera,Gabriel García Márquez,10,Anthony Haddox
+51,And Then There Were None,Agatha Christie,41,Hellen Vives
+52,Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values,Robert M. Pirsig,11,Nathalie Helbing
+53,If on a Winter's Night a Traveler,Italo Calvino,31,Mikki Faith
+54,"Tequila Makes Her Clothes Fall Off (Country Music Collection, #1)",Cara North,18,Bradford Santini
+55,When Will Jesus Bring the Pork Chops?,George Carlin,31,Mikki Faith
+56,Fear and Loathing in Las Vegas,Hunter S. Thompson,29,Marietta Mattos
+57,"The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy, #2)",Douglas Adams,40,Roxann Northup
+58,Brave New World,Aldous Huxley,10,Anthony Haddox
+59,No Country for Old Men,Cormac McCarthy,20,Yun Depue
+60,Send More Idiots,Tony Perez-Giese,41,Hellen Vives
+61,How to Shit in the Woods: An Environmentally Sound Approach to a Lost Art,Kathleen Meyer,13,Ruben Loyd
+62,All Quiet on the Western Front,Erich Maria Remarque,46,Bruno Prudhomme
+63,The Sound and the Fury,William Faulkner,23,Danial Tidwell
+64,The Moon is a Harsh Mistress,Robert A. Heinlein,34,Raquel Harcrow
+65,The Catcher in the Rye,J.D. Salinger,47,Jonah Cardamone
+66,The Man Who Was Thursday: A Nightmare,G.K. Chesterton,35,Kathe Stancill
+67,The Particular Sadness of Lemon Cake,Aimee Bender,45,Shonda Sidoti
+68,The Lone Ranger and Tonto Fistfight in Heaven,Sherman Alexie,37,Risa Woolridge
+69,The Spy Who Came In from the Cold,John le Carré,40,Roxann Northup
+70,As I Lay Dying,William Faulkner,45,Shonda Sidoti
+71,The Electric Kool-Aid Acid Test,Tom Wolfe,41,Hellen Vives
+72,"I Hope They Serve Beer in Hell (Tucker Max, #1)",Tucker Max,21,Austin Osborn
+73,Fuck This Book,Bodhi Oser,38,Shante Phoenix
+74,Of Mice and Men,John Steinbeck,9,Phylicia Seymour
+75,What to Say When You Talk to Yourself,Shad Helmstetter,15,Ivey Fiorini
+76,Well-Behaved Women Seldom Make History,Laurel Thatcher Ulrich,30,Adelaide Mccaskill
+77,Nostradamus Ate My Hamster,Robert Rankin,34,Raquel Harcrow
+78,Hard-Boiled Wonderland and the End of the World,Haruki Murakami,8,Charline Weast
+79,The Baby Jesus Butt Plug,Carlton Mellick III,23,Danial Tidwell
+80,Don't Pee on My Leg and Tell Me It's Raining: America's Toughest Family Court Judge Speaks Out,Judy Sheindlin,39,Vada Touchette
+81,"Lamb: The Gospel According to Biff, Christ's Childhood Pal",Christopher Moore,11,Nathalie Helbing
+82,"She Got Up Off The Couch: And Other Heroic Acts From Mooreland, Indiana",Haven Kimmel,29,Marietta Mattos
+83,The Importance of Being Earnest,Oscar Wilde,38,Shante Phoenix
+84,"Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy, #3)",Douglas Adams,45,Shonda Sidoti
+85,In God We Trust: All Others Pay Cash,Jean Shepherd,33,Chang Lusher
+86,The Effect of Gamma Rays on Man-in-the-Moon Marigolds,Paul Zindel,7,Yasuko Belknap
+87,Catch-22,Joseph Heller,25,Ted Hamlett
+88,This Is Not a Novel,David Markson,13,Ruben Loyd
+89,I Capture the Castle,Dodie Smith,12,Velva Philips
+90,On Bullshit,Harry G. Frankfurt,49,Jodee Roger
+91,"Tinker, Tailor, Soldier, Spy",John le Carré,22,Qiana Restrepo
+92,A Short History of Tractors in Ukrainian,Marina Lewycka,39,Vada Touchette
+93,"Don't Bend Over in the Garden, Granny, You Know Them Taters Got Eyes",Lewis Grizzard,45,Shonda Sidoti
+94,Sense and Sensibility and Sea Monsters,Ben H. Winters,3,Yolonda Dye
+95,How to Talk About Books You Haven't Read,Pierre Bayard,40,Roxann Northup
+96,One Flew Over the Cuckoo's Nest,Ken Kesey,26,Joesph Mountain
+97,"Captain Underpants and the Perilous Plot of Professor Poopypants (Captain Underpants, #4)",Dav Pilkey,2,Renate Sheets
+98,"The Lust Lizard of Melancholy Cove (Pine Cove, #2)",Christopher Moore,4,Ena Finch
+99,A Streetcar Named Desire,Tennessee Williams,17,Neoma Brill
+100,The Heart Is a Lonely Hunter,Carson McCullers,9,Phylicia Seymour
+101,Tender Is the Night,F. Scott Fitzgerald,23,Danial Tidwell
+102,The Haunted Vagina,Carlton Mellick III,11,Nathalie Helbing
+103,There's a Wocket in My Pocket!,Dr. Seuss,21,Austin Osborn
+104,"This Book Is Full of Spiders (John Dies at the End, #2)",David  Wong,18,Bradford Santini
+105,Atlas Shrugged,Ayn Rand,35,Kathe Stancill
+106,Even God is Single:,Karen Salmansohn,42,Domingo Knoblock
+107,Hitler the Cat Goes West,Robert G. Pielke,29,Marietta Mattos
+108,The Grass Is Always Greener over the Septic Tank,Erma Bombeck,40,Roxann Northup
+109,"Practical Demonkeeping (Pine Cove, #1)",Christopher Moore,39,Vada Touchette
+110,Brain: The Man Who Wrote the Book That Changed the World,Dermot Davis,8,Charline Weast
+111,"The Hunger Games (The Hunger Games, #1)",Suzanne Collins,39,Vada Touchette
+112,"I Gave You My Heart, but You Sold It Online (Domestic Equalizers Book 3)",Dixie Cash,28,Carmela Louque
+113,Requiem for a Dream,Hubert Selby Jr.,10,Anthony Haddox
+114,Half Asleep in Frog Pajamas,Tom Robbins,24,Abdul Mcdivitt
+115,Eeeee Eee Eeee,Tao Lin,20,Yun Depue
+116,Zombies Vs. Unicorns,Holly Black,45,Shonda Sidoti
+117,Steal This Book,Abbie Hoffman,13,Ruben Loyd
+118,Go-Go Girls of the Apocalypse,Victor Gischler,9,Phylicia Seymour
+119,Reading Lolita in Tehran: A Memoir in Books,Azar Nafisi,46,Bruno Prudhomme
+120,Naked Lunch,William S. Burroughs,27,Cherlyn Dabrowski
+121,Like Water for Chocolate,Laura Esquivel,45,Shonda Sidoti
+122,"Since You're Leaving Anyway, Take Out the Trash (Domestic Equalizers #1)",Dixie Cash,32,Adena Macrae
+123,The Stinky Cheese Man and Other Fairly Stupid Tales,Jon Scieszka,8,Charline Weast
+124,"The Forest of Hands and Teeth (The Forest of Hands and Teeth, #1)",Carrie Ryan,34,Raquel Harcrow
+125,Green Eggs and Ham,Dr. Seuss,21,Austin Osborn
+126,HELP!  A Bear is Eating Me!,Mykle Hansen,39,Vada Touchette
+127,"Smashed, Squashed, Splattered, Chewed, Chunked and Spewed",Lance Carbuncle,28,Carmela Louque
+128,"You Suck (A Love Story, #2)",Christopher Moore,21,Austin Osborn
+129,"Girl, Interrupted",Susanna Kaysen,11,Nathalie Helbing
+130,The Faggiest Vampire,Carlton Mellick III,11,Nathalie Helbing
+131,The Art of Racing in the Rain,Garth Stein,43,Jennette Hild
+132,The Lovely Bones,Alice Sebold,13,Ruben Loyd
+133,We Have Always Lived in the Castle,Shirley Jackson,20,Yun Depue
+134,Gone with the Wind,Margaret Mitchell,25,Ted Hamlett
+135,Infinite Jest,David Foster Wallace,20,Yun Depue
+136,The Crimson Petal and the White,Michel Faber,6,Ferne Mcgaha
+137,Everything That Rises Must Converge: Stories,Flannery O'Connor,2,Renate Sheets
+138,Saving Fish from Drowning,Amy Tan,23,Danial Tidwell
+139,High Heels and Dirty Deals - Globetrotting Tales of Debauchery from a binge-drinking Nymphomaniac,Brett Tate,32,Adena Macrae
+140,"The Girl Who Circumnavigated Fairyland in a Ship of Her Own Making (Fairyland, #1)",Catherynne M. Valente,17,Neoma Brill
+141,Gravity's Rainbow,Thomas Pynchon,9,Phylicia Seymour
+142,I Hate Myself and Want to Die: The 52 Most Depressing Songs You've Ever Heard,Tom    Reynolds,24,Abdul Mcdivitt
+143,The Pit and the Pendulum,Edgar Allan Poe,30,Adelaide Mccaskill
+144,Crime and Punishment,Fyodor Dostoyevsky,32,Adena Macrae
+145,The Stray Shopping Carts of Eastern North America: A Guide to Field Identification,Julian Montague,46,Bruno Prudhomme
+146,The Left Hand of Darkness (Hainish Cycle #4),Ursula K. Le Guin,33,Chang Lusher
+147,Up the Down Staircase,Bel Kaufman,3,Yolonda Dye
+148,"Get Your Tongue Out of My Mouth, I'm Kissing You Goodbye!",Cynthia Heimel,9,Phylicia Seymour
+149,Special Topics in Calamity Physics,Marisha Pessl,35,Kathe Stancill
+150,Freaks I've Met,Donald Jans,35,Kathe Stancill
+151,"Oh, The Places You'll Go!",Dr. Seuss,34,Raquel Harcrow
+152,The Ultimate Hitchhiker's Guide to the Galaxy,Douglas Adams,14,Jeanett Early
+153,I Know Why the Caged Bird Sings,Maya Angelou,44,Hailey Osorio
+154,Of Human Bondage,W. Somerset Maugham,35,Kathe Stancill
+155,The Monster at the End of this Book,Jon Stone,11,Nathalie Helbing
+156,All Fun and Games Until Somebody Loses an Eye,Christopher Brookmyre,33,Chang Lusher
+157,Lord of the Flies,William Golding,21,Austin Osborn
+158,"There's a (Slight) Chance I Might Be Going to Hell: A Novel of Sewer Pipes, Pageant Queens, and Big Trouble",Laurie Notaro,29,Marietta Mattos
+159,"Angus, Thongs and Full-Frontal Snogging (Confessions of Georgia Nicolson, #1)",Louise Rennison,11,Nathalie Helbing
+160,Who's Afraid of Virginia Woolf?,Edward Albee,49,Jodee Roger
+161,Much Ado About Nothing,William Shakespeare,25,Ted Hamlett
+162,Walter the Farting Dog: Trouble At the Yard Sale,William Kotzwinkle,8,Charline Weast
+163,The Fault in Our Stars,John Green,9,Phylicia Seymour
+164,I Never Promised You a Rose Garden,Hannah  Green,13,Ruben Loyd
+165,"Through the Looking-Glass and What Alice Found There (Alice's Adventures in Wonderland, #2)",Lewis Carroll,42,Domingo Knoblock
+166,"Dude, You're a Fag: Masculinity and Sexuality in High School",C.J. Pascoe,14,Jeanett Early
+167,A Great and Terrible Beauty,Libba Bray,4,Ena Finch
+168,Long Day's Journey into Night,Eugene O'Neill,4,Ena Finch
+169,Don't Read This Book If You're Stupid: Stories,Tibor Fischer,48,Alethea Cornish
+170,The Winter of Our Discontent,John Steinbeck,47,Jonah Cardamone
+171,Never Threaten to Eat Your Co-Workers: Best of Blogs,Bonnie Burton,31,Mikki Faith
+172,Stiff: The Curious Lives of Human Cadavers,Mary Roach,29,Marietta Mattos
+173,Bury My Heart at Wounded Knee: An Indian History of the American West,Dee Brown,30,Adelaide Mccaskill
+174,Cutting Right to the Chase,Stefania Mattana,19,Christian Lowrie
+175,You Can't Drink All Day If You Don't Start in the Morning,Celia Rivenbark,13,Ruben Loyd
+176,Into the Killer Sphere (Chase Williams detective stories #1),Stefania Mattana,47,Jonah Cardamone
+177,Far From the Madding Crowd,Thomas Hardy,28,Carmela Louque
+178,Never Let Me Go,Kazuo Ishiguro,30,Adelaide Mccaskill
+179,Ass Goblins of Auschwitz,Cameron Pierce,48,Alethea Cornish
+180,"Al Capone Does My Shirts (Al Capone at Alcatraz, #1)",Gennifer Choldenko,50,Ginger Sease
+181,Rush Limbaugh Is a Big Fat Idiot,Al Franken,25,Ted Hamlett
+182,Invitation to a Beheading,Vladimir Nabokov,49,Jodee Roger
+183,"Things Fall Apart (The African Trilogy, #1)",Chinua Achebe,33,Chang Lusher
+184,Breakfast at Tiffany's,Truman Capote,19,Christian Lowrie
+185,Apathy and Other Small Victories,Paul Neilan,12,Velva Philips
+186,"My Heart May Be Broken, but My Hair Still Looks Great (Domestic Equalizers Book 2)",Dixie Cash,30,Adelaide Mccaskill
+187,Grammar Snobs Are Great Big Meanies: A Guide to Language for Fun and Spite,June Casagrande,1,Rosalyn Overfelt
+188,Fahrenheit 451,Ray Bradbury,31,Mikki Faith
+189,As Hot as It Was You Ought to Thank Me,Nanci Kincaid,14,Jeanett Early
+190,Elvis is Dead And I Don't Feel So Good Myself,Lewis Grizzard,37,Risa Woolridge
+191,"Dirk Gently's Holistic Detective Agency (Dirk Gently, #1)",Douglas Adams,33,Chang Lusher
+192,"The Celery Stalks at Midnight (Bunnicula, #3)",James Howe,48,Alethea Cornish
+193,The Postman Always Rings Twice,James M. Cain,34,Raquel Harcrow
+194,Everyone Poops,Taro Gomi,48,Alethea Cornish
+195,Water for Elephants,Sara Gruen,39,Vada Touchette
+196,"Oh Dad, Poor Dad, Mama's Hung You in the Closet and I'm Feeling So Sad",Arthur Kopit,5,Major Kintner
+197,God Just Wanted To Play Golf: The Oceanview Trilogy: Book One,Craig W. Chenery,35,Kathe Stancill
+198,We Wish to Inform You That Tomorrow We Will Be Killed with Our Families,Philip Gourevitch,10,Anthony Haddox
+199,Vanity Fair,William Makepeace Thackeray,31,Mikki Faith
+200,Running with Scissors,Augusten Burroughs,5,Major Kintner
+201,The Thing About Life is That One Day You'll Be Dead,David Shields,49,Jodee Roger
+202,The Age of Innocence,Edith Wharton,21,Austin Osborn
+203,Fat Kid Rules the World,K.L. Going,8,Charline Weast
+204,"From Russia With Love (James Bond, #5)",Ian Fleming,22,Qiana Restrepo
+205,"The Girl with the Dragon Tattoo (Millennium, #1)",Stieg Larsson,29,Marietta Mattos
+206,"Guns, Germs, and Steel: The Fates of Human Societies",Jared Diamond,37,Risa Woolridge
+207,Lies & the Lying Liars Who Tell Them: A Fair & Balanced Look at the Right,Al Franken,14,Jeanett Early
+208,The Solitude of Prime Numbers,Paolo Giordano,43,Jennette Hild
+209,101 Uses for a Dead Cat,Simon Bond,32,Adena Macrae
+210,Rape: A Love Story,Joyce Carol Oates,14,Jeanett Early
+211,Divine Secrets of the Ya-Ya Sisterhood,Rebecca Wells,6,Ferne Mcgaha
+212,The Unabridged Devil's Dictionary,Ambrose Bierce,33,Chang Lusher
+213,The Crying of Lot 49,Thomas Pynchon,41,Hellen Vives
+214,"Live and Let Die (James Bond, #2)",Ian Fleming,19,Christian Lowrie
+215,'Tis Pity She's a Whore,John  Ford,25,Ted Hamlett
+216,Nigger,Dick Gregory,39,Vada Touchette
+217,Dance Lessons for Zombies,Peter Hiett,38,Shante Phoenix
+218,Lies My Teacher Told Me: Everything Your American History Textbook Got Wrong,James W. Loewen,34,Raquel Harcrow
+219,"Flow My Tears, the Policeman Said",Philip K. Dick,6,Ferne Mcgaha
+220,"Twilight (Twilight, #1)",Stephenie Meyer,23,Danial Tidwell
+221,Partial List of People to Bleach,Gary Lutz,8,Charline Weast
+222,Better Living Through Plastic Explosives,Zsuzsi Gartner,50,Ginger Sease
+223,The Great Gatsby,F. Scott Fitzgerald,14,Jeanett Early
+224,East of Eden,John Steinbeck,44,Hailey Osorio
+225,Memoirs of a Geisha,Arthur Golden,22,Qiana Restrepo
+226,All the Light We Cannot See,Anthony Doerr,27,Cherlyn Dabrowski
+227,Are You Loathsome Tonight?: A Collection of Short Stories,Poppy Z. Brite,41,Hellen Vives
+228,The Name of the Rose,Umberto Eco,8,Charline Weast
+229,Chicka Chicka Boom Boom,Bill Martin Jr.,5,Major Kintner
+230,Quantum Roots II: Worm Holes,Kyle Keyes,49,Jodee Roger
+231,Rampaging Fuckers of Everything on the Crazy Shitting Planet of the Vomit Atmosphere,Mykle Hansen,2,Renate Sheets
+232,Twelve Angry Men,Reginald Rose,26,Joesph Mountain
+233,"The Knife of Never Letting Go (Chaos Walking, #1)",Patrick Ness,38,Shante Phoenix
+234,Arrangement in Black and White,Fred Misurella,36,Elma Bayerl
+235,The Elegance of the Hedgehog,Muriel Barbery,20,Yun Depue
+236,"Get Out of My Life, but First Could You Drive Me & Cheryl to the Mall?",Anthony E. Wolf,26,Joesph Mountain
+237,"Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch",Terry Pratchett,17,Neoma Brill
+238,"Freakonomics: A Rogue Economist Explores the Hidden Side of Everything (Freakonomics, #1)",Steven D. Levitt,43,Jennette Hild
+239,A Farewell to Arms,Ernest Hemingway,8,Charline Weast
+240,Avoiding Prison and Other Noble Vacation Goals: Adventures in Love and Danger,Wendy Dale,33,Chang Lusher
+241,"Blood on the Snow (The Soldier Chronicles, #3)",David        Cook,9,Phylicia Seymour
+242,"Pardon Me, You're Stepping on My Eyeball",Paul Zindel,28,Carmela Louque
+243,The Flawless Skin of Ugly People,Doug Crandell,43,Jennette Hild
+244,"My Family and Other Animals (Corfu Trilogy, #1)",Gerald Durrell,19,Christian Lowrie
+245,"No Sex Please, I'm Menopausal!",Stevie Turner,42,Domingo Knoblock
+246,Carp Fishing on Valium,Graham Parker,14,Jeanett Early
+247,The Absolutely True Diary of a Part-Time Indian,Sherman Alexie,17,Neoma Brill
+248,The Kite Runner,Khaled Hosseini,25,Ted Hamlett
+249,"Leave Me Alone, I'm Reading: Finding and Losing Myself in Books",Maureen Corrigan,26,Joesph Mountain
+250,"The Hunt for Red October (Jack Ryan Universe, #4)",Tom Clancy,12,Velva Philips
+251,"Rode Hard, Put Up Wet (Rough Riders, #2)",Lorelei James,30,Adelaide Mccaskill
+252,I Have the Right to Destroy Myself,Young-Ha Kim,2,Renate Sheets
+253,The Driver's Guide to Hitting Pedestrians,Andersen Prunty,3,Yolonda Dye
+254,Come On Shore and We Will Kill and Eat You All: A New Zealand Story,Christina Thompson,31,Mikki Faith
+255,Even Cowgirls Get the Blues,Tom Robbins,13,Ruben Loyd
+256,Elephants on Acid: And Other Bizarre Experiments,Alex Boese,34,Raquel Harcrow
+257,"Moby-Duck: The True Story of 28,800 Bath Toys Lost at Sea and of the Beachcombers, Oceanographers, Environmentalists, and Fools, Including the Author, Who Went in Search of Them",Donovan Hohn,16,Milford Oxley
+258,Still Life with Woodpecker,Tom Robbins,40,Roxann Northup
+259,Shadows of Atlantis: Awakening,Mara Powers,35,Kathe Stancill
+260,The Fuck-Up,Arthur Nersesian,45,Shonda Sidoti
+261,"Finding Hope in the Darkness of Grief: Spiritual Insights Expressed Through Art, Poetry and Prose",Diamante Lavendar,29,Marietta Mattos
+262,"Watership Down (Watership Down, #1)",Richard  Adams,42,Domingo Knoblock
+263,"Knocked Out by My Nunga-Nungas (Confessions of Georgia Nicolson, #3)",Louise Rennison,43,Jennette Hild
+264,The Clumsiest People in Europe,Favell Lee Mortimer,15,Ivey Fiorini
+265,Shot Down: The True Story of Pilot Howard Snyder and the Crew of the B-17 Susan Ruth,Steve Snyder,24,Abdul Mcdivitt
+266,"The Sweetness at the Bottom of the Pie (Flavia de Luce, #1)",Alan Bradley,16,Milford Oxley
+267,The Art of Startup Fundraising,Alejandro Cremades,22,Qiana Restrepo
+268,"I'm Ok, You're Not So Hot",Dolph Sharp,35,Kathe Stancill
+269,"A Swiftly Tilting Planet (Time Quintet, #3)",Madeleine L'Engle,31,Mikki Faith
+270,"First Among Sequels (Thursday Next, #5)",Jasper Fforde,1,Rosalyn Overfelt
+271,Play the Piano Drunk Like a Percussion Instrument Until the Fingers Begin to Bleed a Bit,Charles Bukowski,31,Mikki Faith
+272,Sexting,G.B. Hope,37,Risa Woolridge
+273,A Room of One's Own,Virginia Woolf,32,Adena Macrae
+274,Sippy Cups Are Not for Chardonnay: And Other Things I Had to Learn as a New Mom,Stefanie Wilder-Taylor,29,Marietta Mattos
+275,Desolation Angels,Jack Kerouac,33,Chang Lusher
+276,"I Kissed a Zombie, and I Liked It",Adam Selzer,26,Joesph Mountain
+277,Paradise Lost,John Milton,49,Jodee Roger
+278,All My Friends Are Going to Be Strangers,Larry McMurtry,40,Roxann Northup
+279,Her Fearful Symmetry,Audrey Niffenegger,46,Bruno Prudhomme
+280,Let the Right One In,John Ajvide Lindqvist,6,Ferne Mcgaha
+281,Love is the Answer God is the Cure,Aimee Cabo Nikolov,37,Risa Woolridge
+282,The Bell Jar,Sylvia Plath,4,Ena Finch
+283,"The Life and Opinions of Tristram Shandy, Gentleman",Laurence Sterne,25,Ted Hamlett
+284,Silent Spring,Rachel Carson,3,Yolonda Dye
+285,My Boys Can Swim!: The Official Guy's Guide to Pregnancy,Ian Davis,8,Charline Weast
+286,"Ask the Dust (The Saga of Arthur Bandini, #3)",John Fante,8,Charline Weast
+287,"Cooking with Pooh: Yummy Tummy Cookie Cutter Treats, with Four Cookie Cutters",Walt Disney Company,19,Christian Lowrie
+288,Wishful Drinking,Carrie Fisher,1,Rosalyn Overfelt
+289,Calico Jack in your Garden,Karl Wiggins,8,Charline Weast
+290,A Connecticut Yankee in King Arthur's Court,Mark Twain,20,Yun Depue
+291,Pride and Prejudice,Jane Austen,41,Hellen Vives
+292,An Artist of the Floating World,Kazuo Ishiguro,20,Yun Depue
+293,Dakota Son,Mary Ramsey,40,Roxann Northup
+294,Microserfs,Douglas Coupland,23,Danial Tidwell
+295,"Mistress of the Art of Death (Mistress of the Art of Death, #1)",Ariana Franklin,17,Neoma Brill
+296,The Tough Coughs As He Ploughs the Dough: Early Writings and Cartoons,Dr. Seuss,24,Abdul Mcdivitt
+297,"The Da Vinci Code (Robert Langdon, #2)",Dan Brown,4,Ena Finch
+298,"The Shadow of the Wind (The Cemetery of Forgotten Books, #1)",Carlos Ruiz Zafón,50,Ginger Sease
+299,Fire of Stars and Dragons (Stars and Souls #1),Melissa Petreshock,40,Roxann Northup
+300,His Dark Materials (His Dark Materials #1-3),Philip Pullman,3,Yolonda Dye
+301,A Brief History of Time,Stephen Hawking,7,Yasuko Belknap
+302,The Wind-Up Bird Chronicle,Haruki Murakami,40,Roxann Northup
+303,The Remains of the Day,Kazuo Ishiguro,39,Vada Touchette
+304,The Yiddish Policemen's Union,Michael Chabon,45,Shonda Sidoti
+305,"Hold Me Closer, Necromancer (Necromancer, #1)",Lish McBride,23,Danial Tidwell
+306,Grit: The Banter and Brutality of the Late-Night Cab,Karl Wiggins,22,Qiana Restrepo
+307,"Wood, Talc and Mr. J",Chris   Rose,14,Jeanett Early
+308,"Captain Underpants and the Invasion of the Incredibly Naughty Cafeteria Ladies from Outer Space and the Subsequent Assault of the Equally Evil Lunchroom Zombie Nerds (Captain Underpants, #3)",Dav Pilkey,31,Mikki Faith
+309,Sexing the Cherry,Jeanette Winterson,18,Bradford Santini
+310,"Sorcery & Cecelia: or The Enchanted Chocolate Pot (Cecelia and Kate, #1)",Patricia C. Wrede,11,Nathalie Helbing
+311,"The Big Sleep (Philip Marlowe, #1)",Raymond Chandler,7,Yasuko Belknap
+312,Jacob Have I Loved,Katherine Paterson,20,Yun Depue
+313,Cheese Problems Solved,P.L.H. McSweeney,45,Shonda Sidoti
+314,The Things They Carried,Tim O'Brien,47,Jonah Cardamone
+315,A Curse Dark as Gold,Elizabeth C. Bunce,17,Neoma Brill
+316,"Holes (Holes, #1)",Louis Sachar,36,Elma Bayerl
+317,"Lost in a Good Book (Thursday Next, #2)",Jasper Fforde,31,Mikki Faith
+318,The Melancholy Death of Oyster Boy and Other Stories,Tim Burton,48,Alethea Cornish
+319,"The Secret Diary of Adrian Mole, Aged 13 3/4 (Adrian Mole #1)",Sue Townsend,45,Shonda Sidoti
+320,Swish: My Quest to Become the Gayest Person Ever and What Ended Up Happening Instead,Joel Derfner,28,Carmela Louque
+321,"Will You Please Be Quiet, Please?",Raymond Carver,17,Neoma Brill
+322,This Book Does Not Exist Adventures In The Paradoxical,Gary Hayden,45,Shonda Sidoti
+323,"Miss Peregrine's Home for Peculiar Children (Miss Peregrine's Peculiar Children, #1)",Ransom Riggs,19,Christian Lowrie
+324,A Tale of Two Cities,Charles Dickens,26,Joesph Mountain
+325,All Shall Be Well; And All Shall Be Well; And All Manner of Things Shall Be Well,Tod Wodicka,37,Risa Woolridge
+326,Hotel on the Corner of Bitter and Sweet,Jamie Ford,24,Abdul Mcdivitt
+327,The Naked and the Dead,Norman Mailer,45,Shonda Sidoti
+328,Slouching Towards Bethlehem,Joan Didion,1,Rosalyn Overfelt
+329,"A Canticle for Leibowitz (St. Leibowitz, #1)",Walter M. Miller Jr.,1,Rosalyn Overfelt
+330,Meeting With Christ and Other Poems,Deepak Chaswal,1,Rosalyn Overfelt
+331,Unwifeable: A Memoir,Mandy Stadtmiller,48,Alethea Cornish
+332,To Live and Drink in L.A.,Ben Peller,14,Jeanett Early
+333,The Outsiders,S.E. Hinton,8,Charline Weast
+334,"My Life as a White Trash Zombie (White Trash Zombie, #1)",Diana Rowland,9,Phylicia Seymour
+335,The Gates to Love and War,Janie Pendleton,36,Elma Bayerl
+336,The Book Thief,Markus Zusak,42,Domingo Knoblock
+337,What's Your Poo Telling You?,Josh Richman,21,Austin Osborn
+338,"Attack Of The Unsinkable Rubber Ducks (Jack Parlabane, #5)",Christopher Brookmyre,17,Neoma Brill
+339,Tell the Wolves I'm Home,Carol Rifka Brunt,22,Qiana Restrepo
+340,Memories of My Melancholy Whores,Gabriel García Márquez,25,Ted Hamlett
+341,The Invention of Everything Else,Samantha Hunt,41,Hellen Vives
+342,Bonk: The Curious Coupling of Science and Sex,Mary Roach,31,Mikki Faith
+343,The Playboy Sheikh's Virgin Stable-Girl (The Royal House of Karedes #2),Sharon Kendrick,37,Risa Woolridge
+344,All Families are Psychotic,Douglas Coupland,33,Chang Lusher
+345,The Ballad of a Slow Poisoner,Andrew Goldfarb,24,Abdul Mcdivitt
+346,A Midsummer Night's Dream,William Shakespeare,35,Kathe Stancill
+347,The Stars My Destination,Alfred Bester,32,Adena Macrae
+348,The Bridge To Caracas (The King Trilogy #1),Stephen Douglass,24,Abdul Mcdivitt
+349,We Need to Talk About Kevin,Lionel Shriver,18,Bradford Santini
+350,"The Hangman's Beautiful Daughter (Ballad, #2)",Sharyn McCrumb,13,Ruben Loyd
+351,Everything Is Illuminated,Jonathan Safran Foer,9,Phylicia Seymour
+352,A Short History of Nearly Everything,Bill Bryson,17,Neoma Brill
+353,Island of the Sequined Love Nun,Christopher Moore,15,Ivey Fiorini
+354,"Women, Fire, and Dangerous Things: What Categories Reveal About the Mind",George Lakoff,48,Alethea Cornish
+355,"My Darling, My Hamburger",Paul Zindel,43,Jennette Hild
+356,"Bimbos of the Death Sun (Jay Omega, #1)",Sharyn McCrumb,1,Rosalyn Overfelt
+357,"Abraham Lincoln: Vampire Hunter (Abraham Lincoln: Vampire Hunter, #1)",Seth Grahame-Smith,38,Shante Phoenix
+358,The Sweet Far Thing,Libba Bray,30,Adelaide Mccaskill
+359,Someday This Pain Will Be Useful to You,Peter Cameron,42,Domingo Knoblock
+360,P.S. Your Cat Is Dead,James Kirkwood Jr.,33,Chang Lusher
+361,The Kalahari Typing School for Men (No. 1 Ladies' Detective Agency #04),Alexander McCall Smith,12,Velva Philips
+362,Oldest Living Confederate Widow Tells All,Allan Gurganus,19,Christian Lowrie
+363,The Violent Bear It Away,Flannery O'Connor,21,Austin Osborn
+364,The Strange Case of Origami Yoda (Origami Yoda #1),Tom Angleberger,37,Risa Woolridge
+365,Don't Step in the Leadership (Dilbert #13),Scott Adams,3,Yolonda Dye
+366,Dancing Shoes and Honky-Tonk Blues,Luann McLane,14,Jeanett Early
+367,"Good Morning, Midnight",Jean Rhys,5,Major Kintner
+368,From Here to Eternity,James  Jones,39,Vada Touchette
+369,Fierce Invalids Home from Hot Climates,Tom Robbins,1,Rosalyn Overfelt
+370,The Disreputable History of Frankie Landau-Banks,E. Lockhart,45,Shonda Sidoti
+371,Family - The Ties that Bind...And Gag!,Erma Bombeck,16,Milford Oxley
+372,A Language Older Than Words,Derrick Jensen,34,Raquel Harcrow
+373,"You Are So Undead to Me (Megan Berry, #1)",Stacey Jay,8,Charline Weast
+374,The Master and Margarita,Mikhail Bulgakov,50,Ginger Sease
+375,"For Darkness Shows the Stars (For Darkness Shows the Stars, #1)",Diana Peterfreund,5,Major Kintner
+376,Been Down So Long It Looks Like Up To Me,Richard Fariña,40,Roxann Northup
+377,"To Say Nothing of the Dog (Oxford Time Travel, #2)",Connie Willis,47,Jonah Cardamone
+378,Prom Nights from Hell,Meg Cabot,24,Abdul Mcdivitt
+379,"Size 12 Is Not Fat (Heather Wells, #1)",Meg Cabot,28,Carmela Louque
+380,The Metamorphosis,Franz Kafka,49,Jodee Roger
+381,The Day of the Jackal,Frederick Forsyth,46,Bruno Prudhomme
+382,World War Z: An Oral History of the Zombie War,Max Brooks,20,Yun Depue
+383,"Broken Point (The Wayward Gifted, #1)",Donna K. Childree,16,Milford Oxley
+384,A Girl Named Zippy,Haven Kimmel,41,Hellen Vives
+385,Swamp Foetus,Poppy Z. Brite,3,Yolonda Dye
+386,"Captain Underpants and the Wrath of the Wicked Wedgie Woman (Captain Underpants, #5)",Dav Pilkey,42,Domingo Knoblock
+387,"Life As I Blow It: Tales Of Love, Life & Sex . . . Not Necessarily In That Order",Sarah Colonna,8,Charline Weast
+388,Atonement,Ian McEwan,23,Danial Tidwell
+389,Catapult Soul,Brian Celio,21,Austin Osborn
+390,Words are our Sorcery,Karl Wiggins,23,Danial Tidwell
+391,"The Sisterhood of the Traveling Pants (Sisterhood, #1)",Ann Brashares,49,Jodee Roger
+392,"This Book Is Not Good for You (Secret, #3)",Pseudonymous Bosch,26,Joesph Mountain
+393,Brief Interviews with Hideous Men,David Foster Wallace,5,Major Kintner
+394,"Night of the Avenging Blowfish: A Novel of Covert Operations, Love, and Luncheon Meat",John Welter,28,Carmela Louque
+395,"The Salmon of Doubt (Dirk Gently, #3)",Douglas Adams,33,Chang Lusher
+396,Houdini Heart,Ki Longfellow,49,Jodee Roger
+397,Genie-Alogy,H.B.  Morris,16,Milford Oxley
+398,The God Eaters,Jesse Hajicek,1,Rosalyn Overfelt
+399,Foop!,Chris Genoa,1,Rosalyn Overfelt
+400,Breakfast of Champions,Kurt Vonnegut,21,Austin Osborn
+401,"Tie Me Up, Tie Me Down (B.A.D. Agency, #0.5; Vikings Underground, #2)",Sherrilyn Kenyon,45,Shonda Sidoti
+402,"Blood Meridian, or the Evening Redness in the West",Cormac McCarthy,28,Carmela Louque
+403,How Stella Got Her Groove Back,Terry McMillan,46,Bruno Prudhomme
+404,Nick & Norah's Infinite Playlist,Rachel Cohn,36,Elma Bayerl
+405,Instruction Manual for the 21st Century Samurai,Alexei Maxim Russell,47,Jonah Cardamone
+406,Bastard Out of Carolina,Dorothy Allison,6,Ferne Mcgaha
+407,Like a Lampshade in a Whorehouse: My Life in Comedy,Phyllis Diller,50,Ginger Sease
+408,My Life and Hard Times,James Thurber,45,Shonda Sidoti
+409,The Phantom Tollbooth,Norton Juster,31,Mikki Faith
+410,"Mostly Harmless (Hitchhiker's Guide to the Galaxy, #5)",Douglas Adams,49,Jodee Roger
+411,When I Was Five I Killed Myself,Howard Buten,30,Adelaide Mccaskill
+412,A Portrait of the Artist as a Young Man,James Joyce,9,Phylicia Seymour
+413,"Angela's Ashes (Frank McCourt, #1)",Frank McCourt,20,Yun Depue
+414,The Lathe of Heaven,Ursula K. Le Guin,17,Neoma Brill
+415,God Is Not Great: How Religion Poisons Everything,Christopher Hitchens,50,Ginger Sease
+416,Wuthering Heights,Emily Brontë,2,Renate Sheets
+417,"The Girl Who Played with Fire (Millennium, #2)",Stieg Larsson,25,Ted Hamlett
+418,If Chins Could Kill: Confessions of a B Movie Actor,Bruce Campbell,18,Bradford Santini
+419,The Indian in the Cupboard,Lynne Reid Banks,24,Abdul Mcdivitt
+420,The Help,Kathryn Stockett,35,Kathe Stancill
+421,"Because It Is Bitter, and Because It Is My Heart",Joyce Carol Oates,29,Marietta Mattos
+422,The Handmaid's Tale,Margaret Atwood,50,Ginger Sease
+423,"I Loved, I Lost, I Made Spaghetti",Giulia Melucci,41,Hellen Vives
+424,Sh*t My Dad Says,Justin Halpern,6,Ferne Mcgaha
+425,Buddy Holly is Alive and Well on Ganymede,Bradley Denton,40,Roxann Northup
+426,"You Don't Have to Be Evil to Work Here, But it Helps (J. W. Wells & Co., #4)",Tom Holt,40,Roxann Northup
+427,When Bad Christians Happen to Good People: Where We Have Failed Each Other and How to Reverse the Damage,Dave Burchett,28,Carmela Louque
+428,Alice's Adventures in Wonderland & Through the Looking-Glass,Lewis Carroll,17,Neoma Brill
+429,"Anna Dressed in Blood (Anna, #1)",Kendare Blake,23,Danial Tidwell
+430,Queen Victoria: Demon Hunter,A.E. Moorat,24,Abdul Mcdivitt
+431,The Sugar Frosted Nutsack,Mark Leyner,10,Anthony Haddox
+432,Three Cups of Tea: One Man's Mission to Promote Peace ... One School at a Time,Greg Mortenson,33,Chang Lusher
+433,Round Ireland with a Fridge,Tony Hawks,35,Kathe Stancill
+434,Last Exit to Brooklyn,Hubert Selby Jr.,39,Vada Touchette
+435,Foreskin's Lament,Shalom Auslander,43,Jennette Hild
+436,Interpreter of Maladies,Jhumpa Lahiri,50,Ginger Sease
+437,Pissing in the Gene Pool,Henry Rollins,34,Raquel Harcrow
+438,Most Of Us Are Here Against Our Will,David Samuel Levinson,38,Shante Phoenix
+439,"The Glass Books of the Dream Eaters (Miss Temple, Doctor Svenson, and Cardinal Chang, #1)",Gordon Dahlquist,21,Austin Osborn
+440,"I'd Tell You I Love You, But Then I'd Have to Kill You (Gallagher Girls, #1)",Ally Carter,33,Chang Lusher
+441,After the Funeral: The Posthumous Adventures of Famous Corpses,Edwin Murphy,41,Hellen Vives
+442,Bobby's Girl,Bernie Morris,25,Ted Hamlett
+443,The Velveteen Rabbit,Margery Williams Bianco,50,Ginger Sease
+444,Bonjour tristesse,Françoise Sagan,30,Adelaide Mccaskill
+445,The Statistical Probability of Love at First Sight,Jennifer E. Smith,9,Phylicia Seymour
+446,The Stand,Stephen King,1,Rosalyn Overfelt
+447,"The Lion, the Witch and the Wardrobe (Chronicles of Narnia, #1)",C.S. Lewis,35,Kathe Stancill
+448,The Moor's Last Sigh,Salman Rushdie,4,Ena Finch
+449,At Swim-Two-Birds,Flann O'Brien,42,Domingo Knoblock
+450,Yertle the Turtle and Other Stories,Dr. Seuss,35,Kathe Stancill
+451,"Click, Clack, Moo: Cows That Type",Doreen Cronin,8,Charline Weast
+452,The Atrocity Exhibition,J.G. Ballard,27,Cherlyn Dabrowski
+453,"I Am Half-Sick of Shadows (Flavia de Luce, #4)",Alan Bradley,36,Elma Bayerl
+454,"Under the Never Sky (Under the Never Sky, #1)",Veronica Rossi,29,Marietta Mattos
+455,I Been in Sorrow's Kitchen and Licked Out All the Pots,Susan Straight,28,Carmela Louque
+456,"The Reapers are the Angels (Reapers, #1)",Alden Bell,41,Hellen Vives
+457,The Color of Water: A Black Man's Tribute to His White Mother,James McBride,46,Bruno Prudhomme
+458,Messages From Heaven,Collette Sinclaire,17,Neoma Brill
+459,"Zombies of the Gene Pool (Jay Omega, #2)",Sharyn McCrumb,23,Danial Tidwell
+460,Assassination Vacation,Sarah Vowell,47,Jonah Cardamone
+461,"Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe, #1)",Benjamin Alire Sáenz,2,Renate Sheets
+462,Flyboy Action Figure Comes with Gas Mask,Jim Munroe,3,Yolonda Dye
+463,"Chose the Wrong Guy, Gave Him the Wrong Finger",Beth Harbison,45,Shonda Sidoti
+464,The Three Stigmata of Palmer Eldritch,Philip K. Dick,33,Chang Lusher
+465,The Girl Who Chased the Moon,Sarah Addison Allen,26,Joesph Mountain
+466,Trick My Truck But Don't Mess With My Heart,Luann McLane,12,Velva Philips
+467,A Great Big Ugly Man Came Up and Tied His Horse to Me,Wallace Tripp,30,Adelaide Mccaskill
+468,The Tenderness of Wolves,Stef Penney,40,Roxann Northup
+469,The Hobbit,J.R.R. Tolkien,10,Anthony Haddox
+470,How to Rule the World: A Handbook for the Aspiring Dictator,André de Guillaume,15,Ivey Fiorini
+471,Llama Llama Mad at Mama,Anna Dewdney,30,Adelaide Mccaskill
+472,Dead Man Walking: The Eyewitness Account of the Death Penalty That Sparked a National Debate,Helen Prejean,4,Ena Finch
+473,"Wicked Lovely (Wicked Lovely, #1)",Melissa Marr,37,Risa Woolridge
+474,Six Characters in Search of an Author and Other Plays,Luigi Pirandello,46,Bruno Prudhomme
+475,"The Weed That Strings the Hangman's Bag (Flavia de Luce, #2)",Alan Bradley,13,Ruben Loyd
+476,Oral Sadism and the Vegetarian Personality: Reading from the Journal of Polymorphous Perversity,Glenn C. Ellenbogen,46,Bruno Prudhomme
+477,A Walk to Remember,Nicholas Sparks,8,Charline Weast
+478,Life 101 : Everything We Wish We Had Learned About Life in School -- But Didn't (The Life 101 Series),Peter McWilliams,11,Nathalie Helbing
+479,The Pelican Brief,John Grisham,3,Yolonda Dye
+480,"Fat White Vampire Blues (Fat White Vampire, #1)",Andrew Fox,27,Cherlyn Dabrowski
+481,The League for the Suppression of Celery,Wendy Russ,14,Jeanett Early
+482,Paddy Clarke Ha Ha Ha,Roddy Doyle,25,Ted Hamlett
+483,The Englishman Who Went Up a Hill and Came Down a Mountain,Christopher Monger,15,Ivey Fiorini
+484,"The Hound of the Baskervilles (Sherlock Holmes, #5)",Arthur Conan Doyle,11,Nathalie Helbing
+485,The Girl on the Train,Paula Hawkins,8,Charline Weast
+486,"Eclipse (Twilight, #3)",Stephenie Meyer,45,Shonda Sidoti
+487,"Daughter of Smoke & Bone (Daughter of Smoke & Bone, #1)",Laini Taylor,27,Cherlyn Dabrowski
+488,The Well of Lost Plots (Thursday Next #3),Jasper Fforde,34,Raquel Harcrow
+489,"Midnight Sun (Twilight, #1.5)",Stephenie Meyer,26,Joesph Mountain
+490,In Me Own Words: The Autobiography of Bigfoot,Graham Roumieu,3,Yolonda Dye
+491,Rats Saw God,Rob Thomas,39,Vada Touchette
+492,Her Smoke Rose Up Forever,James Tiptree Jr.,35,Kathe Stancill
+493,The Satanic Bible,Anton Szandor LaVey,50,Ginger Sease
+494,I Wish Someone Were Waiting for Me Somewhere,Anna Gavalda,8,Charline Weast
+495,They Cage the Animals at Night,Jennings Michael Burch,17,Neoma Brill
+496,Eternal Curse on the Reader of These Pages,Manuel Puig,13,Ruben Loyd
+497,Where the Sidewalk Ends,Shel Silverstein,37,Risa Woolridge
+498,The Complete Idiot's Guide to Being a Model,Roshumba Williams,45,Shonda Sidoti
+499,The Colony of Unrequited Dreams,Wayne Johnston,40,Roxann Northup
+500,From the Mixed-Up Files of Mrs. Basil E. Frankweiler,E.L. Konigsburg,40,Roxann Northup
