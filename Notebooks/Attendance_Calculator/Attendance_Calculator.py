@@ -1,9 +1,10 @@
 # Computational Libraries
-import pandas as pd
-import numpy as np
-import seaborn as sns
+from pandas import DataFrame
+from matplotlib.pyplot import subplots
+from numpy import array, floor 
+from six import iteritems
 # For sleep method
-import time
+from time import sleep, perf_counter
 # Configuration File
 import config
 # Selenium (for fetching data)
@@ -14,10 +15,35 @@ from selenium.webdriver.common.keys import Keys
 
 # ### Importing Libraries
 
+# DataFrame to Table Converting Function
+def render_mpl_table(data, col_width=3.0, row_height=3.5, font_size=32,
+                     header_color='#40466e', row_colors=['#f5f5f5', 'w'], edge_color='black',
+                     bbox=[0, 0, 1, 1], header_columns=0,
+                     ax=None, **kwargs):
+    if ax is None:
+        size = (array(data.shape[::-1]) + array([0, 1])) * array([col_width, row_height])
+        fig, ax = subplots(figsize=size)
+        ax.axis('off')
+
+    mpl_table = ax.table(cellText=data.values, bbox=bbox, colLabels=data.columns, **kwargs)
+
+    mpl_table.auto_set_font_size(False)
+    mpl_table.set_fontsize(font_size)
+
+    for k, cell in  iteritems(mpl_table._cells):
+        cell.set_edgecolor(edge_color)
+        if k[0] == 0 or k[1] < header_columns:
+            cell.set_text_props(weight='bold', color='w')
+            cell.set_facecolor(header_color)
+        else:
+            cell.set_facecolor(row_colors[k[0]%len(row_colors) ])
+    return ax
+
+
 def Main():
     # ##### Starting Execution Timer
 
-    start_time = time.perf_counter()
+    start_time = perf_counter()
 
     # ### Fetching Data from ERP
 
@@ -40,12 +66,12 @@ def Main():
     p = driver.find_element_by_name(config.PASS_ID)
     p.send_keys(PASS)
     p.send_keys(Keys.RETURN)
-    time.sleep(3)
+    sleep(3)
 
     try:
         attendance = driver.find_element_by_id("aAttandance")
     except:
-        time.sleep(3)
+        sleep(3)
         attendance = driver.find_element_by_id("aAttandance")
 
     attendance.click()
@@ -69,7 +95,7 @@ def Main():
 
     somelist = [i for j, i in enumerate(somelist) if j not in range(3, len(somelist), 4)]
 
-    arr = np.array(list(map(int, somelist))).reshape(6, 3)[:, 1:]
+    arr = array(list(map(int, somelist))).reshape(6, 3)[:, 1:]
     
     # ### Initializing Subjects
 
@@ -93,7 +119,7 @@ def Main():
 
     # ### Converting to Pandas DataFrame
 
-    df = pd.DataFrame(total, index=config.ATTRIBUTES)
+    df = DataFrame(total, index=config.ATTRIBUTES)
 
     df = df.T
 
@@ -111,9 +137,9 @@ def Main():
 
     # ### Calculating Bunks
 
-    df["Bunks Left"] = np.floor((thresh * df["Total"]) - (df["Absent"]))
+    df["Bunks Left"] = floor((thresh * df["Total"]) - (df["Absent"]))
 
-    df["Total Bunks"] = np.floor((thresh * df["Total"]))
+    df["Total Bunks"] = floor((thresh * df["Total"]))
 
     # ##### Displaying Code Execution Time
 
@@ -127,7 +153,9 @@ def Main():
         bks.annotate(format(q.get_height(), '.2f'), (q.get_x() + q.get_width() / 2., q.get_height()), ha = 'center', va = 'center', xytext = (0, 10), textcoords = 'offset points')
     bks.get_figure().savefig("MyBunks.png", dpi=100)
     
-    end_time = time.perf_counter() - start_time
+    render_mpl_table(df, header_columns=1, col_width=7).get_figure().savefig("AttendanceDetails.png", dpi=30)
+
+    end_time = perf_counter() - start_time
     print("Automation executed in", end_time, "seconds")
 
 
