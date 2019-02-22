@@ -1,0 +1,3 @@
+title=Hello_World
+author=Aaditya
+orientation=portrait
