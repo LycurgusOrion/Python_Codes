@@ -172,9 +172,6 @@ Builder.load_string("""
 		pos_hint:{"x":0.5,"y":0.47}
 		multiline:False
 		password:True
-    
-    
-	
 		
 <Button>:
 	color:1,1,1,1
@@ -182,10 +179,8 @@ Builder.load_string("""
 	size_hint:0.3,0.1
 """)
 
-
 class whoscreen(Screen):
     pass
-
 
 class retailerscreen(Screen):
 
